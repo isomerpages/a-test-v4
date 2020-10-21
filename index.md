@@ -10,11 +10,13 @@ sections:
       title: Hero title
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: Hero Dropdown Element Title
-            url: /faq/
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: /faq/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: /faq/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
