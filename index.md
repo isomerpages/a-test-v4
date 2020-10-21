@@ -16,7 +16,6 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: /faq/
-      dropdown: ''
   - infobar:
       title: Infobar title
       subtitle: Subtitle
