@@ -10,8 +10,8 @@ sections:
       title: Hero title
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: ''
-      url: ''
+      button: Test
+      url: /faq/
       key_highlights:
         - title: Key Highlight Title
           description: Key Highlight description
