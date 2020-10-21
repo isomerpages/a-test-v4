@@ -4,7 +4,7 @@ title: Test title
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ''
+notification: Test notification
 sections:
   - hero:
       title: Hero title
