@@ -22,7 +22,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-        - title: Key Highlight Title
+        - title: Key Highlight Title test
           description: Key Highlight description
           url: /faq/
   - infobar:
