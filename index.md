@@ -27,5 +27,13 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      url: /faq/
+      imageUrl: /images/favicon-isomer.ico
+      imageAlt: Image alt text
 subtitle: test subtitle
 ---
