@@ -36,5 +36,6 @@ sections:
       imageUrl: /images/favicon-isomer.ico
       imageAlt: Image alt text
       image: /images/favicon-isomer.ico
+      alt: test alt
 subtitle: test subtitle
 ---
