@@ -18,7 +18,6 @@ colors:
 collections:
   test:
     output: true
-resources_name: Posts
 permalink: none
 baseurl: ''
 exclude:

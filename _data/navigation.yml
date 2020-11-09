@@ -15,5 +15,3 @@ links:
     url: /terms-of-use/
   - title: Test
     collection: test
-  - title: Posts
-    resource_room: true
