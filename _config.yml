@@ -18,9 +18,6 @@ colors:
 collections:
   test:
     output: true
-  test-3:
-    permalink: '/:collection/:path/:title'
-    output: true
 permalink: none
 baseurl: ''
 exclude:
