@@ -21,6 +21,9 @@ collections:
   test 2 electric boogaloo:
     permalink: '/:collection/:path/:title'
     output: true
+  test 3:
+    permalink: '/:collection/:path/:title'
+    output: true
 permalink: none
 baseurl: ''
 exclude:
