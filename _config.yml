@@ -60,4 +60,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-resources_name: testing-room
