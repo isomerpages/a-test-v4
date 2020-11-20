@@ -1,0 +1,6 @@
+---
+title: same
+permalink: /same
+---
+
+
