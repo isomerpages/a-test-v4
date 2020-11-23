@@ -19,7 +19,9 @@ locations:
     address:
       - 109 North Bridge Road
       - Singapore 179097
+      - ''
     maps_link: 'https://goo.gl/maps/C8VfxphGxT2GsfcaA'
+    operating_hours: []
 contacts:
   - title: General Enquiries & Feedback
     content:
@@ -28,6 +30,7 @@ contacts:
       - other: Any text here <i>including HTML</i>
   - title: Careers
     content:
+      - phone: ''
       - email: careers@abc.gov.sg
+      - other: ''
 ---
-test contact
