@@ -10,3 +10,5 @@ links:
     collection: test
   - title: Test 4
     collection: test-4
+  - title: Resource Room Create Test
+    resource_room: true
