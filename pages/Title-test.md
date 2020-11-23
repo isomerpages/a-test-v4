@@ -1,8 +1,10 @@
 ---
-title: Title-test
-permalink: //test 2//test 3//test 2//test/permalink-test-again
+title: title-test
+permalink: /permalink-temp2
 ---
 
 
 
 
+![Both upload and insert](/images/cat54.jpeg)![Other cat](/images/cat.jpeg)
+![](/images/Thinking-of-getting-a-cat.png)
