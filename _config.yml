@@ -27,6 +27,9 @@ collections:
   super duper extra hyper ultra double triple quadruple long folder name:
     permalink: '/:collection/:path/:title'
     output: true
+  test-4:
+    permalink: '/:collection/:path/:title'
+    output: true
 permalink: none
 baseurl: ''
 exclude:
