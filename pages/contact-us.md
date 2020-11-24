@@ -26,10 +26,25 @@ locations:
     maps_link: 'https://goo.gl/maps/C8VfxphGxT2GsfcaA'
     operating_hours: []
   - address:
-      - South East Asia 1
-      - '#01-123'
-      - ''
+      - 999 Santa Cruz Ave
+      - Garage Door
+      - Menlo Park 94023
     title: American Office
+    operating_hours:
+      - days: Monday
+        time: 1am-1.15am
+        description: Just for 15 minutes
+      - days: Tuesday
+        time: 1.15am-2am
+        description: 45 mins this time
+      - days: All days
+        time: All Hours
+        description: Just kidding we're never open
+  - address:
+      - 123 Maple Syrup Drive
+      - '#01-23'
+      - BC 12391
+    title: Canadian Office
     operating_hours: []
 contacts: []
 ---
