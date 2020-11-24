@@ -37,4 +37,9 @@ contacts:
       - email: career@email.com
       - other: ''
     title: A New Contact
+  - content:
+      - phone: '+62323123'
+      - email: ''
+      - other: Some random description of contact
+    title: Another new contact
 ---
