@@ -15,6 +15,9 @@ locations:
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
+      - days: Holidays
+        time: Closed
+        description: ''
   - title: Branch Office
     address:
       - 109 North Bridge Road
