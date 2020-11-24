@@ -31,5 +31,10 @@ locations:
       - ''
     title: American Office
     operating_hours: []
-contacts: []
+contacts:
+  - content:
+      - phone: +65 3829 3489
+      - email: career@email.com
+      - other: ''
+    title: A New Contact
 ---
