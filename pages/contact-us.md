@@ -31,15 +31,5 @@ locations:
       - ''
     title: American Office
     operating_hours: []
-contacts:
-  - content:
-      - phone: +65 3829 3489
-      - email: career@email.com
-      - other: ''
-    title: A New Contact
-  - content:
-      - phone: '+62323123'
-      - email: ''
-      - other: Some random description of contact
-    title: Another new contact
+contacts: []
 ---
