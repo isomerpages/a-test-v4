@@ -8,13 +8,11 @@ notification: ''
 sections:
   - hero:
       background: /images/hero-banner.png
-      key_highlights:
-        - title: ''
-          description: Key Highlight description
-          url: /faq/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: /faq/
+      dropdown:
+        title: Hero Dropdown Title
+        options:
+          - title: Hero Dropdown Element test
+            url: ''
   - infobar:
       subtitle: Subtitle
       button: Button text
