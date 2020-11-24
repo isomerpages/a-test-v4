@@ -46,5 +46,25 @@ locations:
       - BC 12391
     title: Canadian Office
     operating_hours: []
-contacts: []
+contacts:
+  - content:
+      - phone: +54 2032 32490
+      - email: english@email.com
+      - other: ''
+    title: Hotline 1
+  - content:
+      - phone: +43 1230 12312
+      - email: ''
+      - other: We respond within 25 days.
+    title: Hotline 2
+  - content:
+      - phone: ''
+      - email: 3@email.com
+      - other: Emails are automatically deleted before receipt.
+    title: Hotline 3
+  - content:
+      - phone: ''
+      - email: ''
+      - other: We <b>won't pick up the phone or read emails. </b> Don't contact us.
+    title: Hotline 4
 ---
