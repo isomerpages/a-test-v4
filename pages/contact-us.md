@@ -31,20 +31,5 @@ locations:
       - ''
     title: American Office
     operating_hours: []
-contacts:
-  - title: General Enquiries & Feedback
-    content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-      - phone: ''
-      - email: careers@abc.gov.sg
-      - other: ''
-  - content:
-      - phone: +65 1239 9201
-      - email: testemail@mail.io
-      - other: ''
-    title: Other stuff
+contacts: []
 ---
