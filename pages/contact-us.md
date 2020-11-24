@@ -22,6 +22,12 @@ locations:
       - ''
     maps_link: 'https://goo.gl/maps/C8VfxphGxT2GsfcaA'
     operating_hours: []
+  - address:
+      - South East Asia 1
+      - '#01-123'
+      - ''
+    title: American Office
+    operating_hours: []
 contacts:
   - title: General Enquiries & Feedback
     content:
@@ -33,4 +39,9 @@ contacts:
       - phone: ''
       - email: careers@abc.gov.sg
       - other: ''
+  - content:
+      - phone: +65 1239 9201
+      - email: testemail@mail.io
+      - other: ''
+    title: Other stuff
 ---
