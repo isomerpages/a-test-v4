@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: I want to change this
+agency_name: My Agency
 locations:
   - title: Main Office
     address:
