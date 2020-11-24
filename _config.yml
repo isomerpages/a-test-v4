@@ -18,12 +18,6 @@ colors:
 collections:
   test:
     output: true
-  test 2 electric boogaloo:
-    permalink: '/:collection/:path/:title'
-    output: true
-  test 3:
-    permalink: '/:collection/:path/:title'
-    output: true
   super duper extra hyper ultra double triple quadruple long folder name:
     permalink: '/:collection/:path/:title'
     output: true
