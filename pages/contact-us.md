@@ -57,8 +57,8 @@ locations:
         description: 'If too cold, closed.'
 contacts:
   - content:
-      - phone: +54 2032 32490
-      - email: english@email.com
+      - phone: ''
+      - email: english@email.comm
       - other: ''
     title: Hotline 1
   - content:
