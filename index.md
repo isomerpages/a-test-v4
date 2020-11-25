@@ -11,10 +11,9 @@ sections:
       dropdown:
         title: Hero Dropdown Title
         options:
-          - title: Hero Dropdown Element test
+          - title: ''
             url: ''
   - infobar:
-      subtitle: Subtitle
       button: Button text
       url: /faq/
   - resources:
