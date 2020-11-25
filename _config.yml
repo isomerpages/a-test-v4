@@ -24,7 +24,7 @@ collections:
   test-4:
     permalink: '/:collection/:path/:title'
     output: true
-  test-5:
+  test-6:
     output: true
 permalink: none
 baseurl: ''
