@@ -55,9 +55,6 @@ locations:
       - days: Monday
         time: 9am-9pm
         description: 'If too cold, closed.'
-      - days: ''
-        time: ''
-        description: ''
 contacts:
   - content:
       - phone: +54 2032 32490
