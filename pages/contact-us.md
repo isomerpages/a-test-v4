@@ -46,6 +46,18 @@ locations:
       - BC 12391
     title: Canadian Office
     operating_hours: []
+  - address:
+      - 123 Very Cold Road
+      - Cold Cold Cold 1
+      - ''
+    title: Finnish Office
+    operating_hours:
+      - days: Monday
+        time: 9am-9pm
+        description: 'If too cold, closed.'
+      - days: ''
+        time: ''
+        description: ''
 contacts:
   - content:
       - phone: +54 2032 32490
