@@ -111,4 +111,9 @@ contacts:
       - email: ''
       - other: ''
     title: A new contact
+  - content:
+      - phone: '+6591238912'
+      - email: ''
+      - other: ''
+    title: Another new contact
 ---
