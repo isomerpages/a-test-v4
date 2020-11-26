@@ -76,4 +76,14 @@ contacts:
       - email: ''
       - other: We <b>won't pick up the phone or read emails. </b> Don't contact us.
     title: Hotline 4
+  - content:
+      - phone: ''
+      - email: ''
+      - other: ''
+    title: Default Value
+  - content:
+      - phone: ''
+      - email: ''
+      - other: ''
+    title: Default Value
 ---
