@@ -55,6 +55,16 @@ locations:
       - days: Monday
         time: 9am-9pm
         description: 'If too cold, closed.'
+  - address:
+      - A new address field
+      - ''
+      - ''
+    title: A new Location
+    operating_hours:
+      - days: Monday-Friday
+        time: ''
+        description: Never open
+    maps_link: 'https://google.com'
 contacts:
   - content:
       - phone: ''
