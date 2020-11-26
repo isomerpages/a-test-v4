@@ -8,12 +8,11 @@ notification: ''
 sections:
   - hero:
       background: /images/hero-banner.png
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ''
-      button: hello
-      url: aassa
+      dropdown:
+        title: Hero Dropdown Title
+        options:
+          - title: Hero Dropdown Element Title
+            url: ''
   - infobar:
       button: Button text
       url: /faq/
