@@ -65,6 +65,16 @@ locations:
         time: ''
         description: Never open
     maps_link: 'https://google.com'
+  - address:
+      - Some address
+      - Some address line 2
+      - ''
+    title: A new Title
+    operating_hours:
+      - days: Monday
+        time: ''
+        description: ''
+    maps_link: ''
 contacts:
   - content:
       - phone: ''
