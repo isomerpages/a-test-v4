@@ -75,45 +75,5 @@ locations:
         time: ''
         description: ''
     maps_link: ''
-contacts:
-  - content:
-      - phone: ''
-      - email: english@email.comm
-      - other: ''
-    title: Hotline 1
-  - content:
-      - phone: +43 1230 12312
-      - email: ''
-      - other: We respond within 25 days.
-    title: Hotline 2
-  - content:
-      - phone: ''
-      - email: 3@email.com
-      - other: Emails are automatically deleted before receipt.
-    title: Hotline 3
-  - content:
-      - phone: ''
-      - email: ''
-      - other: We <b>won't pick up the phone or read emails. </b> Don't contact us.
-    title: Hotline 4
-  - content:
-      - phone: ''
-      - email: ''
-      - other: ''
-    title: Default Value
-  - content:
-      - phone: ''
-      - email: ''
-      - other: ''
-    title: Default Value
-  - content:
-      - phone: '+6582345689'
-      - email: ''
-      - other: ''
-    title: A new contact
-  - content:
-      - phone: '+6591238912'
-      - email: ''
-      - other: ''
-    title: Another new contact
+contacts: []
 ---
