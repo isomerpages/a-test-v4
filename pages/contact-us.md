@@ -75,5 +75,4 @@ locations:
         time: ''
         description: ''
     maps_link: ''
-contacts: []
 ---
