@@ -1,5 +1,5 @@
 ---
-title: test default
+title: testz
 permalink: /test/default
 ---
 hello
