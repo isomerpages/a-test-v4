@@ -96,4 +96,9 @@ contacts:
       - email: ''
       - other: ''
     title: Default Value
+  - content:
+      - phone: '+6582345689'
+      - email: ''
+      - other: ''
+    title: A new contact
 ---
