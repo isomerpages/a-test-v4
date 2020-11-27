@@ -14,6 +14,7 @@ sections:
           - title: Testsdfsdfsdf
             url: ''
       title: fdsfsdf
+      subtitle: test
   - infobar:
       button: Button text
       url: /faq/
