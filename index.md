@@ -7,18 +7,18 @@ permalink: /
 notification: ''
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/12-understandin.jpg
       dropdown:
         title: Hero Dropdown Title
         options:
-          - title: Hero Dropdown Element Title
+          - title: Testsdfsdfsdf
             url: ''
+      title: fdsfsdf
   - infobar:
       button: Button text
       url: /faq/
-  - resources:
-      subtitle: Learn more
-      button: View More
+      subtitle: fdaf
+      title: fdafadf
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
@@ -29,5 +29,8 @@ sections:
       imageAlt: Image alt text
       image: /images/favicon-isomer.ico
       alt: test alt
+  - resources:
+      subtitle: Learn more
+      button: View More
 subtitle: test subtitle
 ---
