@@ -75,20 +75,4 @@ locations:
         time: ''
         description: ''
     maps_link: ''
-contacts:
-  - content:
-      - phone: '+6581234567'
-      - email: aaa@gmail.com
-      - other: ''
-    title: A new contact value
-  - content:
-      - phone: '+6567777777'
-      - email: ''
-      - other: Some paragraph of formatted <b>description</b>. Very exciting news.
-    title: Another contact value
-  - content:
-      - phone: ''
-      - email: ''
-      - other: An apple a day keeps the doctor <i>away. </i>
-    title: Cool news
 ---
