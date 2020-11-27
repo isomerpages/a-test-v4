@@ -75,4 +75,15 @@ locations:
         time: ''
         description: ''
     maps_link: ''
+contacts:
+  - content:
+      - phone: '+6581239123'
+      - email: ''
+      - other: ''
+    title: Hotline 1
+  - content:
+      - phone: ''
+      - email: mail@mail.com
+      - other: ''
+    title: A new contact 2
 ---
