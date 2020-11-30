@@ -82,10 +82,15 @@ contacts:
       - other: ''
     title: Hotline 1
   - content:
-      - phone: ''
+      - phone: +65 6534 1231
       - email: mail@mail.com
       - other: >-
           Include some different paragraph with <b>styling</b> and stuff like <a
           href="https://google.com"><u>links</u></a>
     title: A new contact 2
+  - content:
+      - phone: 1 800 231 2312
+      - email: ''
+      - other: ''
+    title: Toll free number
 ---
