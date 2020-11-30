@@ -84,6 +84,8 @@ contacts:
   - content:
       - phone: ''
       - email: mail@mail.com
-      - other: ''
+      - other: >-
+          Include some different paragraph with <b>styling</b> and stuff like <a
+          href="https://google.com"><u>links</u></a>
     title: A new contact 2
 ---
