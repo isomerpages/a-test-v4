@@ -77,7 +77,7 @@ locations:
     maps_link: ''
 contacts:
   - content:
-      - phone: '+6581239123'
+      - phone: +65 8123 9123
       - email: ''
       - other: ''
     title: Hotline 1
