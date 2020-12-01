@@ -4,79 +4,79 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: My Agency
 locations:
-  - title: Main Office
-    address:
+  - address:
       - 31 Sesame Street
       - Big Bird Building
       - Singapore 123456
     operating_hours:
-      - days: ''
+      - days: Monday
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: ''
+      - days: Friday
         time: 8.30am - 12.00pm
         description: ''
       - days: ''
         time: Closed
         description: ''
     maps_link: ''
-  - title: Branch Office
-    address:
+    title: Main Office
+  - address:
       - 109 North Bridge Road
       - Singapore 179097
       - ''
-    maps_link: 'https://goo.gl/maps/C8VfxphGxT2GsfcaA'
     operating_hours: []
+    maps_link: 'https://goo.gl/maps/C8VfxphGxT2GsfcaA'
+    title: Branch Office
   - address:
       - 999 Santa Cruz Ave
       - Garage Door
       - Menlo Park 94023
-    title: American Office
     operating_hours:
-      - days: ''
+      - days: T-F
         time: 1am-1.15am
         description: Just for 15 minutes
-      - days: ''
+      - days: S-S
         time: 1.15am-2am
         description: 45 mins this time
-      - days: ''
+      - days: Monday
         time: All Hours
         description: Just kidding we're never open
     maps_link: ''
+    title: American Office
   - address:
       - 123 Maple Syrup Drive
       - '#01-23'
       - BC 12391
-    title: Canadian Office
     operating_hours: []
     maps_link: ''
+    title: Canadian Office
   - address:
       - 123 Very Cold Road
       - Cold Cold Cold 1
       - ''
-    title: Finnish Office
     operating_hours:
-      - days: ''
+      - days: Monday-Friday
         time: 9am-9pm
         description: 'If too cold, closed.'
     maps_link: ''
+    title: Finnish Office
   - address:
       - A new address field
       - ''
       - ''
-    title: A new Location
     operating_hours:
-      - days: ''
-        time: ''
+      - days: ABC
+        time: 10am
         description: Never open
     maps_link: 'https://google.com'
+    title: A new Location
   - address:
       - Some address
       - Some address line 2
       - ''
-    title: A new Title
     operating_hours: []
     maps_link: ''
+    title: A new Title
 contacts:
   - content:
       - phone: +65 8123 9123
