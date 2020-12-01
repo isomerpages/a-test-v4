@@ -1,16 +1,1 @@
 logo: /images/12-understandin.jpg
-links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Who We Are
-    url: /who-we-are/
-  - title: Terms Of Use
-    url: /terms-of-use/
-  - title: Test
-    collection: test
-  - title: Test 4
-    collection: test-4
-  - title: Resource Room Create Test
-    resource_room: true
-  - title: Test 5
-    collection: test-5
