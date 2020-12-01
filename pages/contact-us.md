@@ -10,14 +10,16 @@ locations:
       - Big Bird Building
       - Singapore 123456
     operating_hours:
-      - days: Mon - Fri
+      - days: ''
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
+      - days: ''
         time: 8.30am - 12.00pm
-      - days: Holidays
+        description: ''
+      - days: ''
         time: Closed
         description: ''
+    maps_link: ''
   - title: Branch Office
     address:
       - 109 North Bridge Road
@@ -31,37 +33,40 @@ locations:
       - Menlo Park 94023
     title: American Office
     operating_hours:
-      - days: Monday
+      - days: ''
         time: 1am-1.15am
         description: Just for 15 minutes
-      - days: Tuesday
+      - days: ''
         time: 1.15am-2am
         description: 45 mins this time
-      - days: All days
+      - days: ''
         time: All Hours
         description: Just kidding we're never open
+    maps_link: ''
   - address:
       - 123 Maple Syrup Drive
       - '#01-23'
       - BC 12391
     title: Canadian Office
     operating_hours: []
+    maps_link: ''
   - address:
       - 123 Very Cold Road
       - Cold Cold Cold 1
       - ''
     title: Finnish Office
     operating_hours:
-      - days: Monday
+      - days: ''
         time: 9am-9pm
         description: 'If too cold, closed.'
+    maps_link: ''
   - address:
       - A new address field
       - ''
       - ''
     title: A new Location
     operating_hours:
-      - days: Monday-Friday
+      - days: ''
         time: ''
         description: Never open
     maps_link: 'https://google.com'
@@ -70,10 +75,7 @@ locations:
       - Some address line 2
       - ''
     title: A new Title
-    operating_hours:
-      - days: Monday
-        time: ''
-        description: ''
+    operating_hours: []
     maps_link: ''
 contacts:
   - content:
@@ -93,4 +95,9 @@ contacts:
       - email: ''
       - other: ''
     title: Toll free number
+  - content:
+      - phone: ''
+      - email: email@address.io
+      - other: ''
+    title: A totally new email
 ---
