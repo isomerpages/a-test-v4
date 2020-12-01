@@ -10,10 +10,6 @@ sections:
       background: /images/12-understandin.jpg
       title: fdsfsdf
       subtitle: test
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ''
   - infobar:
       button: Button text
       url: /faq/
