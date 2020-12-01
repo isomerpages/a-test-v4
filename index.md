@@ -10,6 +10,9 @@ sections:
       background: /images/12-understandin.jpg
       title: fdsfsdf
       subtitle: test
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infobar:
       button: Button text
       url: /faq/
