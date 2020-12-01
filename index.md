@@ -8,11 +8,6 @@ notification: ''
 sections:
   - hero:
       background: /images/12-understandin.jpg
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: Testsdfsdfsdf
-            url: ''
       title: fdsfsdf
       subtitle: test
   - infobar:
