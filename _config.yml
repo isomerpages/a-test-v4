@@ -61,5 +61,5 @@ plugins:
 description: test test
 resources_name: resource-room-create-test
 shareicon: /images/isomer-logo.svg
-facebook-pixel: ''
+facebook-pixel: test
 google_analytics: ''
