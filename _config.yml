@@ -1,11 +1,11 @@
 title: title
 favicon: /images/favicon-isomer.ico
 shareicon: /images/isomer-logo.svg
-facebook-pixel: te
+facebook-pixel: test
 google_analytics: ''
 is_government: 'true'
 colors:
-  primary-color: '#b6316b'
+  primary-color: '#000000'
   secondary-color: '#4372d6'
   media-colors:
     - title: media-color-one
