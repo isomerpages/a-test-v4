@@ -63,4 +63,4 @@ resources_name: resource-room-create-test
 shareicon: ''
 facebook-pixel: ''
 google_analytics: ''
-is_government: ''
+is_government: 'true'
