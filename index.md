@@ -7,7 +7,7 @@ permalink: /
 notification: ''
 sections:
   - hero:
-      background: /images/12-understandin.jpg
+      background: /images/hero-banner-123.png
       title: fdsfsdf
       subtitle: test
       dropdown:
