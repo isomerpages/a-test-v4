@@ -10,11 +10,10 @@ sections:
       background: /images/12-understandin.jpg
       title: fdsfsdf
       subtitle: test
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: Hero Dropdown Element Title
-            url: ''
+      key_highlights:
+        - title: Key Highlight Titlefff
+          description: Key Highlight description
+          url: ''
   - infobar:
       button: Button text
       url: /faq/
