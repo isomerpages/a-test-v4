@@ -16,8 +16,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 collections:
-  test:
-    output: true
   super duper extra hyper ultra double triple quadruple long folder name:
     permalink: '/:collection/:path/:title'
     output: true
@@ -25,6 +23,8 @@ collections:
     permalink: '/:collection/:path/:title'
     output: true
   test-5:
+    output: true
+  testee:
     output: true
 permalink: none
 baseurl: ''
