@@ -8,8 +8,8 @@ links:
     url: /terms-of-use/
   - title: Testee
     collection: testee
-  - title: Test 4
-    collection: test-4
+  - title: Hello New Test Folder
+    collection: hello-new-test-folder
   - title: Resource Room Create Test
     resource_room: true
   - title: Test 5
