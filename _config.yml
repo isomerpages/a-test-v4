@@ -23,7 +23,7 @@ collections:
     output: true
   POPloh:
     output: true
-  test-55:
+  test-5:
     output: true
 permalink: none
 baseurl: ''
