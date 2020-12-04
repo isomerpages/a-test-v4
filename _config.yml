@@ -19,11 +19,11 @@ collections:
   super duper extra hyper ultra double triple quadruple long folder name:
     permalink: '/:collection/:path/:title'
     output: true
-  test-5:
-    output: true
   testee:
     output: true
   hello-new-test-folder:
+    output: true
+  test-55:
     output: true
 permalink: none
 baseurl: ''
