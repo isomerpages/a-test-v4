@@ -19,7 +19,7 @@ locations:
         time: Closed
         description: ''
     maps_link: ''
-    title: Main Office
+    title: Main Office 213
   - address:
       - 109 North Bridge Road
       - Singapore 179097
@@ -62,8 +62,8 @@ locations:
     title: Finnish Office
   - address:
       - A new address field
-      - ''
-      - ''
+      - '@9012'
+      - O123
     operating_hours:
       - days: ABC
         time: 10am
