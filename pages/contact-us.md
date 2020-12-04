@@ -82,7 +82,7 @@ contacts:
       - phone: +65 8123 9123
       - email: ''
       - other: ''
-    title: Hotline 1
+    title: Hotline 123
   - content:
       - phone: +65 6534 1231
       - email: mail@mail.com
