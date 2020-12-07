@@ -27,7 +27,7 @@ collections:
     output: true
   new-collection-test:
     output: true
-  newcollection:
+  newz:
     output: true
 permalink: none
 baseurl: ''
