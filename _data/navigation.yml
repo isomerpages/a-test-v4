@@ -16,3 +16,5 @@ links:
     collection: test-5
   - title: Newcol
     collection: newcol
+  - title: New Collection Test
+    collection: new-collection-test
