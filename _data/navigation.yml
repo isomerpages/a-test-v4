@@ -14,7 +14,7 @@ links:
     resource_room: true
   - title: Test 5
     collection: test-5
-  - title: Newcol
-    collection: newcol
+  - title: Newcollection
+    collection: newcollection
   - title: New Collection Test
     collection: new-collection-test
