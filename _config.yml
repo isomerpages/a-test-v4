@@ -25,6 +25,8 @@ collections:
     output: true
   test-5:
     output: true
+  newcol:
+    output: true
 permalink: none
 baseurl: ''
 exclude:
