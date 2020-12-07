@@ -27,6 +27,8 @@ collections:
     output: true
   newcol:
     output: true
+  new-collection-test:
+    output: true
 permalink: none
 baseurl: ''
 exclude:
