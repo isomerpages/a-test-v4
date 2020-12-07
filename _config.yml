@@ -25,9 +25,9 @@ collections:
     output: true
   test-5:
     output: true
-  newcol:
-    output: true
   new-collection-test:
+    output: true
+  newcollection:
     output: true
 permalink: none
 baseurl: ''
