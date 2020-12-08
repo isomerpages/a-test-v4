@@ -1,4 +1,0 @@
----
-title: sdfd
-permalink: /permalink
----
