@@ -12,7 +12,7 @@ links:
     collection: hello-new-test-folder
   - title: Resource Room Create Test
     resource_room: true
-  - title: Test 5
-    collection: test-5
+  - title: Test 55
+    collection: test-55
   - title: New Collection Test
     collection: new-collection-test
