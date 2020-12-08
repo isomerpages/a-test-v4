@@ -64,6 +64,6 @@ plugins:
 description: test test
 resources_name: resource-room-create-test
 shareicon: /images/Thinking-of-getting-a-cat.png
-facebook-pixel: ''
-google_analytics: ''
+facebook-pixel: abc
+google_analytics: def
 is_government: 'false'
