@@ -27,6 +27,8 @@ collections:
     output: true
   test-55:
     output: true
+  going-to-delete:
+    output: true
 permalink: none
 baseurl: ''
 exclude:
