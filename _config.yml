@@ -23,9 +23,9 @@ collections:
     output: true
   POPloh:
     output: true
-  test-5:
-    output: true
   new-collection-test:
+    output: true
+  test-55:
     output: true
 permalink: none
 baseurl: ''
