@@ -8,7 +8,7 @@ notification: ''
 sections:
   - hero:
       background: /images/hero-banner-123.png
-      title: fdsfsdf
+      title: fa
       subtitle: test
       dropdown:
         title: Hero Dropdown Title
