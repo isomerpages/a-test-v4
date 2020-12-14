@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: My Agencya
+agency_name: My Agency
 locations:
   - address:
       - 31 Sesame Street
