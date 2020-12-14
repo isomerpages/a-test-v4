@@ -25,9 +25,9 @@ collections:
     output: true
   new-collection-test:
     output: true
-  test-55:
-    output: true
   going-to-delete:
+    output: true
+  test-555:
     output: true
 permalink: none
 baseurl: ''
