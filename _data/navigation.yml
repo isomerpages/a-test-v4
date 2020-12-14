@@ -12,8 +12,8 @@ links:
     collection: hello-new-test-folder
   - title: Resource Room Create Test
     resource_room: true
-  - title: Test 55
-    collection: test-55
+  - title: Test 555
+    collection: test-555
   - title: New Collection Test
     collection: new-collection-test
   - title: Going To Delete
