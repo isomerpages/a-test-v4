@@ -31,6 +31,8 @@ collections:
     output: true
   new-collection:
     output: true
+  newer-collection:
+    output: true
 permalink: none
 baseurl: ''
 exclude:
