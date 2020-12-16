@@ -29,8 +29,6 @@ collections:
     output: true
   test-555:
     output: true
-  newer-collection:
-    output: true
 permalink: none
 baseurl: ''
 exclude:
