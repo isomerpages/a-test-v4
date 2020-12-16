@@ -18,3 +18,5 @@ links:
     collection: new-collection-test
   - title: Going To Delete
     collection: going-to-delete
+  - title: New Collection
+    collection: new-collection
