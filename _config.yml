@@ -29,8 +29,6 @@ collections:
     output: true
   test-555:
     output: true
-  new-collection:
-    output: true
   newer-collection:
     output: true
 permalink: none
