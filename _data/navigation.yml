@@ -20,3 +20,5 @@ links:
     collection: going-to-delete
   - title: New Collection
     collection: new-collection
+  - title: Newer Collection
+    collection: newer-collection
