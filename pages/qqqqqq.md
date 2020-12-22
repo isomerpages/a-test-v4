@@ -1,0 +1,4 @@
+---
+title: qqqqqq
+permalink: /permalink
+---
