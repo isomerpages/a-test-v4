@@ -1,4 +1,0 @@
----
-title: ppppppp
-permalink: /permalink
----
