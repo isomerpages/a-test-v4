@@ -21,13 +21,13 @@ collections:
     output: true
   hello-new-test-folder:
     output: true
-  POPloh:
-    output: true
   new-collection-test:
     output: true
   going-to-delete:
     output: true
   test-555:
+    output: true
+  POP lohz:
     output: true
 permalink: none
 baseurl: ''
