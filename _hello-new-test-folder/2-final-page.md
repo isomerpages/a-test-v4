@@ -1,5 +1,6 @@
 ---
 title: final page
-permalink: /permalink
+permalink: /hello-new-test/final
 ---
+
 ![](/images/big%20frame.png)
