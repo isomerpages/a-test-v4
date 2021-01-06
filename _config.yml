@@ -25,9 +25,9 @@ collections:
     output: true
   going-to-delete:
     output: true
-  test-555:
-    output: true
   POP lohz:
+    output: true
+  test-5:
     output: true
 permalink: none
 baseurl: ''
