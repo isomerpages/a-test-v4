@@ -7,7 +7,7 @@ permalink: /
 notification: ''
 sections:
   - hero:
-      background: /images/hero-banner-123.png
+      background: /images/catchphrase.png
       title: fa
       subtitle: test
       dropdown:
