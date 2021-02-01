@@ -27,8 +27,6 @@ collections:
     output: true
   POP lohz:
     output: true
-  test-5:
-    output: true
   test-space-hyphen-collection:
     output: true
   test-space-move-collection:
