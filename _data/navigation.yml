@@ -20,3 +20,5 @@ links:
     collection: going-to-delete
   - title: Test Space Hyphen Collection
     collection: test-space-hyphen-collection
+  - title: Test Space Move Collection
+    collection: test-space-move-collection
