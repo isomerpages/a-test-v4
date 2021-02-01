@@ -31,6 +31,8 @@ collections:
     output: true
   test-space-hyphen-collection:
     output: true
+  test-space-move-collection:
+    output: true
 permalink: none
 baseurl: ''
 exclude:
