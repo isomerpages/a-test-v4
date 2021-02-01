@@ -7,7 +7,7 @@ permalink: /
 notification: ''
 sections:
   - hero:
-      background: /images/1-understandin.jpg
+      background: /images/Thinking-of-getting-a-cat.png
       title: fa
       subtitle: test
       dropdown:
