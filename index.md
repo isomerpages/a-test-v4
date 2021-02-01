@@ -7,7 +7,7 @@ permalink: /
 notification: ''
 sections:
   - hero:
-      background: /images/catchphrase.png
+      background: /images/1-understandin.jpg
       title: fa
       subtitle: test
       dropdown:
