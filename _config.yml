@@ -29,6 +29,8 @@ collections:
     output: true
   test-5:
     output: true
+  test-space-hyphen-collection:
+    output: true
 permalink: none
 baseurl: ''
 exclude:
