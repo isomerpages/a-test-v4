@@ -7,7 +7,7 @@ links:
   - title: Terms Of Use
     url: /terms-of-use/
   - title: POP lohz
-    sub-links:
+    sublinks:
       - title: Resources
         url: /resources/intro/
   - title: Hello New Test Folder
