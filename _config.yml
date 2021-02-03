@@ -24,7 +24,11 @@ collections:
   new-collection-test:
     output: true
   going-to-delete:
-    output: true
+    order:
+      - 2a-titlesz.md
+      - test_folder/hello.md
+      - 1-title2.md
+      - 0-title.md
   POP lohz:
     output: true
   test-space-hyphen-collection:
