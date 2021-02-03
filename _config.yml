@@ -26,7 +26,6 @@ collections:
   going-to-delete:
     order:
       - 2a-titlesz.md
-      - test_folder/hello.md
       - 1-title2.md
       - 0-title.md
   POP lohz:
