@@ -1,5 +1,5 @@
 ---
 title: Titlesz
-permalink: /going-to-delete/test_folder/hello.md
-third-nav-title: test
+permalink: /going-to-delete/permalink-1
+third_nav_title: test
 ---
