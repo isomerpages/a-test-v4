@@ -2,6 +2,6 @@
 title: tshc1
 permalink: /tshc1
 ---
-hello!
+hello
 
 ![](/images/1-understandin.jpg)
