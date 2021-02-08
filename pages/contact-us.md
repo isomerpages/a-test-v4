@@ -36,18 +36,18 @@ locations:
     maps_link: ''
     title: nah
   - address:
+      - aa
+      - fa
+      - ''
+    operating_hours: []
+    maps_link: ''
+    title: a
+  - address:
       - ''
       - ''
       - ''
     operating_hours: []
     maps_link: ''
     title: abc
-  - address:
-      - aa
-      - fa
-      - ''
-    title: a
-    operating_hours: []
-    maps_link: ''
 agency_name: govtechie
 ---
