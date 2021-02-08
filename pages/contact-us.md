@@ -12,7 +12,11 @@ locations:
       - 123 Sesame Street
       - ''
       - ''
-    title: Test location
-    operating_hours: []
+    operating_hours:
+      - days: Monday to Friday
+        time: 10am to 5pm
+        description: ''
     maps_link: ''
+    title: Test location
+agency_name: govtechie
 ---
