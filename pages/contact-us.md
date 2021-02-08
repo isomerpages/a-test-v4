@@ -18,5 +18,15 @@ locations:
         description: ''
     maps_link: ''
     title: Test location
+  - address:
+      - aaa
+      - ''
+      - ''
+    title: testt
+    operating_hours:
+      - days: Tuesdays only
+        time: 10am only
+        description: ''
+    maps_link: ''
 agency_name: govtechie
 ---
