@@ -17,7 +17,7 @@ locations:
         time: 10am only
         description: ''
     maps_link: ''
-    title: testt
+    title: t
   - address:
       - 123 Sesame Street
       - ''
@@ -32,22 +32,22 @@ locations:
       - ''
       - ''
       - ''
+    operating_hours: []
+    maps_link: ''
     title: taa
-    operating_hours: []
-    maps_link: ''
   - address:
       - ''
       - ''
       - ''
+    operating_hours: []
+    maps_link: ''
     title: nah
-    operating_hours: []
-    maps_link: ''
   - address:
       - ''
       - ''
       - ''
-    title: abc
     operating_hours: []
     maps_link: ''
+    title: abc
 agency_name: govtechie
 ---
