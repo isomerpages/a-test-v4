@@ -5,5 +5,3 @@ permalink: /tshc1
 hello
 
 ![](/images/1-understandin.jpg)
-
-test
