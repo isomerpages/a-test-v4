@@ -9,6 +9,16 @@ contacts:
     title: Test title
 locations:
   - address:
+      - aaa
+      - ''
+      - ''
+    operating_hours:
+      - days: Tuesdays only
+        time: 10am only
+        description: ''
+    maps_link: ''
+    title: testt
+  - address:
       - 123 Sesame Street
       - ''
       - ''
@@ -19,14 +29,25 @@ locations:
     maps_link: ''
     title: Test location
   - address:
-      - aaa
       - ''
       - ''
-    title: testt
-    operating_hours:
-      - days: Tuesdays only
-        time: 10am only
-        description: ''
+      - ''
+    title: taa
+    operating_hours: []
+    maps_link: ''
+  - address:
+      - ''
+      - ''
+      - ''
+    title: nah
+    operating_hours: []
+    maps_link: ''
+  - address:
+      - ''
+      - ''
+      - ''
+    title: abc
+    operating_hours: []
     maps_link: ''
 agency_name: govtechie
 ---
