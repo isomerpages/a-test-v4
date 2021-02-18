@@ -11,10 +11,12 @@ links:
     sublinks:
       - title: Resources
         url: /resources/intro/
-  - title: Hello New Test Folder
-    collection: hello-new-test-folder
+      - title: more sublinks
+        url: /permalink
   - title: Resource Room Create Test
     resource_room: true
+  - title: Hello New Test Folder
+    collection: hello-new-test-folder
   - title: New Collection Test
     collection: new-collection-test
   - title: Going To Delete
