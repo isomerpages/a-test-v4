@@ -1,6 +1,6 @@
 logo: /images/topnav2.png
 links:
-  - title: Contact Us
+  - title: Contact Usz
     url: /contact-us/
   - title: Who We Are
     url: /who-we-are/
@@ -11,7 +11,7 @@ links:
     sublinks:
       - title: Resources
         url: /resources/intro/
-      - title: more sublinks
+      - title: more sublinksz
         url: ''
       - title: Sublink Title
         url: /permalink
