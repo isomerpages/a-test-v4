@@ -13,6 +13,8 @@ links:
         url: /resources/intro/
       - title: more sublinks
         url: ''
+      - title: Sublink Title
+        url: /permalink
   - title: Resource Room Create Test
     resource_room: true
   - title: Hello New Test Folder
