@@ -14,9 +14,9 @@ links:
       - title: more sublinksz
         url: ''
       - title: google
-        url: www.google.com
+        url: https://www.google.com
   - title: Google
-    url: www.google.com
+    url: https://www.google.com
   - title: Resource Room Create Test
     resource_room: true
   - title: Hello New Test Folder
