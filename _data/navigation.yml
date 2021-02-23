@@ -13,8 +13,10 @@ links:
         url: /resources/intro/
       - title: more sublinksz
         url: ''
-      - title: Sublink Title
-        url: /permalink
+      - title: google
+        url: www.google.com
+  - title: Google
+    url: www.google.com
   - title: Resource Room Create Test
     resource_room: true
   - title: Hello New Test Folder
