@@ -9,10 +9,10 @@ links:
   - title: POP lohz
     url: /contact-us/
     sublinks:
-      - title: Resources
-        url: /resources/intro/
       - title: more sublinksz
         url: ''
+      - title: Resources
+        url: /resources/intro/
       - title: google
         url: 'https://www.google.com'
   - title: Google
