@@ -9,12 +9,12 @@ links:
   - title: POP lohz
     url: /contact-us/
     sublinks:
+      - title: google
+        url: 'https://www.google.com'
       - title: more sublinksz
         url: ''
       - title: Resources
         url: /resources/intro/
-      - title: google
-        url: 'https://www.google.com'
   - title: Google
     url: 'https://www.google.com'
   - title: Resource Room Create Test
