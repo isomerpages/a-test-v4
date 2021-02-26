@@ -15,22 +15,6 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-collections:
-  super duper extra hyper ultra double triple quadruple long folder name:
-    permalink: '/:collection/:path/:title'
-    output: true
-  hello-new-test-folder:
-    output: false
-  new-collection-test:
-    output: true
-  going-to-delete:
-    output: true
-  POP lohz:
-    output: true
-  test-space-hyphen-collection:
-    output: true
-  test-space-move-collection:
-    output: true
 permalink: none
 baseurl: ''
 exclude:

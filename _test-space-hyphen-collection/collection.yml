@@ -1,0 +1,5 @@
+collections:
+  test-space-hyphen-collection:
+    output: true
+    order:
+      - tshc1.md

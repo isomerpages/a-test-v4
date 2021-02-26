@@ -1,0 +1,5 @@
+collections:
+  special:
+    output: false
+    order:
+      - title-test.md

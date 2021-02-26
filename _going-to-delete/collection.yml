@@ -1,0 +1,8 @@
+collections:
+  going-to-delete:
+    output: true
+    order:
+      - title.md
+      - title2.md
+      - test/titlesz.md
+      - test/a-different-title.md

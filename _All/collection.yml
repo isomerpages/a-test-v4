@@ -1,0 +1,5 @@
+collections:
+  All:
+    output: false
+    order:
+      - title-test-real.md

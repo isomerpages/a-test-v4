@@ -1,0 +1,6 @@
+collections:
+  test-4:
+    output: false
+    order:
+      - test4.md
+      - new4.md

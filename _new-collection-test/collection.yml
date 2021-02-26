@@ -1,0 +1,5 @@
+collections:
+  new-collection-test:
+    output: true
+    order:
+      - title.md
