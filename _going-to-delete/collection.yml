@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - title.md
-      - test/a-different-title.md
       - test/titlesz.md
+      - test/a-different-title.md
       - title2.md
