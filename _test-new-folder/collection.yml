@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - qqqqqq.md
+      - testpage.md
