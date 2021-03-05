@@ -1,4 +1,5 @@
 collections:
   test-new-folder:
     output: true
-    order: []
+    order:
+      - qqqqqq.md
