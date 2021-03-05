@@ -29,3 +29,5 @@ links:
     collection: test-space-hyphen-collection
   - title: Test Space Move Collection
     collection: test-space-move-collection
+  - title: Test New Folder
+    collection: test-new-folder
