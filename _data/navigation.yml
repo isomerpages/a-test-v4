@@ -31,3 +31,5 @@ links:
     collection: test-space-move-collection
   - title: Test New Folder
     collection: test-new-folder
+  - title: No Files
+    collection: no-files
