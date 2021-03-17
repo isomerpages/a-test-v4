@@ -1,5 +1,5 @@
 collections:
   special:
-    output: false
+    output: true
     order:
       - title-test.md
