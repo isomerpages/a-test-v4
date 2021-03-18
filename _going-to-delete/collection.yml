@@ -4,5 +4,6 @@ collections:
     order:
       - test/titlesz.md
       - test/a-different-title.md
+      - empty-subfolder/.keep
       - title.md
       - title2.md
