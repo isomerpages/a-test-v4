@@ -6,4 +6,5 @@ collections:
       - test/a-different-title.md
       - title.md
       - empty-subfolder/.keep
+      - empty-subfolder/example-title.md
       - title2.md
