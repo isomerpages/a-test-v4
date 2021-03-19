@@ -2,6 +2,7 @@ collections:
   going-to-delete:
     output: true
     order:
+      - test/.keep
       - test/a-different-title.md
       - test/titlesz.md
       - title.md
