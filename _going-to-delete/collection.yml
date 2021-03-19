@@ -2,8 +2,8 @@ collections:
   going-to-delete:
     output: true
     order:
-      - test/titlesz.md
       - test/a-different-title.md
+      - test/titlesz.md
       - title.md
       - empty-subfolder/.keep
       - empty-subfolder/example-title.md
