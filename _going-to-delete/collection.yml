@@ -6,6 +6,6 @@ collections:
       - test/titlesz.md
       - title.md
       - empty-subfolder/.keep
-      - empty-subfolder/example-title.md
       - empty-subfolder/example-title2.md
+      - empty-subfolder/example-title.md
       - title2.md
