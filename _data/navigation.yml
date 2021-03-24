@@ -2,10 +2,10 @@ logo: /images/topnav2.png
 links:
   - title: Contact Usz
     url: /contact-us/
-  - title: Who We Are
-    url: /who-we-are/
-  - title: Terms Of Use
-    url: /terms-of-use/
+  - title: Resource Room Create Test
+    resource_room: true
+  - title: Going To Delete
+    collection: going-to-delete
   - title: POP lohz
     url: /contact-us/
     sublinks:
@@ -17,14 +17,12 @@ links:
         url: /resources/intro/
   - title: Google
     url: 'https://www.google.com'
-  - title: Resource Room Create Test
-    resource_room: true
+  - title: Empty
+    collection: empty
   - title: Hello New Test Folder
     collection: hello-new-test-folder
   - title: New Collection Test
     collection: new-collection-test
-  - title: Going To Delete
-    collection: going-to-delete
   - title: Test Space Hyphen Collection
     collection: test-space-hyphen-collection
   - title: Test Space Move Collection
@@ -33,5 +31,3 @@ links:
     collection: test-new-folder
   - title: No Files
     collection: no-files
-  - title: Empty
-    collection: empty
