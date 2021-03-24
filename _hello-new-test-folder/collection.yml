@@ -1,6 +1,6 @@
 collections:
   hello-new-test-folder:
-    output: false
+    output: true
     order:
       - final-page.md
       - no-3n-test.md
