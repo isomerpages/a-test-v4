@@ -47,6 +47,7 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
 description: test test
 resources_name: resource-room-create-test
 shareicon: /images/Thinking-of-getting-a-cat.png
