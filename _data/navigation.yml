@@ -33,3 +33,5 @@ links:
     collection: test-new-folder
   - title: No Files
     collection: no-files
+  - title: Empty
+    collection: empty
