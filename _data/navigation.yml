@@ -19,11 +19,15 @@ links:
     url: https://www.google.com
   - title: Empty
     collection: empty
+  - title: No Files
+    collection: fake-collection
   - title: Hello New Test Folder
     collection: hello-new-test-folder
   - title: New Collection Test
     collection: new-collection-test
   - title: Test Space Hyphen Collection
     collection: test-space-hyphen-collection
+  - title: No Files
+    collection: fake-collection-again
   - title: Test Space Move Collection
     collection: test-space-move-collection
