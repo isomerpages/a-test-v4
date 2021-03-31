@@ -10,13 +10,13 @@ links:
     url: /contact-us/
     sublinks:
       - title: google
-        url: 'https://www.google.com'
+        url: https://www.google.com
       - title: more sublinksz
-        url: ''
+        url: ""
       - title: Resources
         url: /resources/intro/
   - title: Google
-    url: 'https://www.google.com'
+    url: https://www.google.com
   - title: Empty
     collection: empty
   - title: Hello New Test Folder
@@ -27,7 +27,5 @@ links:
     collection: test-space-hyphen-collection
   - title: Test Space Move Collection
     collection: test-space-move-collection
-  - title: Test New Folder
-    collection: test-new-folder
   - title: No Files
     collection: no-files
