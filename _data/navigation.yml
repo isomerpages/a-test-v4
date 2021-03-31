@@ -23,11 +23,7 @@ links:
     collection: hello-new-test-folder
   - title: New Collection Test
     collection: new-collection-test
-  - title: No Files
-    collection: also-fake
   - title: Test Space Hyphen Collection
     collection: test-space-hyphen-collection
   - title: Test Space Move Collection
     collection: test-space-move-collection
-  - title: No Files
-    collection: no-fake
