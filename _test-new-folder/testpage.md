@@ -1,4 +1,0 @@
----
-title: testpage
-permalink: /permalink
----

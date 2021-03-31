@@ -1,6 +1,0 @@
-collections:
-  test-new-folder:
-    output: true
-    order:
-      - qqqqqq.md
-      - testpage.md
