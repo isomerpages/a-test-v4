@@ -1,4 +1,5 @@
 collections:
   All:
     output: false
-    order: []
+    order:
+      - example-title11.md
