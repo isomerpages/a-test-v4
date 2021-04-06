@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - empty/.keep
-      - empty/title.md
       - test/.keep
       - test/a-different-title.md
       - test/titlesz.md
