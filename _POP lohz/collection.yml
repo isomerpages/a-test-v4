@@ -3,3 +3,4 @@ collections:
     output: false
     order:
       - testz.md
+      - example-title.md
