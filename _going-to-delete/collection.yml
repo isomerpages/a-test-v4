@@ -5,7 +5,6 @@ collections:
       - empty/.keep
       - test/.keep
       - test/a-different-title.md
-      - test/titlesz.md
       - empty-subfolder/.keep
       - empty-subfolder/example-title2.md
       - empty-subfolder/example-title.md
