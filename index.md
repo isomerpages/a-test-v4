@@ -4,7 +4,7 @@ title: Titles tesss
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: hi
+notification: ""
 sections:
   - hero:
       background: /images/Thinking-of-getting-a-cat.png
