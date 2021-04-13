@@ -4,7 +4,7 @@ title: Titles tesss
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ''
+notification: hi
 sections:
   - hero:
       background: /images/Thinking-of-getting-a-cat.png
@@ -14,9 +14,9 @@ sections:
         title: Hero Dropdown Title
         options:
           - title: abc
-            url: ''
+            url: ""
           - title: def
-            url: ''
+            url: ""
   - infobar:
       button: Button text
       url: /faq/
