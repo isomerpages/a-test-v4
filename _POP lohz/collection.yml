@@ -2,5 +2,5 @@ collections:
   POP lohz:
     output: false
     order:
-      - example-title1.md
+      - .md
       - example-title11.md
