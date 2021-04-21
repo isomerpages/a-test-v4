@@ -1,6 +1,6 @@
 ---
-title: random frontmatter
-permalink: /going-to-delete/permalink
+title: 你好
+permalink: /going-to-delete/permalink1
 extra: hello
 ---
 
