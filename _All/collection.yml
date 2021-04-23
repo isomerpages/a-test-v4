@@ -5,4 +5,5 @@ collections:
       - hello/.keep
       - hello/example-title.md
       - hello/example-title11.md
+      - hello/chinese-in-hello.md
       - example-title1.md
