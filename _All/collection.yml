@@ -3,4 +3,5 @@ collections:
     output: false
     order:
       - hello/.keep
+      - hello/example-title1.md
       - example-title11.md
