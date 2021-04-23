@@ -1,22 +1,22 @@
-title: Titles tesss
-url: 'https://google.com.sg'
+title: Titles test
+url: https://google.com.sg
 favicon: /images/favicon copy.ico
 colors:
-  primary-color: '#ff0000'
-  secondary-color: '#43d65b'
+  primary-color: "#ff0000"
+  secondary-color: "#43d65b"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#744d9f"
     - title: media-color-three
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
 permalink: none
-baseurl: ''
+baseurl: ""
 exclude:
   - travis-script.js
   - .travis.yml
@@ -34,7 +34,7 @@ include:
   - _redirects
 defaults:
   - scope:
-      path: ''
+      path: ""
     values:
       layout: page
 custom_css_path: /misc/custom.css
@@ -51,6 +51,6 @@ plugins:
 description: test test
 resources_name: resource-room-create-test
 shareicon: /images/Thinking-of-getting-a-cat.png
-facebook-pixel: ''
-google_analytics: ''
+facebook-pixel: ""
+google_analytics: ""
 is_government: false
