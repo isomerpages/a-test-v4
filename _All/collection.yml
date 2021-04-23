@@ -4,5 +4,4 @@ collections:
     order:
       - hello/.keep
       - hello/example-title1.md
-      - hello/chinese.md
       - example-title11.md
