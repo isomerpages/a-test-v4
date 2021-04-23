@@ -3,3 +3,4 @@ collections:
     output: false
     order:
       - example-title11.md
+      - example-title1.md
