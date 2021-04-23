@@ -3,4 +3,3 @@ collections:
     output: false
     order:
       - title.md
-      - chinese-in-hello.md
