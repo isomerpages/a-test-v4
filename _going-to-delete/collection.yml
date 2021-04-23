@@ -8,5 +8,5 @@ collections:
       - empty-subfolder/.keep
       - empty-subfolder/example-title2.md
       - empty-subfolder/example-title.md
-      - title2.md
+      - test-with-foreign-characters.md
       - random-frontmatter.md
