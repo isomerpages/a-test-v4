@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Titles tesss
+title: Titles test
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
