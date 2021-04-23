@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Thinking-of-getting-a-cat.png
-      title: hello
+      title: hello test
       subtitle: test
       dropdown:
         title: Hero Dropdown Title
