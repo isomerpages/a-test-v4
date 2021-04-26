@@ -1,4 +1,5 @@
 collections:
   abc:
     output: true
-    order: []
+    order:
+      - example-title11.md
