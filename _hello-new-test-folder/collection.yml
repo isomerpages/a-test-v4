@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - no-3n-test.md
-      - final-page.md
       - yes3ntest-hello/yes-3n-test.md
       - final-page.md
