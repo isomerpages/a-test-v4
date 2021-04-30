@@ -6,7 +6,6 @@ collections:
       - test/.keep
       - test/a-different-title.md
       - empty-subfolder/.keep
-      - empty-subfolder/example-title2.md
       - empty-subfolder/example-title.md
       - test-with-foreign-characters.md
       - random-frontmatter.md
