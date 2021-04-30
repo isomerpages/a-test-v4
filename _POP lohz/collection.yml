@@ -2,8 +2,8 @@ collections:
   POP lohz:
     output: false
     order:
-      - hello-two-subfolder/.keep
-      - hello-two-subfolder/example-title.md
+      - hello-two-subfolder-three/.keep
+      - hello-two-subfolder-three/example-title.md
       - chinesetitle.md
       - example-title11.md
       - chinese.md
