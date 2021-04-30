@@ -3,6 +3,7 @@ collections:
     output: false
     order:
       - hello-two-subfolder/.keep
+      - hello-two-subfolder/example-title.md
       - chinesetitle.md
       - example-title11.md
       - chinese.md
