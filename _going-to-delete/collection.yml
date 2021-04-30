@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - empty/.keep
-      - test/.keep
-      - test/a-different-title.md
+      - test-renamed/.keep
+      - test-renamed/a-different-title.md
       - test-with-foreign-characters.md
       - random-frontmatter.md
