@@ -2,8 +2,8 @@ collections:
   going-to-delete:
     output: true
     order:
-      - empty/.keep
       - test-renamed/.keep
       - test-renamed/a-different-title.md
       - test-with-foreign-characters.md
+      - empty/.keep
       - random-frontmatter.md
