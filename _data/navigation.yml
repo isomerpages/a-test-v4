@@ -31,3 +31,9 @@ links:
     collection: test-space-move-collection
   - title: Abc
     collection: abc
+  - title: Going to delete
+    false_collection: true
+    url: /going-to-delete/
+    sublinks:
+        - title: Going to delete
+          url: /going-to-delete/this-unique-named-permalink
