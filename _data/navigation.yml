@@ -4,8 +4,6 @@ links:
     url: /contact-us/
   - title: Resource Room Create Test
     resource_room: true
-  - title: Going To Delete
-    collection: going-to-delete
   - title: POP lohz
     url: /contact-us/
     sublinks:
