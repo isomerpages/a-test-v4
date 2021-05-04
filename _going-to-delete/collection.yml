@@ -1,6 +1,6 @@
 collections:
   going-to-delete:
-    output: true
+    output: false
     order:
       - test-renamed/.keep
       - test-renamed/a-different-title.md
