@@ -1,4 +1,4 @@
-logo: /images/topnav2.png
+logo: /images/isomer-logo.svg
 links:
   - title: Contact Usz
     url: /contact-us/
@@ -35,5 +35,5 @@ links:
     false_collection: true
     url: /going-to-delete/
     sublinks:
-        - title: Going to delete
-          url: /going-to-delete/this-unique-named-permalink
+      - title: Going to delete
+        url: /going-to-delete/this-unique-named-permalink
