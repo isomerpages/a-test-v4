@@ -5,6 +5,7 @@ collections:
       - test-capitals/.keep
       - test-capitals/permalink.md
       - test-capitals/test-page-again.md
+      - test-capitals/test-page.md
       - test-renamed/.keep
       - test-renamed/a-different-title.md
       - test-with-foreign-characters.md
