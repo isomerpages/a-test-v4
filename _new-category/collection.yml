@@ -1,0 +1,4 @@
+collections:
+  new-category:
+    output: true
+    order: []
