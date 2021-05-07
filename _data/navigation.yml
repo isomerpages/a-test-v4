@@ -37,3 +37,5 @@ links:
     sublinks:
       - title: Going to delete
         url: /going-to-delete/this-unique-named-permalink
+  - title: New Category
+    collection: new-category
