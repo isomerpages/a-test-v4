@@ -2,6 +2,7 @@ collections:
   going-to-delete:
     output: false
     order:
+      - test-capitals/.keep
       - test-renamed/.keep
       - test-renamed/a-different-title.md
       - test-with-foreign-characters.md
