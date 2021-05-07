@@ -3,6 +3,7 @@ collections:
     output: false
     order:
       - test-capitals/.keep
+      - test-capitals/random-frontmatter.md
       - test-renamed/.keep
       - test-renamed/a-different-title.md
       - test-with-foreign-characters.md
