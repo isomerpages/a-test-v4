@@ -2,7 +2,7 @@ collections:
   going-to-delete:
     output: false
     order:
-      - staging/.keep
+      - staging-space/.keep
       - test-capitals/.keep
       - test-capitals/permalink.md
       - test-capitals/test-page-again.md
