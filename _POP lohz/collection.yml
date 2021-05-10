@@ -1,6 +1,6 @@
 collections:
   POP lohz:
-    output: false
+    output: true
     order:
       - hello-two-subfolder-three/.keep
       - hello-two-subfolder-three/example-title.md
