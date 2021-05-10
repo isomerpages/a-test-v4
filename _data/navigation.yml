@@ -5,14 +5,7 @@ links:
   - title: Resource Room Create Test
     resource_room: true
   - title: POP lohz
-    url: /contact-us/
-    sublinks:
-      - title: google
-        url: https://www.google.com
-      - title: more sublinksz
-        url: ""
-      - title: Resources
-        url: /resources/intro/
+    collection: POP lohz
   - title: Google
     url: https://www.google.com
   - title: Empty
