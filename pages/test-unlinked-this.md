@@ -14,3 +14,5 @@ Creating more content Hello
 
 encoded picture:
 ![Alt text for image on Isomer site](%2Fimages%2Ftest-files-2%2FExample%20Image%20Hand.svg)
+
+![Alt text for image on Isomer site](%2Fimages%2Ftest-files-2%2FExample%20Image%20Hand.svg)
