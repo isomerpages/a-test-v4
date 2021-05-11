@@ -1,7 +1,8 @@
 ---
 title: Test Unlinked This
-permalink: /permalink
+permalink: /testunlinkedthis
 ---
+
 ![](/images/1093392.svg)
 
 
