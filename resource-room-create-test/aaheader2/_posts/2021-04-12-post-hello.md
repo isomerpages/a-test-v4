@@ -8,3 +8,5 @@ permalink: /aaheader2/permalink
 [Example Filename](/files/file%20name.csv)
 
 ![Alt text for image on Isomer site](/images/test-rename-layer-1/A4%20-%207-2.png)
+
+![Alt text for image on Isomer site](/images/abc/name%20with%20space.png)
