@@ -30,7 +30,7 @@ sections:
       url: /faq/
       imageUrl: /images/favicon-isomer.ico
       imageAlt: Image alt text
-      image: /images/favicon-isomer.ico
+      image: /images/Custom%20Size%201.png
       alt: test alt
   - resources:
       subtitle: Learn more
