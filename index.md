@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1093393.svg
+      background: /images/abc/name%20with%20space.png
       title: hello testing this
       subtitle: test
       dropdown:
