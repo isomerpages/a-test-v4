@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hello/Another%20A4%20-%207-2.png
+      background: /images/1093393.svg
       title: hello testing this
       subtitle: test
       dropdown:
