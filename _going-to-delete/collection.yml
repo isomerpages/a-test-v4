@@ -4,6 +4,7 @@ collections:
     order:
       - staging-space/.keep
       - staging-space/test-capitals.md
+      - staging-space/test-new-file.md
       - test-capitals/.keep
       - test-capitals/permalink.md
       - test-capitals/test-page-again.md
