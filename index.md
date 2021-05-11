@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hand%20Spaces.svg
+      background: /images/hello/Another%20A4%20-%207-2.png
       title: hello testing this
       subtitle: test
       dropdown:
@@ -30,7 +30,7 @@ sections:
       url: /faq/
       imageUrl: /images/favicon-isomer.ico
       imageAlt: Image alt text
-      image: /images/Custom%20Size%201.png
+      image: /images/FileName%20With%20Space.svg
       alt: test alt
   - resources:
       subtitle: Learn more
