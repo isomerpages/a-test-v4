@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Thinking-of-getting-a-cat.png
+      background: /images/Hand%20Spaces.svg
       title: hello testing this
       subtitle: test
       dropdown:
