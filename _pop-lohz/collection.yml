@@ -1,5 +1,5 @@
 collections:
-  POP lohz:
+  pop-lohz:
     output: true
     order:
       - hello-two-subfolder-three/.keep
