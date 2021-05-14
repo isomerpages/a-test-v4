@@ -1,4 +1,5 @@
 ---
-title: test title
-permalink: /test-permalink
+title: Test Title
+permalink: /permalinkd
 ---
+
