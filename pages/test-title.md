@@ -1,5 +1,6 @@
 ---
 title: Test Title
-permalink: /permalinkd
+permalink: /test-permalink
 ---
+
 
