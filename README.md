@@ -1,11 +1,16 @@
-# Welcome to Isomer Pages!
+# End to end test repo for IsomerCMS
+This repo is meant to provide an empty repo for engineers to run end-to-end tests on. 
 
-## Why Markdown and YAML?
+## Initial state of repo
+This repo contains no collections, no files, and no resource room to start off. The initial pages are the default ones created as follows:
+- Pages
+  - contact-us.md
+  - faq.md
+  - privacy.md
+  - terms-of-use.md
+- Images
+  - favicon-isomer.ico
+  - hero-banner.png
+  - isomer-logo.svg
 
-Traditionally, in order to edit a website, one had to write in pure HTML. This is challenging for website administrators who had limited experience with HTML as it is not immediately readable or intuitive to non-experienced users. 
-
-Our team decided to go with Markdown (.md) – more human readable syntax – so as to empower non-technical website administrators.
-
-While Markdown is appropriate for writing long segments of text, it alone does not allow users to edit small details of the website (e.g. change the hero-banner image) without diving into the HTML.
-
-We therefore chose to supplement the Markdown syntax with YAML (.yml) – yet another human readable syntax.
+Note that tests for resource room creation must be done manually - once a resource room has been created on the CMS, there is no way to remove it.
