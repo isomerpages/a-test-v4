@@ -2,4 +2,5 @@ collections:
   abc:
     output: true
     order:
+      - testing/.keep
       - example-title11.md
