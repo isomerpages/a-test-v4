@@ -1,0 +1,4 @@
+collections:
+  my-test:
+    output: true
+    order: []
