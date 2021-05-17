@@ -32,3 +32,5 @@ links:
         url: /going-to-delete/this-unique-named-permalink
   - title: New Category
     collection: new-category
+  - title: My Test
+    collection: my-test
