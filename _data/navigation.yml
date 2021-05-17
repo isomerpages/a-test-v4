@@ -22,8 +22,6 @@ links:
     collection: fake-collection-again
   - title: Test Space Move Collection
     collection: test-space-move-collection
-  - title: Abc
-    collection: abc
   - title: Going to delete
     false_collection: true
     url: /going-to-delete/
