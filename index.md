@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/abc/name%20with%20space.png
-      title: hello testing this
+      title: Introducing<br/>The Green Plan
       subtitle: test
       dropdown:
         title: Hero Dropdown Title
