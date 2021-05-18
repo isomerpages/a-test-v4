@@ -2,4 +2,5 @@ collections:
   test-folder-title-with-pages:
     output: true
     order:
+      - test-subfolder-title-no-pages/.keep
       - test-title.md
