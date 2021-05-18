@@ -4,6 +4,6 @@ collections:
     order:
       - hello-two-subfolder-three/.keep
       - hello-two-subfolder-three/example-title.md
-      - chinesetitle.md
       - example-title11.md
+      - chinesetitle.md
       - chinese.md
