@@ -1,5 +1,5 @@
 collections:
-  test-folder-title-with-pages:
+  edited-folder-with-pages:
     output: true
     order:
       - edited-subfolder-no-pages/.keep
