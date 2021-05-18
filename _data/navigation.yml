@@ -42,3 +42,5 @@ links:
     collection: test-folder-title-with-pages
   - title: Test Folder Title No Pages
     collection: test-folder-title-no-pages
+  - title: Test Folder Title With Pages
+    collection: test-folder-title-with-pages
