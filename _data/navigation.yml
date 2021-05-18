@@ -32,3 +32,5 @@ links:
     collection: new-category
   - title: My Test
     collection: my-test
+  - title: Test
+    collection: test
