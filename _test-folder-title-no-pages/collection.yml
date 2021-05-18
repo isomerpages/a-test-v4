@@ -1,5 +1,4 @@
 collections:
   test-folder-title-no-pages:
     output: true
-    order:
-      - edited-test-title.md
+    order: []
