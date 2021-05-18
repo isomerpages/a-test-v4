@@ -1,6 +1,0 @@
-collections:
-  edited-folder-with-pages:
-    output: true
-    order:
-      - edited-subfolder-with-pages/.keep
-      - edited-subfolder-with-pages/test-title.md
