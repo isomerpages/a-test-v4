@@ -34,3 +34,5 @@ links:
     collection: my-test
   - title: Test
     collection: test
+  - title: Test Folder Title
+    collection: test-folder-title
