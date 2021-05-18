@@ -1,6 +1,0 @@
-collections:
-  test-folder-title-with-pages:
-    output: true
-    order:
-      - test/.keep
-      - test/test-title.md
