@@ -1,0 +1,4 @@
+collections:
+  test-folder-title-no-pages:
+    output: true
+    order: []
