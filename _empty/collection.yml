@@ -1,4 +1,5 @@
 collections:
   empty:
     output: true
-    order: []
+    order:
+      - example-title.md
