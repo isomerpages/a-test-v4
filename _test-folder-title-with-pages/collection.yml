@@ -2,5 +2,5 @@ collections:
   test-folder-title-with-pages:
     output: true
     order:
-      - new/.keep
-      - new/test-title.md
+      - edited-subfolder-no-pages/.keep
+      - edited-subfolder-no-pages/test-title.md
