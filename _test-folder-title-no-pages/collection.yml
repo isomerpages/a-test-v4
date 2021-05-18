@@ -1,4 +1,5 @@
 collections:
   test-folder-title-no-pages:
     output: true
-    order: []
+    order:
+      - test-subfolder-title-no-pages/.keep
