@@ -5,7 +5,7 @@ collections:
       - example-title11.md
       - hello-two-subfolder-three/.keep
       - hello-two-subfolder-three/example-title.md
-      - hello-two-subfolder-three/Language Testering
+      - hello-two-subfolder-three/language-tester.md
       - chinesetitle.md
       - chinese.md
       - language-test.md
