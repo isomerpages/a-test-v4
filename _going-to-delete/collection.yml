@@ -12,5 +12,5 @@ collections:
       - test-capitals/test-page.md
       - test-capitals/test-page-on-staging.md
       - test-renamed/.keep
-      - test-renamed/a-different-title.md
+      - test-renamed/a-different-title-hello.md
       - empty/.keep
