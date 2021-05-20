@@ -1,4 +1,5 @@
 collections:
   all-caps:
     output: true
-    order: []
+    order:
+      - all-caps/.keep
