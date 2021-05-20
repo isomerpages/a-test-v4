@@ -46,3 +46,5 @@ links:
     collection: test-folder-title-with-pages
   - title: Test Folder Title With Pages
     collection: test-folder-title-with-pages
+  - title: All Caps
+    collection: all-caps
