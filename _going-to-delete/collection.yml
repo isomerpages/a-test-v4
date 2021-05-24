@@ -11,4 +11,5 @@ collections:
       - test-capitals/test-page.md
       - test-capitals/test-page-on-staging.md
       - test-renamed/.keep
+      - test-renamed/permalink.md
       - empty/.keep
