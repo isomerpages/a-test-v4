@@ -7,7 +7,6 @@ collections:
       - staging-space/test-new-file.md
       - staging-space/titles.md
       - test-capitals/.keep
-      - test-capitals/permalink.md
       - test-capitals/test-page-again.md
       - test-capitals/test-page.md
       - test-capitals/test-page-on-staging.md
