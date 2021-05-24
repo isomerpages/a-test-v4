@@ -4,4 +4,5 @@ collections:
     order:
       - all-caps/.keep
       - all-caps/example-title-with-special-dollarpercentand--done.md
+      - all-caps/all-capital-letters.md
       - example-title.md
