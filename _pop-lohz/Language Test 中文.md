@@ -1,6 +1,6 @@
 ---
 title: Language Test 中文
-permalink: /pop-lohz/permalink
+permalink: /change-permalink/pop-lohz/permalink
 ---
 
 
