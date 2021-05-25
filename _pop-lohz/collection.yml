@@ -4,7 +4,6 @@ collections:
     order:
       - example-title11.md
       - hello-two-subfolder-three/.keep
-      - hello-two-subfolder-three/Example Title 中文&$Q%&@#%!#!)#&*.md
       - hello-two-subfolder-three/Test Language.md
       - chinesetitle.md
       - chinese.md
