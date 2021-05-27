@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Language Test/.keep
+      - Language Test/testing.md
       - example-title11.md
       - Hello Two Subfolder Two/.keep
       - Hello Two Subfolder Two/Sample中文.md
