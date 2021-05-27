@@ -2,8 +2,6 @@ collections:
   pop-lohz:
     output: true
     order:
-      - "%E0%AE%92%E0%AE%A9%E0%AF%8D-%E0%AE%A8%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE\
-        %A4%E0%AF%8D/.keep"
       - Language Test 中文/.keep
       - Language Test 中文/testing.md
       - example-title11.md
