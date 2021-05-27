@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - example-title11.md
-      - hello-two-subfolder-two/.keep
-      - hello-two-subfolder-two/Sample中文.md
-      - hello-two-subfolder-two/Test Language.md
-      - hello-two-subfolder-two/movetest.md
+      - Hello Two Subfolder Two/.keep
+      - Hello Two Subfolder Two/Sample中文.md
+      - Hello Two Subfolder Two/Test Language.md
+      - Hello Two Subfolder Two/movetest.md
       - chinesetitle.md
       - Chinese.md
       - language-test.md
