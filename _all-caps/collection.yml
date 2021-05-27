@@ -4,3 +4,4 @@ collections:
     order:
       - all-caps/.keep
       - all-caps/all-capital-letters.md
+      - example-title-hello.md
