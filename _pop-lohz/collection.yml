@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - 都可以/.keep
+      - 都可以/Example Title - yesn't.md
       - ஒன் நார்த் -test/Chinese.md
       - ஒன் நார்த் -test/Sample Page - 中文.md
       - Language Test 中文/.keep
