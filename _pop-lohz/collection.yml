@@ -2,8 +2,8 @@ collections:
   pop-lohz:
     output: true
     order:
-      - Language Test/.keep
-      - Language Test/testing.md
+      - Language Test 中文/.keep
+      - Language Test 中文/testing.md
       - example-title11.md
       - Hello Two Subfolder Two/.keep
       - Hello Two Subfolder Two/Sample中文.md
