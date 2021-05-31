@@ -2,9 +2,6 @@ collections:
   pop-lohz:
     output: true
     order:
-      - ஒன் நார்த் -test/Chinese%25.md
-      - ஒன் நார்த் -test/Sample Page - 中.md
-      - ஒன் நார்த் -test/movetest.md
       - Language Test 中文/.keep
       - Language Test 中文/Testing 实验.md
       - example-title1124.md
@@ -12,5 +9,3 @@ collections:
       - Hello Two Subfolder Two/Test Language%&=50.md
       - chinesetitle.md
       - example-title-112.md
-      - ஒன் நார்த் -test/Example/Title.md
-      - ஒன் நார்த் -test/Example Title test.md
