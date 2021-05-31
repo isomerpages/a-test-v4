@@ -1,5 +1,4 @@
 collections:
   实验文件:
     output: true
-    order:
-      - title.md
+    order: []
