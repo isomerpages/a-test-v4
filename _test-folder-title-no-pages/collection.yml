@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - test-subfolder-title-no-pages/.keep
-      - test-subfolder-title-no-pages/test-title.md
+      - test-subfolder-title-no-pages/new-test-page.md
       - new-test-page.md
