@@ -1,5 +1,5 @@
 collections:
-  all-caps:
+  all-/caps:
     output: true
     order:
       - example-title-goodbye.md
