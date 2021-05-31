@@ -2,4 +2,4 @@ collections:
   test-folder-title-no-pages:
     output: true
     order:
-      - test-title.md
+      - new-test-page.md
