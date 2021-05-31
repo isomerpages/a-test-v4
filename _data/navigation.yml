@@ -48,3 +48,5 @@ links:
     collection: test-folder-title-with-pages
   - title: All Caps
     collection: all-caps
+  - title: 中文
+    collection: 中文
