@@ -1,4 +1,5 @@
 collections:
   test-edit-collection-category:
     output: true
-    order: []
+    order:
+      - test-collection-page.md
