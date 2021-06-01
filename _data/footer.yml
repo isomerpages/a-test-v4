@@ -1,8 +1,4 @@
 contact_us: /contact-us/
 show_reach: false
 faq: /faq/
-social_media:
-  twitter: https://www.twitter.com/YourTwitter
-  youtube: https://www.youtube.com/YourYoutube
-  instagram: https://www.instagram.com/yourinsta/
-  linkedin: https://www.linkedin.com/yourinsta/
+social_media: {}
