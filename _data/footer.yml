@@ -1,10 +1,8 @@
-contact_us: ff/contact/
+contact_us: /contact-us/
 show_reach: false
-feedback: asd
 faq: /faq/
 social_media:
   facebook: https://www.facebook.com/YourFBPageTestEdit
-  linkedin: https://www.linkedin.com/company/YourAgency
   twitter: https://www.twitter.com/YourTwitter
   youtube: https://www.youtube.com/YourYoutube
   instagram: https://www.instagram.com/yourinsta/
