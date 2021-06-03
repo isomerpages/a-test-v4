@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - aaahlep/.keep
+      - aaahlep/Example Titlesa.md
       - example-title.md
