@@ -1,11 +1,11 @@
 logo: /images/abc/name%20with%20space.png
 links:
+  - title: Resource Room Create Test
+    resource_room: true
   - title: Contact Usz
     url: /contact-us/
   - title: 实验文件
     collection: 实验文件
-  - title: Resource Room Create Test
-    resource_room: true
   - title: Google
     url: https://www.google.com
   - title: Empty
