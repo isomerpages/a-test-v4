@@ -28,8 +28,6 @@ links:
     collection: new-category
   - title: My Test
     collection: my-test
-  - title: Test
-    collection: test
   - title: 中文
     collection: 中文
   - title: Test Edit Collection Category
