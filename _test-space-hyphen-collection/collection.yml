@@ -1,4 +1,5 @@
 collections:
   test-space-hyphen-collection:
     output: true
-    order: []
+    order:
+      - Example Title.md
