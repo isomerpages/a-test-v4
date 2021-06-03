@@ -1,4 +1,5 @@
 collections:
   Aaaaaa:
     output: true
-    order: []
+    order:
+      - Example Title 1.md
