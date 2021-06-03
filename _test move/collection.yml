@@ -1,0 +1,4 @@
+collections:
+  test move:
+    output: true
+    order: []
