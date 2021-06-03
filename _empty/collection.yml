@@ -2,5 +2,6 @@ collections:
   empty:
     output: true
     order:
+      - aaahlep/.keep
       - example-title.md
       - Example Titlesa.md
