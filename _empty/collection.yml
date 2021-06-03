@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - example-title.md
+      - Example Titlesa.md
