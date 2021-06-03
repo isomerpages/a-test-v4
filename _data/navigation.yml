@@ -34,3 +34,5 @@ links:
     collection: test-edit-collection-category
   - title: Test new
     collection: Test new
+  - title: Test move
+    collection: test move
