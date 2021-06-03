@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Move sub/.keep
+      - Move sub/Example Title.md
       - title-test.md
