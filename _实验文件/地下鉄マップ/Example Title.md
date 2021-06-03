@@ -1,0 +1,5 @@
+---
+title: Example Title
+permalink: /实验文件/permalink
+third_nav_title: 地下鉄マップ
+---
