@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Sub with new page/.keep
+      - Sub with new page/Sub move page.md
       - Move sub/.keep
       - Move sub/Example Title.md
       - title-test.md
