@@ -2,4 +2,5 @@ collections:
   special:
     output: true
     order:
+      - Move sub/.keep
       - title-test.md
