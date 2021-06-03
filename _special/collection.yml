@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - title-test.md
+      - Moved Page.md
