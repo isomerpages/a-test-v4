@@ -1,5 +1,4 @@
 collections:
   Added folder:
     output: true
-    order:
-      - example-title.md
+    order: []
