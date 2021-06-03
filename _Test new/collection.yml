@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - test/.keep
+      - test/tshc1.md
