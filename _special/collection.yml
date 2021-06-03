@@ -2,6 +2,7 @@ collections:
   special:
     output: true
     order:
+      - Sub with new page/.keep
       - Move sub/.keep
       - Move sub/Example Title.md
       - title-test.md
