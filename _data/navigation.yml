@@ -42,3 +42,5 @@ links:
     collection: Aaaaaa
   - title: Blank
     collection: Blank
+  - title: Test
+    collection: test
