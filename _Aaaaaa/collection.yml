@@ -2,5 +2,4 @@ collections:
   Aaaaaa:
     output: true
     order:
-      - subfolder1/.keep
       - Example Title 1.md
