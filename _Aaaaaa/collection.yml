@@ -2,4 +2,5 @@ collections:
   Aaaaaa:
     output: true
     order:
+      - new/.keep
       - Example Title 1.md
