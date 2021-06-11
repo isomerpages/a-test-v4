@@ -1,7 +1,0 @@
-collections:
-  test-4:
-    output: false
-    order:
-      - new-subfolder/.keep
-      - test4.md
-      - new4.md
