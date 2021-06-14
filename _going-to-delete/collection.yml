@@ -7,10 +7,10 @@ collections:
       - staging-space/test-new-file.md
       - staging-space/titles.md
       - staging-space/example-title.md
+      - test-renamed/.keep
+      - test-renamed/permalink.md
       - test-capitals/.keep
       - test-capitals/test-page-again.md
       - test-capitals/test-page.md
       - test-capitals/test-page-on-staging.md
-      - test-renamed/.keep
-      - test-renamed/permalink.md
       - empty/.keep
