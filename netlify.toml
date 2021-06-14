@@ -1,5 +1,5 @@
 [build.environment]
-  TZ = "Asia/Singapore"
+  TZ = "Chile/EasterIsland"
 [build.processing]
   skip_processing = false
 [build.processing.css]
