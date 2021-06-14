@@ -2,13 +2,13 @@ collections:
   going-to-delete:
     output: false
     order:
+      - test-renamed/.keep
+      - test-renamed/permalink.md
       - staging-space/.keep
       - staging-space/test-capitals.md
       - staging-space/test-new-file.md
       - staging-space/titles.md
       - staging-space/example-title.md
-      - test-renamed/.keep
-      - test-renamed/permalink.md
       - test-capitals/.keep
       - test-capitals/test-page-again.md
       - test-capitals/test-page.md
