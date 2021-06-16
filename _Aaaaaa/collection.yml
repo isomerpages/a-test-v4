@@ -4,4 +4,5 @@ collections:
     order:
       - newbie/.keep
       - newbie/example-title.md
+      - newbie/example-title1.md
       - Example Title 1.md
