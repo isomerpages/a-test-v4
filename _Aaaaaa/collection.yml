@@ -2,6 +2,6 @@ collections:
   Aaaaaa:
     output: true
     order:
-      - new/.keep
-      - new/example-title.md
+      - newz/.keep
+      - newz/example-title.md
       - Example Title 1.md
