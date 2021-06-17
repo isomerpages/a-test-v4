@@ -14,3 +14,4 @@ collections:
       - test-capitals/test-page.md
       - test-capitals/test-page-on-staging.md
       - empty/.keep
+      - test-refactor.md
