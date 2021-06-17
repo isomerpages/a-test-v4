@@ -1,7 +1,0 @@
-collections:
-  test-folder-title-no-pages:
-    output: true
-    order:
-      - test-subfolder-title-no-pages/.keep
-      - test-subfolder-title-no-pages/new-test-page.md
-      - new-test-page.md
