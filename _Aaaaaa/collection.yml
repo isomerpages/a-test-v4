@@ -2,6 +2,7 @@ collections:
   Aaaaaa:
     output: true
     order:
+      - test-sub-1/.keep
       - Example Title 1.md
       - newbiez/.keep
       - newbiez/example-title.md
