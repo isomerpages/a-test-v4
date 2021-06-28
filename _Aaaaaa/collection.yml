@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - rename-test-sub-1/example-title.md
-      - test-sub-1/.keep
+      - rename-test-sub-1/.keep
       - Example Title 1.md
       - newbiez/.keep
       - newbiez/example-title.md
