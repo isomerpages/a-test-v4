@@ -1,11 +1,5 @@
 logo: /images/abc/name%20with%20space.png
 links:
-  - title: Google
-    url: https://www.google.com
-  - title: Resource Room Create Test
-    resource_room: true
-  - title: Contact Usz
-    url: /contact-us/
   - title: 实验文件
     collection: 实验文件
   - title: Empty
@@ -18,12 +12,6 @@ links:
     collection: test-space-hyphen-collection
   - title: Test Space Move Collection
     collection: test-space-move-collection
-  - title: Going to delete
-    false_collection: true
-    url: /going-to-delete/
-    sublinks:
-      - title: Going to delete
-        url: /going-to-delete/this-unique-named-permalink
   - title: New Category
     collection: new-category
   - title: My Test
