@@ -2,5 +2,6 @@ collections:
   Added folder:
     output: true
     order:
+      - abc/.keep
       - example-title.md
       - example.md
