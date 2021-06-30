@@ -4,7 +4,6 @@ collections:
     order:
       - renamE-test-sub-1/example-title.md
       - renamE-test-sub-1/.keep
-      - renamE-test-sub-1/example-title1.md
       - Example Title 1.md
       - newbiez/.keep
       - newbiez/example-title.md
