@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - abc/.keep
+      - abc/example-title.md
       - example.md
