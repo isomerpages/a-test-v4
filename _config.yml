@@ -49,6 +49,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://e2e-test-repo-staging.netlify.app
-prod: https://e2e-test-repo-prod.netlify.app
+staging: https://a-test-v4-staging.netlify.app
+prod: https://a-test-v4-prod.netlify.app
 resources_name: resources
