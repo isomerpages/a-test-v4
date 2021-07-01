@@ -1,9 +1,9 @@
-title: a-test-v4
-url: https://google.com.sg
-favicon: /images/favicon copy.ico
+title: Title
+url: ""
+favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#ff0000"
-  secondary-color: "#43d65b"
+  secondary-color: "#00ff00"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -15,6 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
+description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
 exclude:
@@ -48,10 +49,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-description: test test
-resources_name: resource-room-create-test
-shareicon: /images/Thinking-of-getting-a-cat.png
-facebook-pixel: test
-google_analytics: ""
-is_government: true
-linkedin-insights: abc2
+staging: https://e2e-test-repo-staging.netlify.app
+prod: https://e2e-test-repo-prod.netlify.app
+resources_name: resources

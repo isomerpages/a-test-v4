@@ -1,34 +1,10 @@
-logo: /images/abc/name%20with%20space.png
+logo: /images/isomer-logo.svg
 links:
-  - title: 实验文件
-    collection: 实验文件
-  - title: Empty
-    collection: empty
-  - title: Hello New Test Folder
-    collection: hello-new-test-folder
-  - title: New Collection Test
-    collection: new-collection-test
-  - title: Test Space Hyphen Collection
-    collection: test-space-hyphen-collection
-  - title: Test Space Move Collection
-    collection: test-space-move-collection
-  - title: New Category
-    collection: new-category
-  - title: My Test
-    collection: my-test
-  - title: 中文
-    collection: 中文
-  - title: Test Edit Collection Category
-    collection: test-edit-collection-category
-  - title: Test new
-    collection: Test new
-  - title: Test move
-    collection: test move
-  - title: Added folder
-    collection: Added folder
-  - title: Aaaaaa
-    collection: Aaaaaa
-  - title: Blank
-    collection: Blank
+  - title: Contact Us
+    url: /contact-us/
   - title: Test
-    collection: test
+    url: /Test/
+  - title: Resources
+    resource_room: true
+  - title: Test Folder Title With Pages
+    collection: test-folder-title-with-pages

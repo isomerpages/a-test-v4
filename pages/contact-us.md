@@ -2,53 +2,31 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-contacts:
-  - content:
-      - phone: +65 9876 5432
-      - email: test@test.com
-      - other: hi
-    title: Test title
+agency_name: Agency Name
 locations:
-  - address:
-      - 123 Sesame Street
-      - ""
-      - ""
+  - title: Main Office
+    address:
+        - 31 Sesame Street
+        - Big Bird Building
+        - Singapore 123456
     operating_hours:
-      - days: Monday to Friday
-        time: 10am to 5pm
-        description: aa
-      - days: ad
-        time: ""
-        description: ""
-    maps_link: ""
-    title: Test locationd
-  - address:
-      - ""
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: ""
-    title: taa
-  - address:
-      - ""
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: ""
-    title: nah
-  - address:
-      - aa
-      - fa
-      - ""
-    operating_hours: []
-    maps_link: ""
-    title: a
-  - address:
-      - ""
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: ""
-    title: abc
-agency_name: govtechies
+      - days: Mon - Fri
+        time: 8.30am - 6.00pm
+        description: Closed on Public Holidays
+      - days: Sat
+        time: 8.30am - 12.00pm
+  - title: Branch Office
+    address:
+        - 109 North Bridge Road
+        - Singapore 179097
+    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+contacts:
+  - title: General Enquiries & Feedback
+    content:
+    - phone: +65 6123 4567
+    - email: enquiries@abc.gov.sg
+    - other: Any text here <i>including HTML</i>
+  - title: Careers
+    content:
+    - email: careers@abc.gov.sg
 ---

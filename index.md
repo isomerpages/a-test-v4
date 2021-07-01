@@ -1,39 +1,32 @@
 ---
 layout: homepage
-title: a-test-v4
+title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Here's a notification bar you can use!
 sections:
-  - hero:
-      background: /images/abc/name%20with%20space.png
-      title: Introducing<br/>The Green Plan
-      subtitle: test
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: abc
-            url: ""
-          - title: def
-            url: ""
-  - infobar:
-      button: Button text
-      url: /faq/
-      subtitle: fdaf
-      title: fdafadf
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      url: /faq/
-      imageUrl: /images/favicon-isomer.ico
-      imageAlt: Image alt text
-      image: /images/FileName%20With%20Space.svg
-      alt: test alt
-  - resources:
-      subtitle: Learn more
-      button: View More
-subtitle: test subtitle
+    - hero:
+        title: Hero titlZZZZ
+        subtitle: Hero subtitle
+        background: /images/hero-banner.png
+        button: Contact Us
+        url: /contact-us/
+        key_highlights:
+            - title: Highlight A
+              description: Important highlight A is important
+              url: https://google.com
+            - title: Highlight B
+              description: Important highlight B is equally important
+              url: https://gmail.com
+            - title: Page A
+              description: Page A is important too
+              url: /privacy/
+    - infobar:
+        title: Infobar title
+        subtitle: Subtitle
+        description: About a sentence worth of description here
+        button: Button text
+        url: /faq/
 ---
+
