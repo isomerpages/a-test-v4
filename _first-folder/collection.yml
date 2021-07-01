@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - hello-there/.keep
+      - hello-there/page.md
