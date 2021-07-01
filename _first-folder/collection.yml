@@ -2,5 +2,5 @@ collections:
   first-folder:
     output: true
     order:
-      - hello-there/.keep
-      - hello-there/page.md
+      - HELLO@There/.keep
+      - HELLO@There/page.md
