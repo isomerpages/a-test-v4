@@ -4,3 +4,4 @@ collections:
     order:
       - HELLO@There/.keep
       - HELLO@There/page.md
+      - example-title.md
