@@ -1,6 +1,0 @@
-collections:
-  中文:
-    output: true
-    order:
-      - New subfolder/.keep
-      - テストページ.md

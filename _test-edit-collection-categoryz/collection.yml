@@ -1,5 +1,0 @@
-collections:
-  test-edit-collection-categoryz:
-    output: true
-    order:
-      - test-collection-page.md

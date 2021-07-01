@@ -1,6 +1,0 @@
-collections:
-  test-space-hyphen-collection:
-    output: true
-    order:
-      - Test/.keep
-      - Test/Example Title.md

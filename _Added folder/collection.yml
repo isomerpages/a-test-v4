@@ -1,7 +1,0 @@
-collections:
-  Added folder:
-    output: true
-    order:
-      - abc/.keep
-      - abc/example-title.md
-      - example.md

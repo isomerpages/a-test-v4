@@ -1,6 +1,0 @@
-collections:
-  new-collection-test:
-    output: true
-    order:
-      - title.md
-      - title-2.md

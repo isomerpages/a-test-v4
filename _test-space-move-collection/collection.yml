@@ -1,5 +1,0 @@
-collections:
-  test-space-move-collection:
-    output: true
-    order:
-      - title-test-from-staging.md

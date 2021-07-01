@@ -1,5 +1,0 @@
-collections:
-  hello:
-    output: false
-    order:
-      - title.md

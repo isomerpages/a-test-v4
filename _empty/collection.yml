@@ -1,9 +1,0 @@
-collections:
-  empty:
-    output: true
-    order:
-      - aaahlep/.keep
-      - aaahlep/Example Titlesa.md
-      - aaahlep/example-title.md
-      - new page.md
-      - Another file.md

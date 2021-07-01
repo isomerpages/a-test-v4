@@ -1,5 +1,0 @@
-collections:
-  new-category:
-    output: true
-    order:
-      - example-title.md

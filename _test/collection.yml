@@ -1,6 +1,0 @@
-collections:
-  test:
-    output: true
-    order:
-      - example-title1.md
-      - example-title11.md

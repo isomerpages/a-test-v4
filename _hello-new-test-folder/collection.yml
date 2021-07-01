@@ -1,7 +1,0 @@
-collections:
-  hello-new-test-folder:
-    output: true
-    order:
-      - yes3ntest-hello/yes-3n-test.md
-      - final-page.md
-      - no-3n-test.md

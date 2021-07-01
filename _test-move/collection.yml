@@ -1,5 +1,0 @@
-collections:
-  test-move:
-    output: false
-    order:
-      - '"Title testsf".md'
