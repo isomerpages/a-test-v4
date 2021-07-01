@@ -1,0 +1,4 @@
+collections:
+  first-folder:
+    output: true
+    order: []
