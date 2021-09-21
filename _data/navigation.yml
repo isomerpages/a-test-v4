@@ -8,3 +8,5 @@ links:
     resource_room: true
   - title: Test Folder Title With Pages
     collection: test-folder-title-with-pages
+  - title: Default
+    collection: default
