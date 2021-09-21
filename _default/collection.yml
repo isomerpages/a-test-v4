@@ -1,4 +1,5 @@
 collections:
   default:
     output: true
-    order: []
+    order:
+      - Lorem Ipsum.md
