@@ -2,4 +2,5 @@ collections:
   move:
     output: true
     order:
+      - Move from folder to subfolder.md
       - Move from folder to Workspace.md
