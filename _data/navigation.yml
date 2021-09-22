@@ -10,3 +10,5 @@ links:
     collection: test-folder-title-with-pages
   - title: Default
     collection: default
+  - title: Move
+    collection: move
