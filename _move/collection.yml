@@ -1,4 +1,5 @@
 collections:
   move:
     output: true
-    order: []
+    order:
+      - Move from folder to Workspace.md
