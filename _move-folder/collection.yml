@@ -1,5 +1,5 @@
 collections:
-  move:
+  move-folder:
     output: true
     order:
       - Move subfolder/Move from subfolder to folder.md
