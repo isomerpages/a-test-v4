@@ -1,5 +1,0 @@
-collections:
-  edited-folder-with-pages:
-    output: true
-    order:
-      - test title.md
