@@ -1,4 +1,5 @@
 collections:
   test-folder-title-with-pages:
     output: true
-    order: []
+    order:
+      - test title.md
