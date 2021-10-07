@@ -12,7 +12,5 @@ links:
     collection: default
   - title: Move Folder
     collection: move-folder
-  - title: Test Folder Title No Pages
-    collection: test-folder-title-no-pages
   - title: Edited Folder With Pages
     collection: edited-folder-with-pages
