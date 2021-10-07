@@ -12,3 +12,5 @@ links:
     collection: default
   - title: Move Folder
     collection: move-folder
+  - title: Test Folder Title No Pages
+    collection: test-folder-title-no-pages
