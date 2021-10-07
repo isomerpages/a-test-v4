@@ -6,11 +6,7 @@ links:
     url: /Test/
   - title: Resources
     resource_room: true
-  - title: Edited Folder With Pages
-    collection: edited-folder-with-pages
   - title: Default
     collection: default
   - title: Move Folder
     collection: move-folder
-  - title: Edited Folder With Pages
-    collection: edited-folder-with-pages
