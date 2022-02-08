@@ -14,11 +14,12 @@ sections:
       dropdown:
         title: ""
         options:
-          - &a1
-            title: Hero Dropdown Element Title
+          - title: Hero Dropdown Element Title
             url: ""
-          - *a1
-          - *a1
+          - title: Hero Dropdown Element Title
+            url: ""
+          - title: Hero Dropdown Element Title
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
