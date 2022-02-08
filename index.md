@@ -10,19 +10,15 @@ sections:
       title: Hero titlZZZZ
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      heroType: highlights
-      key_highlights:
-        - title: HIGHLIGHTS_DESCRIPTION_MIN_LENGTHHIGHLIGHTS_DESCRIPTION_MIN_LENGTHHIGHLIGHTS_DESCRIPTION_MIN_LENGTHHIGHLIGHTS_DESCRIPTION_MIN_LENGTHHIGHLIGHTS_DESCRIPTION_MIN_LENGTH
-          description: HIGHLIGHTS_DESCRIPTION_MIN_LENGTHHIGHLIGHTS_DESCRIPTION_MIN_LENGTHHIGHLIGHTS_DESCRIPTION_MIN_LENGTHHIGHLIGHTS_DESCRIPTION_MIN_LENGTHHIGHLIGHTS_DESCRIPTION_MIN_LENGTHHIGHLIGHTS_DESCRIPTION_MIN_LENGTHHIGHLIGHTS_DESCRIPTION_MIN_LENGTH
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-      button: Contact Us
-      url: /contact-us/
+      heroType: dropdown
+      dropdown:
+        title: ""
+        options:
+          - &a1
+            title: Hero Dropdown Element Title
+            url: ""
+          - *a1
+          - *a1
   - infobar:
       title: Infobar title
       subtitle: Subtitle
