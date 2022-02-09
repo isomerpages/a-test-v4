@@ -15,10 +15,13 @@ sections:
         title: ""
         options:
           - title: Hero Dropdown Element Title
+            description: ""
             url: hello
           - title: Hero Dropdown Element Title
+            description: ""
             url: ""
           - title: Hero Dropdown Element Title
+            description: ""
             url: ""
   - infobar:
       title: Infobar title
@@ -27,10 +30,16 @@ sections:
       url: /faq/
       description: About a sentence worth of description here
   - infobar:
+      title: My name is blah
+      subtitle: Whats up
+      description: Random description
+      button: Button Text
+      url: booya
+  - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      button: Button Text
       description: Infobar description
+      button: Button Text
   - resources:
       title: Hello
       subtitle: Hello
