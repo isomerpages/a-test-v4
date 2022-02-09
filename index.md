@@ -38,4 +38,5 @@ sections:
       button: Button Text
       image: /images/hero-banner.png
       alt: Image alt text booya
+      url: hello
 ---
