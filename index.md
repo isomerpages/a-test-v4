@@ -31,4 +31,11 @@ sections:
       subtitle: Infobar Subtitle
       button: Button Text
       description: Infobar description
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/hero-banner.png
+      alt: Image alt text booya
 ---
