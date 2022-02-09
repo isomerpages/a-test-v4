@@ -17,12 +17,6 @@ sections:
           - title: Hero Dropdown Element Title
             description: ""
             url: hello
-          - title: Hero Dropdown Element Title
-            description: ""
-            url: ""
-          - title: Hero Dropdown Element Title
-            description: ""
-            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
