@@ -33,10 +33,11 @@ sections:
       description: Infobar description
   - infopic:
       title: Infopic Title
-      subtitle: Infopic Subtitle
+      subtitle: Infopic Subtitlehello therehello therehello therehello therehello
+        therehello therehello there
       description: Infopic description
       button: Button Text
-      image: /images/hero-banner.png
+      url: hello there
       alt: Image alt text booya
-      url: hello
+      image: /images/hero-banner.png
 ---
