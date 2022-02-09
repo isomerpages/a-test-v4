@@ -23,7 +23,12 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: About a sentence worth of description here
       button: Button text
       url: /faq/
+      description: About a sentence worth of description here
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      button: Button Text
+      description: Infobar description
 ---
