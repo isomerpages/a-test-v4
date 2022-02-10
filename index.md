@@ -10,19 +10,9 @@ sections:
       title: Hero titlZZZZ
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      heroType: highlights
-      key_highlights:
-        - title: Key Highlight TitleKey Highlight TitleKey Highlight TitleKey Highlight
-            TitleKey Highlight TitleKey Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight TitleKey Highlight TitleKey Highlight TitleKey Highlight
-            TitleKey Highlight TitleKey Highlight Title
-          description: Key Highlight description
-          url: ""
+      heroType: none
+      dropdown:
+        title: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
