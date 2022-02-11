@@ -10,11 +10,12 @@ sections:
       title: Hero titlZZZZ
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      heroType: highlights
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+      heroType: dropdown
+      dropdown:
+        title: ""
+        options:
+          - title: bookya
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
