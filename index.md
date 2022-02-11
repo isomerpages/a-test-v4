@@ -15,7 +15,6 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-      button: hello
   - infobar:
       title: Infobar title
       subtitle: Subtitle
