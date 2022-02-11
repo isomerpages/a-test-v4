@@ -12,15 +12,12 @@ sections:
       background: /images/hero-banner.png
       heroType: highlights
       dropdown:
+        options: []
         title: ""
-        options:
-          - title: Hero Dropdown Element Title
-            url: ""
       key_highlights:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-      button: hello!
   - infobar:
       title: Infobar title
       subtitle: Subtitle
