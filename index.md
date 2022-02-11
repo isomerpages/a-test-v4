@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hero titlZZZZ
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/singapore.ico
       heroType: dropdown
       dropdown:
         title: ""
