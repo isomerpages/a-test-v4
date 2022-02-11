@@ -10,7 +10,7 @@ sections:
       title: Hero titlZZZZ
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      heroType: highlights
+      heroType: none
       dropdown:
         title: ""
         options:
