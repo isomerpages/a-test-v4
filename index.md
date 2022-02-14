@@ -38,8 +38,7 @@ sections:
       subtitle: Hello
   - infopic:
       title: Infopic Title
-      subtitle: Infopic Subtitlehello therehello therehello therehello therehello
-        therehello therehello there
+      subtitle: hey
       description: Infopic description
       button: Button Text
       url: hello there
