@@ -2,4 +2,5 @@ collections:
   default:
     output: true
     order:
+      - Example Title.md
       - Lorem Ipsum.md
