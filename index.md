@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/singapore.ico
+image: /images/hack22 WhoDis Working Document-6.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -45,4 +45,5 @@ sections:
       alt: Image alt text booya
       image: /images/hero-banner.png
 ---
+
 
