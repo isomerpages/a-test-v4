@@ -2,8 +2,8 @@ collections:
   default:
     output: true
     order:
-      - Test/Example Title.md
-      - Test/.keep
+      - Test 2/Example Title.md
+      - Test 2/.keep
       - Example Title 123.md
       - Example Title 3.md
       - Example Title 2.md
