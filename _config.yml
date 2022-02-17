@@ -1,4 +1,4 @@
-title: Title 23
+title: Title
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Governments
+description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
 exclude:
