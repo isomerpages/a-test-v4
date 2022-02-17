@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - Test/Example Title.md
       - Test/.keep
       - Example Title 123.md
       - Example Title 3.md
