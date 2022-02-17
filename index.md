@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Title 2
 description: An Isomer site of the Singapore Government
 image: /images/singapore.ico
 permalink: /
@@ -45,6 +45,7 @@ sections:
       alt: Image alt text booya
       image: /images/hero-banner.png
 ---
+
 
 
 
