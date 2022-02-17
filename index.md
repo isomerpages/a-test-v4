@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Title 2
 description: Brief site description here
 image: /images/singapore.ico
 permalink: /
@@ -45,6 +45,7 @@ sections:
       alt: Image alt text booya
       image: /images/hero-banner.png
 ---
+
 
 
 
