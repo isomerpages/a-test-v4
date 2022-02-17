@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title 2
-description: Brief site description here
+title: Title 23
+description: An Isomer site of the Singapore Governments
 image: /images/singapore.ico
 permalink: /
 notification: Here's a notification bar you can use!
@@ -45,6 +45,7 @@ sections:
       alt: Image alt text booya
       image: /images/hero-banner.png
 ---
+
 
 
 
