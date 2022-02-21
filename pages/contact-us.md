@@ -16,7 +16,7 @@ locations:
         time: 8.30am - 12.00pm
         description: ""
     maps_link: ""
-    title: Main Office
+    title: Main Office 2
   - address:
       - 109 North Bridge Road
       - Singapore 179097
