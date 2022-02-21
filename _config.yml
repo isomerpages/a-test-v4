@@ -51,4 +51,5 @@ plugins:
   - jekyll-remote-theme
 staging: https://e2e-test-repo-staging.netlify.app
 prod: https://e2e-test-repo-prod.netlify.app
+resources_name: resources
 shareicon: /images/singapore.ico
