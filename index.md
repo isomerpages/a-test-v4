@@ -48,11 +48,13 @@ sections:
       subtitle: Hero subtitle
       background: /images/singapore.ico
       heroType: dropdown
-      dropdown:
-        title: ""
-        options:
-          - title: bookya
-            url: ""
+      key_highlights:
+        - title: Key Highlight Title 1
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title 2
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
