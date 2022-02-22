@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - Example Title.md
       - லோரம் இப்சம்.md
       - Example Title 3.md
       - Example Title 2.md
