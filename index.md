@@ -4,7 +4,7 @@ title: Title 2
 description: An Isomer site of the Singapore Government
 image: /images/singapore.ico
 permalink: /
-notification: Here's a notification bar you can use! hey
+notification: Here's a notification bar you can use!
 sections:
   - id:
       "0": c
