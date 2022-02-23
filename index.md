@@ -10,7 +10,10 @@ sections:
       background: /images/singapore.ico
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
-      heroType: none
+      heroType: dropdown
+      dropdown:
+        title: ""
+        options: []
   - infobar:
       title: Infobar title
       subtitle: Subtitle
