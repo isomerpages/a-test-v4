@@ -7,17 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      heroType: none
       background: /images/singapore.ico
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
-      key_highlights:
-        - title: Key Highlight Title 1
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title 2
-          description: Key Highlight description
-          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -36,7 +28,6 @@ sections:
   - resources:
       title: Hello
       subtitle: Hello
-  - infobar: {}
     infopic:
       title: Infopic Title
       subtitle: hey
