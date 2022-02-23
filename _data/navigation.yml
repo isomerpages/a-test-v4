@@ -10,3 +10,10 @@ links:
     collection: default
   - title: Move Folder
     collection: move-folder
+  - title: Menu Title
+    url: /menu
+    sublinks:
+      - title: Submenu Title
+        url: /submenu
+      - title: Submenu Title 2
+        url: /submenu-2
