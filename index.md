@@ -12,10 +12,10 @@ sections:
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
       key_highlights:
-        - title: Key Highlight Title2
+        - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-        - title: Key Highlight Title
+        - title: Key Highlight Title2
           description: Key Highlight description
           url: ""
   - infobar:
