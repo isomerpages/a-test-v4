@@ -18,6 +18,8 @@ sections:
         - title: Key Highlight Title2
           description: Key Highlight description
           url: ""
+      button: hello
+      url: heelo
   - infobar:
       title: Infobar title
       subtitle: Subtitle
