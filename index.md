@@ -13,6 +13,10 @@ sections:
       title: Hero titlZZZZ booo
       button: "123"
       url: "123"
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
