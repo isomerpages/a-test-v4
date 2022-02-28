@@ -30,7 +30,7 @@ sections:
       title: Hello
       subtitle: Hello
   - infobar: {}
-  - infopic:
+    infopic:
       title: Infopic Title
       subtitle: hey
       description: Infopic description
@@ -38,6 +38,7 @@ sections:
       url: hello there
       alt: Image alt text booya
       image: /images/hero-banner.png
+  - infobar: {}
   - infobar:
       title: "1"
       subtitle: "1"
