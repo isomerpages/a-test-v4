@@ -36,7 +36,7 @@ sections:
   - resources:
       title: Hello
       subtitle: Hello
-    infopic:
+  - infopic:
       title: Infopic Title
       subtitle: hey
       description: Infopic description
