@@ -29,8 +29,7 @@ sections:
   - resources:
       title: Hello
       subtitle: Hello
-  - infobar: {}
-    infopic:
+  - infopic:
       title: Infopic Title
       subtitle: hey
       description: Infopic description
