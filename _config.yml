@@ -1,4 +1,4 @@
-title: Title 2
+title: Title 2s
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: An Isomer site of the Singapore Government hi
 permalink: none
 baseurl: ""
 exclude:
@@ -53,3 +53,6 @@ staging: https://e2e-test-repo-staging.netlify.app
 prod: https://e2e-test-repo-prod.netlify.app
 resources_name: resources
 shareicon: /images/singapore.ico
+facebook-pixel: test
+google_analytics: test
+linkedin-insights: test
