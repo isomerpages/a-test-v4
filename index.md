@@ -12,8 +12,10 @@ sections:
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
       dropdown:
-        title: ""
-        options: []
+        title: abc
+        options:
+          - title: Hero Dropdown Element Title
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
