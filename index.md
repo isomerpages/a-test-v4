@@ -38,4 +38,14 @@ sections:
       url: hello there
       alt: Image alt text booya
       image: /images/hero-banner.png
+  - infobar:
+      title: "2"
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infobar:
+      title: "1"
+      subtitle: "1"
+      description: Infobar description
+      button: Button Text
 ---
