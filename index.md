@@ -11,6 +11,8 @@ sections:
       background: /images/singapore.ico
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
+      button: "123"
+      url: "123"
   - infobar:
       title: Infobar title
       subtitle: Subtitle
