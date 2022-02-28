@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title 2
-description: An Isomer site of the Singapore Government
+title: Title 2s
+description: An Isomer site of the Singapore Government hi
 image: /images/singapore.ico
 permalink: /
 notification: Here's a notification bar you can use!
@@ -21,3 +21,4 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
