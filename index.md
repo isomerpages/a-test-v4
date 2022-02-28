@@ -29,7 +29,8 @@ sections:
   - resources:
       title: Hello
       subtitle: Hello
-  - infopic:
+  - infobar: {}
+    infopic:
       title: Infopic Title
       subtitle: hey
       description: Infopic description
@@ -38,13 +39,16 @@ sections:
       alt: Image alt text booya
       image: /images/hero-banner.png
   - infobar:
+      title: "1"
+      subtitle: "1"
+      description: Infobar description
+      button: Button Text
+  - infobar:
       title: "2"
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
   - infobar:
-      title: "1"
-      subtitle: "1"
       description: Infobar description
       button: Button Text
 ---
