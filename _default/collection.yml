@@ -2,9 +2,9 @@ collections:
   default:
     output: true
     order:
-      - Test/Example Title.md
-      - Test/Example Title 3.md
-      - Test/.keep
+      - Blca/Example Title.md
+      - Blca/Example Title 3.md
+      - Blca/.keep
       - லோரம் இப்சம்.md
       - Example Title 3.md
       - Lorem Ipsum.md
