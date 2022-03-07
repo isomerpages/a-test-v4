@@ -11,6 +11,10 @@ sections:
       background: /images/singapore.ico
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
+      key_highlights:
+        - title: elehelwroeoroeoelehel
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
@@ -21,5 +25,3 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
-
-
