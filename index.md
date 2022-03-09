@@ -14,14 +14,4 @@ sections:
       dropdown:
         title: ""
         options: []
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-      url: http://abc.com
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
