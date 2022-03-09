@@ -19,6 +19,7 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+      url: /abc/edf
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
