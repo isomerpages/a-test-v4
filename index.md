@@ -7,17 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      heroType: highlights
+      heroType: none
       background: /images/singapore.ico
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
-      button: abc
-      url: https://www.google.com
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: http://ggog.ecom
-        - title: abc
-          description: Some description
-          url: /bac
 ---
