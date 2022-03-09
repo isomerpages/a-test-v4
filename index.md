@@ -13,4 +13,8 @@ sections:
       title: Hero titlZZZZ booo
       button: abc
       url: https://www.google.com
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
 ---
