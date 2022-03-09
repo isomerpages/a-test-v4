@@ -19,5 +19,6 @@ sections:
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
+      url: BX
       alt: Image alt text
 ---
