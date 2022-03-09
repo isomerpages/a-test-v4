@@ -14,12 +14,4 @@ sections:
       dropdown:
         title: ""
         options: []
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      url: /abc
-      alt: Image alt text
-      image: /images/Hello there !!/hack22 WhoDis Working Document-6.svg
 ---
