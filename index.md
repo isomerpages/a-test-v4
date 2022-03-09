@@ -10,7 +10,5 @@ sections:
       background: /images/balloogelon.png
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
-      heroType: highlights
-      button: halo
-      url: /bla
+      heroType: none
 ---
