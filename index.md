@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/singapore.ico
+      background: /images/balloogelon.png
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
       heroType: dropdown
