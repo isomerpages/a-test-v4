@@ -21,5 +21,5 @@ sections:
       button: Button Text
       url: /abc
       alt: Image alt text
-      image: /images/balloogelon.png
+      image: /images/Hello there !!/hack22 WhoDis Working Document-6.svg
 ---
