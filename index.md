@@ -11,4 +11,6 @@ sections:
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
       heroType: highlights
+      button: halo
+      url: /bla
 ---
