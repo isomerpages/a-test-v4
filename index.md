@@ -11,6 +11,10 @@ sections:
       background: /images/singapore.ico
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
       button: abc
       url: /def
 ---
