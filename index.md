@@ -16,5 +16,5 @@ sections:
           description: Key Highlight description
           url: edb
       button: abc
-      url: https://www.google/cp,
+      url: https://www.google.com
 ---
