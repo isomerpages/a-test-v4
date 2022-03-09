@@ -11,4 +11,8 @@ sections:
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
       heroType: highlights
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
 ---
