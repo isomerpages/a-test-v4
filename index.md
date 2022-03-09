@@ -11,4 +11,6 @@ sections:
       background: /images/singapore.ico
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
+      button: abc
+      url: /abc
 ---
