@@ -15,5 +15,8 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: /abc
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
       url: /
 ---
