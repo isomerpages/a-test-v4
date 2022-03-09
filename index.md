@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Key Highlight Title
           description: Key Highlight description
-          url: /abc
+          url: http://ggog.ecom
         - title: abc
           description: Some description
           url: /bac
