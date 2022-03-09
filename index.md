@@ -19,7 +19,6 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
-      url: /permalink
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
