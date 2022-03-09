@@ -19,6 +19,7 @@ sections:
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
-      url: BX
+      url: /abc
       alt: Image alt text
+      image: /images/balloogelon.png
 ---
