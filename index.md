@@ -10,8 +10,5 @@ sections:
       background: /images/balloogelon.png
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
-      heroType: dropdown
-      dropdown:
-        title: ""
-        options: []
+      heroType: highlights
 ---
