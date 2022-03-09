@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Key Highlight Title
           description: Key Highlight description
-          url: ""
+          url: edb
       button: abc
       url: eee
 ---
