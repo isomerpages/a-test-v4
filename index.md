@@ -13,5 +13,7 @@ sections:
       heroType: dropdown
       dropdown:
         title: ""
-        options: []
+        options:
+          - title: Hero Dropdown Element Title
+            url: ""
 ---
