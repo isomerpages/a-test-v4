@@ -10,11 +10,11 @@ sections:
       background: /images/Dash_snapshot.png
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
-      heroType: dropdown
-      dropdown:
-        title: ""
-        options:
-          - url: ""
+      heroType: highlights
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar Titlessss
       subtitle: Infobar Subtitle
