@@ -16,7 +16,7 @@ sections:
         options:
           - url: ""
   - infobar:
-      title: Infobar Title
+      title: Infobar Titlessss
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
