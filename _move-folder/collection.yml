@@ -2,6 +2,7 @@ collections:
   move-folder:
     output: true
     order:
+      - Dele/Example Title del.md
       - Dele/.keep
       - Move subfolder/Move from subfolder to folder.md
       - Move subfolder/Move from subfolder to Workspace.md
