@@ -2,7 +2,6 @@
 layout: homepage
 title: Title 2sa
 description: An Isomer site of the Singapore Government
-image: /images/singapore.ico
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
