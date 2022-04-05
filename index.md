@@ -3,7 +3,7 @@ layout: homepage
 title: Title 2sa
 description: An Isomer site of the Singapore Government
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Here's a notification bar you can use!!
 sections:
   - hero:
       background: /images/Dash_snapshot.png
@@ -41,4 +41,3 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
-
