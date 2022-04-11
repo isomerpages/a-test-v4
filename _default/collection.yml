@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - Test/.keep
       - Blca/Example Title.md
       - Blca/Example Title 3.md
       - Blca/.keep
