@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - Asdasdsa/Example Title.md
       - Asdasdsa/.keep
       - Blca/Example Title.md
       - Blca/Example Title 3.md
