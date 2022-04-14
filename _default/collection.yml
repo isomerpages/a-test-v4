@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - Example Title.md
       - Test trailing /Example Title trailing .md
       - Test trailing /.keep
       - Blca/Example Title.md
