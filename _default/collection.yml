@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Asdasdsa/.keep
-      - Example Title.md
       - Blca/Example Title.md
       - Blca/Example Title 3.md
       - Blca/.keep
