@@ -2,9 +2,9 @@ collections:
   default:
     output: true
     order:
-      - Asdasdsa/Example Title.md
-      - Asdasdsa/.keep
+      - Blca/.keep
       - Blca/Example Title.md
       - Blca/Example Title 3.md
-      - Blca/.keep
+      - Asdasdsa/.keep
+      - Asdasdsa/Example Title.md
       - லோரம் இப்சம்.md
