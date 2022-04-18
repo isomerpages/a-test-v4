@@ -8,8 +8,8 @@ links:
     resource_room: true
   - title: Default
     collection: default
-  - title: Move Folder
-    collection: move-folder
+  - title: Move Folder Renamed
+    collection: move-folder-renamed
   - title: Menu Title
     url: /menu
     sublinks:
