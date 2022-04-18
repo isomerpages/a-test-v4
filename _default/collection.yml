@@ -2,8 +2,8 @@ collections:
   default:
     output: true
     order:
-      - Test new hi/Example Title.md
-      - Test new hi/.keep
+      - Test new/Example Title.md
+      - Test new/.keep
       - Blca/.keep
       - Blca/Example Title.md
       - Blca/Example Title 3.md
