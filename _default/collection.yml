@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Example Title.md
-      - Test new name/Example Title.md
       - Test new name/.keep
       - Blca/.keep
       - Blca/Example Title.md
