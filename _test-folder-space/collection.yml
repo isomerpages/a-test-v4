@@ -1,4 +1,5 @@
 collections:
   test-folder-space:
     output: true
-    order: []
+    order:
+      - Example Title 2.md
