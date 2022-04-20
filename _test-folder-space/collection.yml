@@ -2,4 +2,5 @@ collections:
   test-folder-space:
     output: true
     order:
+      - Test subfolder space/.keep
       - Example Title 2.md
