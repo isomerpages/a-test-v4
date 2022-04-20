@@ -1,4 +1,5 @@
 collections:
   space-2:
     output: true
-    order: []
+    order:
+      - Example Title 3.md
