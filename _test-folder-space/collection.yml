@@ -2,6 +2,7 @@ collections:
   test-folder-space:
     output: true
     order:
+      - Test subfolder space 2/Example Title .md
       - Test subfolder space 2/Example Title space 2 .md
       - Test subfolder space 2/Example Title space .md
       - Test subfolder space 2/.keep
