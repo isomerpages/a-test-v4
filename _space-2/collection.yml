@@ -2,5 +2,6 @@ collections:
   space-2:
     output: true
     order:
+      - Space/Example Title.md
       - Space/.keep
       - Example Title 3 4.md
