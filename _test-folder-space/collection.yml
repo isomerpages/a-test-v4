@@ -1,0 +1,4 @@
+collections:
+  test-folder-space:
+    output: true
+    order: []
