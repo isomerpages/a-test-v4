@@ -2,7 +2,6 @@ collections:
   default:
     output: true
     order:
-      - Example Title subf to f.md
       - Test new name 2/Example Title.md
       - Test new name 2/.keep
       - Blca/.keep
