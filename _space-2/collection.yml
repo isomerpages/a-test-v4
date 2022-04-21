@@ -4,6 +4,7 @@ collections:
     order:
       - Example Title space 2.md
       - Example Title.md
+      - Space again/Example Title space.md
       - Space again/Example Title 1.md
       - Space again/Example Title.md
       - Space again/.keep
