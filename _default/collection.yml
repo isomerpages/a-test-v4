@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - Test new name 2/Example Title subf to work.md
       - Test new name 2/Example Title subf to f.md
       - Test new name 2/Example Title.md
       - Test new name 2/.keep
