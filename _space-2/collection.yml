@@ -2,6 +2,7 @@ collections:
   space-2:
     output: true
     order:
+      - Example Title space.md
       - Example Title.md
       - Space again/Example Title 1.md
       - Space again/Example Title.md
