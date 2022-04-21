@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Space 2/.keep
-      - Example Title space 2.md
       - Example Title.md
       - Space again/Example Title space.md
       - Space again/Example Title 1.md
