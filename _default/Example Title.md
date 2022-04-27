@@ -4,7 +4,7 @@ permalink: /default/permalink
 description: ""
 ---
 Date:   02-06-2019
-<img style="width:80%;max-width:1000px;" src="/images/blog/Consumer-Journey-Map.jpg">
+![alt](/images/balloon.png)
 
 <p>Think about the last time you bought a new product - was it a cosmetic product that you saw on an advertisement, or perhaps it was bubble tea from the first outlet of the hottest Taiwanese bubble tea chain. Whichever the product you have purchased, or service that you have utilised, you have subconsciously gone through the consumer journey.
 
