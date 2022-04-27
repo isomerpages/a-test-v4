@@ -49,7 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://e2e-test-repo-staging.netlify.app
+staging: https://a-test-v4-staging.netlify.app
 prod: https://e2e-test-repo-prod.netlify.app
 shareicon: /images/singapore.ico
 facebook-pixel: test
