@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: 'Title 2 | where does this show up'
+title: Title 2 \| where does this show up
 description: An Isomer site of the Singapore Government
 permalink: /
 notification: Here's a notification bar you can use!
