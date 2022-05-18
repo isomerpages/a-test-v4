@@ -2,7 +2,7 @@ collections:
   default:
     output: true
     order:
-      - Example Title again test toasts.md
+      - Example Title again test toast.md
       - Example Title hello.md
       - Test New Name 2/.keep
       - Example Title.md
