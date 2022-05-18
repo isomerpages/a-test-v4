@@ -53,6 +53,6 @@ staging: https://a-test-v4-staging.netlify.app
 prod: https://e2e-test-repo-prod.netlify.app
 shareicon: /images/singapore.ico
 facebook-pixel: test
-google_analytics: test
+google_analytics: test2
 linkedin-insights: test
 resources_name: resources
