@@ -42,7 +42,10 @@ locations:
       - as
       - as
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: as
+        time: 1-2
+        description: "123"
     maps_link: ""
     title: a
 contacts:
