@@ -24,6 +24,13 @@ locations:
         description: ""
     maps_link: ""
     title: Main Office 2
+  - address:
+      - ""
+      - ""
+      - ""
+    title: hello
+    operating_hours: []
+    maps_link: test
 contacts:
   - content:
       - phone: +65 6123 4567
