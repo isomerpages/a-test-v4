@@ -28,9 +28,16 @@ locations:
       - ""
       - ""
       - ""
-    title: hello
     operating_hours: []
     maps_link: test
+    title: hello
+  - address:
+      - ""
+      - ""
+      - ""
+    title: hello after change
+    operating_hours: []
+    maps_link: ""
 contacts:
   - content:
       - phone: +65 6123 4567
