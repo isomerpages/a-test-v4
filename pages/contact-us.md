@@ -42,12 +42,9 @@ locations:
       - as
       - as
       - ""
-    title: a
-    operating_hours:
-      - days: mon
-        time: 1-2
-        description: hi
+    operating_hours: []
     maps_link: ""
+    title: a
 contacts:
   - content:
       - phone: +65 6123 4567
