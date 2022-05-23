@@ -35,20 +35,14 @@ locations:
       - as
       - "123"
       - ""
-    operating_hours:
-      - days: asd
-        time: "12"
-        description: asd
+    operating_hours: []
     maps_link: hello
     title: hello adter change
   - address:
       - ""
       - ""
       - ""
-    operating_hours:
-      - days: ""
-        time: ""
-        description: ""
+    operating_hours: []
     maps_link: ""
     title: aaaaaaa
 contacts:
