@@ -35,9 +35,19 @@ locations:
       - as
       - "123"
       - ""
-    title: hello adter change
     operating_hours: []
     maps_link: hello
+    title: hello adter change
+  - address:
+      - as
+      - as
+      - ""
+    title: a
+    operating_hours:
+      - days: mon
+        time: 1-2
+        description: hi
+    maps_link: ""
 contacts:
   - content:
       - phone: +65 6123 4567
