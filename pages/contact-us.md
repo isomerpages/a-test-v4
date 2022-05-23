@@ -28,14 +28,7 @@ locations:
       - ""
       - ""
       - ""
-    operating_hours: []
-    maps_link: test
-    title: hello
-  - address:
-      - ""
-      - ""
-      - ""
-    title: hello after change
+    title: aaaa
     operating_hours: []
     maps_link: ""
 contacts:
