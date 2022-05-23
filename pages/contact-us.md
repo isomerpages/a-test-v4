@@ -39,15 +39,12 @@ locations:
     maps_link: hello
     title: hello adter change
   - address:
-      - as
-      - as
       - ""
-    operating_hours:
-      - days: as
-        time: 1-2
-        description: "123"
+      - ""
+      - ""
+    title: aaaaaaa
+    operating_hours: []
     maps_link: ""
-    title: a
 contacts:
   - content:
       - phone: +65 6123 4567
