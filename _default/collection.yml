@@ -2,14 +2,14 @@ collections:
   default:
     output: true
     order:
-      - Test 2/Example Title.md
-      - Test 2/.keep
       - Test/.keep
       - Example Title again test toasty.md
       - Example Title hello.md
+      - Test 2/.keep
+      - Test 2/Example Title.md
       - Test New Name 2/.keep
-      - Test new name 3/Example Title.md
       - Test new name 3/.keep
+      - Test new name 3/Example Title.md
       - Blca/.keep
       - Blca/Example Title.md
       - Blca/Example Title 3.md
