@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - Test/.keep
       - Example Title again test toasty.md
       - Example Title hello.md
       - Test New Name 2/.keep
