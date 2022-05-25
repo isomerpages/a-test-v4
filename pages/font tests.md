@@ -14,4 +14,4 @@ image: /images/singapore.ico
 
 ###### H6
 
-normal p tests
+normal p test
