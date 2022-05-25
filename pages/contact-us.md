@@ -8,6 +8,7 @@ locations:
       - 109 North Bridge Road
       - Singapore 179097
       - ""
+    operating_hours: []
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
     title: bea
   - address:
@@ -27,12 +28,14 @@ locations:
       - ""
       - ""
       - ""
+    operating_hours: []
     maps_link: ""
     title: aaaa
   - address:
       - as
       - "123"
       - ""
+    operating_hours: []
     maps_link: hello
     title: hello adter change
   - address:
@@ -49,8 +52,9 @@ locations:
       - ""
       - ""
       - ""
-    title: asdfg
+    operating_hours: []
     maps_link: ""
+    title: asdfg
 contacts:
   - content:
       - phone: +65 6123 4567
