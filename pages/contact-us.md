@@ -7,6 +7,8 @@ locations:
   - address:
       - 109 North Bridge Road
       - Singapore 179097
+      - ""
+    operating_hours: []
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
     title: bea
   - address:
@@ -19,28 +21,75 @@ locations:
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
+        description: ""
+    maps_link: ""
     title: Main Office 2
-  - title: aaaa
+  - address:
+      - ""
+      - ""
+      - ""
+    operating_hours: []
+    maps_link: ""
+    title: aaaa
   - address:
       - as
       - "123"
+      - ""
+    operating_hours: []
     maps_link: hello
     title: hello adter change
-  - operating_hours:
+  - address:
+      - ""
+      - ""
+      - ""
+    operating_hours:
       - days: as
         time: "12"
         description: "12"
+    maps_link: ""
     title: aaaaaaaasd
-  - title: asdfg
-  - title: hello
-  - title: bye
+  - address:
+      - ""
+      - ""
+      - ""
+    operating_hours: []
+    maps_link: ""
+    title: asdfg
+  - address:
+      - ""
+      - ""
+      - ""
+    operating_hours: []
+    maps_link: ""
+    title: hello
+  - address:
+      - ""
+      - ""
+      - ""
+    operating_hours: []
+    maps_link: ""
+    title: bye
+  - address:
+      - ""
+      - ""
+      - ""
+    title: test
+    operating_hours: []
+    maps_link: ""
 contacts:
   - content:
       - phone: +65 6123 4567
       - email: abc@email.com
+      - other: ""
     title: eh
   - content:
+      - phone: ""
       - email: careers@abc.gov.sg
+      - other: ""
     title: Careers
-  - title: a
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: a
 ---
