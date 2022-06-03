@@ -15,3 +15,5 @@ image: /images/singapore.ico
 ###### H6
 
 normal p test
+
+[link](/permalink){:target="_blank"}
