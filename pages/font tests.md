@@ -16,4 +16,5 @@ image: /images/singapore.ico
 
 normal p test
 
+[ext](https://www.google.com)
 [link](/permalink){:target="_blank"}
