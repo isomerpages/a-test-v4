@@ -1,6 +1,6 @@
 ---
 title: font tests
-permalink: /font-size
+permalink: /font-size/
 date: 2022-02-11
 layout: post
 description: ""
