@@ -73,9 +73,9 @@ locations:
       - ""
       - ""
       - ""
-    title: test
     operating_hours: []
     maps_link: ""
+    title: test
 contacts:
   - content:
       - phone: +65 6123 4567
