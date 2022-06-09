@@ -2,7 +2,6 @@ collections:
   default:
     output: true
     order:
-      - Test/problem text.md
       - Test/.keep
       - Example Title again test toasty.md
       - Example Title hello.md
