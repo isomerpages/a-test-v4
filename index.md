@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title 2 \| where does this show up
+title: Title 2
 description: An Isomer site of the Singapore Government
 permalink: /
 notification: Here's a notification bar you can use!!
@@ -48,3 +48,4 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
