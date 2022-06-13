@@ -25,13 +25,12 @@ locations:
     maps_link: ""
     title: Main Office 2
   - address:
-      - "aa"
-      - "bb"
-      - "cc"
-      - "dd"
+      - aa
+      - bb
+      - cc
     operating_hours: []
     maps_link: ""
-    title: aaaa
+    title: four line
   - address:
       - as
       - "123"
