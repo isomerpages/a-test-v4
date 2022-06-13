@@ -28,6 +28,7 @@ locations:
       - aa
       - bb
       - cc
+      - dd
     operating_hours: []
     maps_link: ""
     title: four line
