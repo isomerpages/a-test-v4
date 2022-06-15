@@ -54,6 +54,5 @@ prod: https://e2e-test-repo-prod.netlify.app
 shareicon: /images/singapore.ico
 facebook-pixel: test
 linkedin-insights: test
-resources_name: resources
 is_government: false
 google_analytics: ""
