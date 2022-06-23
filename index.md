@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title 2
+title: Title
 description: An Isomer site of the Singapore Government
 permalink: /
 notification: Here's a notification bar you can use here
@@ -49,4 +49,5 @@ sections:
       button: Resources Button Name
 image: /images/2 balloon.png
 ---
+
 
