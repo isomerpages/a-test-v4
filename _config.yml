@@ -52,7 +52,7 @@ plugins:
 staging: https://a-test-v4-staging.netlify.app
 prod: https://e2e-test-repo-prod.netlify.app
 shareicon: /images/2 balloon.png
-facebook-pixel: tests
+facebook-pixel: test
 linkedin-insights: test
 is_government: false
 google_analytics: ""
