@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://a-test-v4-staging.netlify.app
 prod: https://e2e-test-repo-prod.netlify.app
-shareicon: /images/2 balloon.png
+shareicon: /images/aa.png
 facebook-pixel: testing
 linkedin-insights: test
 is_government: false
