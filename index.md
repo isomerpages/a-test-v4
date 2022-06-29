@@ -47,7 +47,8 @@ sections:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
       button: Resources Button Name
-image: /images/2 balloon.png
+image: /images/aa.png
 ---
+
 
 
