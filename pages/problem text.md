@@ -3,4 +3,4 @@ title: problem text
 permalink: /problem
 description: ""
 ---
-[XSS](javascript:alert(document.domain))
+<math><mtext><h1><a></a><h6><a></a></h6></h1></mtext></math>
