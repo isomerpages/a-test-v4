@@ -54,6 +54,6 @@ prod: https://e2e-test-repo-prod.netlify.app
 shareicon: /images/aa.png
 facebook-pixel: testing
 linkedin-insights: test
-is_government: false
+is_government: true
 google_analytics: ""
 resources_name: resources
