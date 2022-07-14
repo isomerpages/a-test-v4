@@ -2,7 +2,6 @@ collections:
   default:
     output: true
     order:
-      - To del/.keep
       - Example Title again test toasty.md
       - Example Title hello.md
       - Test/.keep
