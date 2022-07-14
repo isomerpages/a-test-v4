@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - De/.keep
       - Example Title again test toasty.md
       - 把我如到價小岸發.md
       - Test/.keep
