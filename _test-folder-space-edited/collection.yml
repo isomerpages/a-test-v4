@@ -1,5 +1,5 @@
 collections:
-  test-folder-space:
+  test-folder-space-edited:
     output: true
     order:
       - Test subfolder space 2/Example Title 2 .md
