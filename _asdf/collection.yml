@@ -1,0 +1,4 @@
+collections:
+  asdf:
+    output: true
+    order: []
