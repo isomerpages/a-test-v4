@@ -3,6 +3,7 @@ title: test message
 permalink: /accordion
 description: ""
 ---
+<a href="#blah">anchor</a>
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -54,3 +55,5 @@ description: ""
     </div>
   </li>
 </ul>
+
+<div id="blah">to be anchored</div>
