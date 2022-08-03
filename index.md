@@ -30,13 +30,13 @@ sections:
       description: Infobar description
       button: Button Text
   - infopic:
-      title: WWWWWWWWWWWWWWW
+      title: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
       subtitle: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-      description: Infopic description
-      button: WWWWWWWWWWWWWWWWWWWWW
+      description: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+      button: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
       image: /images/Hello there !!/hack22 WhoDis Working Document-6.svg
       alt: Image alt text
-      url: WWWWWWWWWWWWWWWWWWW
+      url: W
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
