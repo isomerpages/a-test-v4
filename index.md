@@ -19,6 +19,7 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+      url: <a href="https://www.markdownguide.org" target="_blank">new tab?</a>
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
