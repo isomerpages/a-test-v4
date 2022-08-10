@@ -3,10 +3,10 @@ layout: homepage
 title: Titles
 description: An Isomer site of the Singapore Government!
 permalink: /
-notification: Here's a notification bar you can use here
+notification: ""
 sections:
   - hero:
-      background: /images/Dash_snapshot.png
+      background: /images/Slide 16_9 - 6.jpg
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
       heroType: highlights
