@@ -52,6 +52,6 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: <a href="javascript:alert(document.domain)">XSS</a>
+      description: <img src='https://cure53.de/favicon.ico' onload='alert(document.domain)'>
 image: /images/aa.png
 ---
