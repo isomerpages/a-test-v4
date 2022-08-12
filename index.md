@@ -52,8 +52,6 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-      url: <a href="javascript:alert(document.domain)">XSS</a>
+      description: <a href="javascript:alert(document.domain)">XSS</a>
 image: /images/aa.png
 ---
