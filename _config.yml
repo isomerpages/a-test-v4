@@ -1,9 +1,9 @@
 title: Title
-url: ""
+url: https://www.google.com
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#ce8e8e"
-  secondary-color: "#959595"
+  secondary-color: "#d82929"
   media-colors:
     - title: media-color-one
       color: "#2180cb"
