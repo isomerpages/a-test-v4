@@ -53,6 +53,7 @@ sections:
       title: Infobar Title
       subtitle: Infobar Subtitle
       description: <img src='https://cure53.de/favicon.ico' onload='alert(document.domain)'>
-image: /images/aa.png
+image: /images/Coins-Squa222re.svg
 ---
+
 
