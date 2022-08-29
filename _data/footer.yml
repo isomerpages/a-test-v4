@@ -1,11 +1,4 @@
 show_reach: true
-social_media:
-  facebook: https://www.facebook.com/YourFacebooks
-  linkedin: https://www.linkedin.com/company/YourAgencys
-  twitter: https://www.twitter.com/YourTwitters
-  youtube: https://www.youtube.com/YourYoutubes
-  instagram: https://www.instagram.com/your.insta
-  telegram: t.me/youragency
-  tiktok: tiktok.com/@hi
+social_media: {}
 faq: /faq
 contact_us: /contact-us
