@@ -14,6 +14,8 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
+      button: hello
+      url: aaaaaa
   - infobar:
       title: Infobar Titlessss
       subtitle: Infobar Subtitle
@@ -55,5 +57,3 @@ sections:
       description: <img src='https://cure53.de/favicon.ico' onload='alert(document.domain)'>
 image: /images/Coins-Squa222re.svg
 ---
-
-
