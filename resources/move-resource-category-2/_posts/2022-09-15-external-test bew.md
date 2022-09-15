@@ -1,9 +1,8 @@
 ---
 layout: external
 date: 2022-09-15
-permalink: /resources/move-resource-category-2/tesnew/
+permalink: https://google.com
 title: test bew
 description: ""
 image: ""
 ---
-
