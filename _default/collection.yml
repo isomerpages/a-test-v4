@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Example Title!!!.md
+      - Got space/henlo.md
       - Got space/Example Title.md
       - Got space/.keep
       - Example Title again test toasty.md
