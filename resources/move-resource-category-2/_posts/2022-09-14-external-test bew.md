@@ -1,0 +1,9 @@
+---
+layout: external
+date: 2022-09-14
+permalink: /resources/move-resource-category-2/tesnew/
+title: test bew
+description: ""
+image: ""
+---
+
