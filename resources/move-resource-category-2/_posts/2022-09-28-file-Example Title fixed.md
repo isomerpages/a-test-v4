@@ -1,6 +1,6 @@
 ---
 title: Example Title fixed
-permalink: /resources/move-resource-category-2/permalink/
+permalink: ""
 date: 2022-09-28
 layout: file
 description: ""
