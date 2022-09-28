@@ -1,6 +1,5 @@
 ---
 title: Example Title fixed
-permalink: ""
 date: 2022-09-28
 layout: file
 description: ""
