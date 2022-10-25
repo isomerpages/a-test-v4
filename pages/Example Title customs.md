@@ -74,3 +74,4 @@ Upon receipt of the security, Singapore Customs will register the security withi
 <p>Once we have confirmed that you do not have any outstanding matters with us, we will inform you of our decision and notify the financial institution on the discharge of their liability under the guarantee.</p>
     </div>
   </li>
+	</div>
