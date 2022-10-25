@@ -4,11 +4,6 @@ permalink: /testing/
 description: ""
 ---
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
