@@ -64,7 +64,6 @@ Upon receipt of the security, Singapore Customs will register the security withi
 			<p>You are strongly encouraged to apply for a new guarantee under the eGuarantee@Gov programme instead of extending the validity via hardcopy guarantee.</p>
   </div>
 </li>
-	<div>
 	<li>
     <input type="checkbox" id="accordion2">
 		<label for="accordion2">3) Discharge of guarantees</label>
@@ -74,4 +73,3 @@ Upon receipt of the security, Singapore Customs will register the security withi
 <p>Once we have confirmed that you do not have any outstanding matters with us, we will inform you of our decision and notify the financial institution on the discharge of their liability under the guarantee.</p>
     </div>
   </li>
-	</div>
