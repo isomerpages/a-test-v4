@@ -3,7 +3,7 @@ layout: homepage
 title: Titles
 description: An Isomer site of the Singapore Government!
 permalink: /
-notification: ""
+notification: asd
 sections:
   - hero:
       background: /images/Slide 16_9 - 6.jpg
@@ -57,4 +57,3 @@ sections:
       description: <img src='https://cure53.de/favicon.ico' onload='alert(document.domain)'>
 image: /images/Coins-Squa222re.svg
 ---
-
