@@ -1,6 +1,6 @@
 ---
 title: card
-permalink: /card
+permalink: /card/
 description: ""
 ---
 <label for="partner-choice">Industry:</label>

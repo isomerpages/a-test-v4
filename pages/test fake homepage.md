@@ -1,6 +1,6 @@
 ---
 title: test fake homepage
-permalink: /permalink
+permalink: /permalink/
 description: ""
 ---
 <style>

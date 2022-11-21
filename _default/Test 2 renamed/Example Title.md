@@ -1,6 +1,6 @@
 ---
 title: Example Title
-permalink: /default/permalink2
+permalink: /default/permalink2/
 description: ""
 third_nav_title: Test 2 renamed
 ---

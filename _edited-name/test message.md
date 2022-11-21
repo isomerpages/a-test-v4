@@ -1,6 +1,6 @@
 ---
 title: test message
-permalink: /accordion
+permalink: /accordion/
 description: ""
 ---
 
