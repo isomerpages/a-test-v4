@@ -18,5 +18,3 @@ td, th {
 What is this?
 
 ### Answer: blah
-
- 
