@@ -41,7 +41,7 @@ defaults:
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 paginate: 12
-remote_theme: isomerpages/isomerpages-template@next-gen
+remote_theme: isomerpages/isomerpages-template@ig-script-in-page
 safe: false
 plugins:
   - jekyll-feed
