@@ -4,8 +4,7 @@ date: 2023-01-02
 layout: link
 description: ""
 image: ""
-permalink: "/asd"
-external: https://www.youtube.com/watch?v=TGKaiyk4M-U
+external: "https://www.youtube.com/watch?v=TGKaiyk4M-U"
 ---
 
 
