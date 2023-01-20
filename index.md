@@ -19,9 +19,16 @@ sections:
   - infobar:
       title: Infobar Titlessss
       subtitle: Infobar Subtitle
-      description: Infobar description
+      description: <iframe width="600" height="800"
+        src="https://datastudio.google.com/embed/reporting/8170ddff-0526-4bfa-9d7b-9e711acb73d1/page/1M"
+        frameborder="0" style="border:0" allowfullscreen></iframe>
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
       button: Button Text
-      url: <a href="https://www.markdownguide.org" target="_blank">new tab?</a>
+      image: /images/2 balloon.png
+      alt: Image alt text
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
@@ -40,13 +47,6 @@ sections:
       image: /images/Hello there !!/hack22 WhoDis Working Document-6.svg
       alt: Image alt text
       url: W
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      image: /images/2 balloon.png
-      alt: Image alt text
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
