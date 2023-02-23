@@ -1,6 +1,6 @@
 ---
 title: asdf
-permalink: /asdafg/
+permalink: /ASDF/
 description: ""
 ---
 kekl
