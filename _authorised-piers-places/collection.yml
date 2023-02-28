@@ -2,6 +2,7 @@ collections:
   authorised-piers-places:
     output: true
     order:
+      - Test Folder/.keep
       - example-test.md
       - Authorised Piers and Places/Example-subtest.md
       - Authorised Piers and Places/.keep
