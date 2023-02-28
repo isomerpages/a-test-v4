@@ -4,6 +4,8 @@ links:
     url: /contact-us/
   - title: Test
     url: /Test/
+  - title: slug test
+    collection: authorised-piers-places
   - title: Resources
     resource_room: true
   - title: Default
