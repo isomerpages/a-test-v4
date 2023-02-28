@@ -2,6 +2,7 @@ collections:
   authorised-piers-places:
     output: true
     order:
+      - example-test.md
       - Authorised Piers and Places/.keep
       - Authorised Piers and Places/other-authorised-piers-and-places.md
       - Authorised Piers and Places/other-piers-and-places.md
