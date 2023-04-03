@@ -55,6 +55,6 @@ shareicon: /images/Coins-Squa222re.svg
 facebook-pixel: 12345test
 linkedin-insights: test
 is_government: true
-google_analytics: ""
+google_analytics: "a"
 google_analytics_ga4: G-DFFR7SL4X6
 resources_name: renamed-again
