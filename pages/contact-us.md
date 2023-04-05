@@ -28,7 +28,6 @@ locations:
       - aa
       - bb
       - cc
-      - dd
     operating_hours: []
     maps_link: ""
     title: four line
@@ -74,7 +73,13 @@ locations:
       - ""
       - ""
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: mon
+        time: 1-12
+        description: "1111"
+      - days: tues
+        time: 1-2
+        description: "1234"
     maps_link: ""
     title: test
 contacts:
