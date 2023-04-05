@@ -61,6 +61,6 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: hello
+      description: <a href="https://google.com">hello</a>
 image: /images/Coins-Squa222re.svg
 ---
