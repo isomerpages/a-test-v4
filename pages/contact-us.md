@@ -66,7 +66,13 @@ locations:
       - ""
       - ""
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: aa
+        time: "12"
+        description: "123"
+      - days: bb
+        time: "13"
+        description: <a> hi </a>
     maps_link: ""
     title: bye
   - address:
