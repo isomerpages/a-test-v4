@@ -82,7 +82,7 @@ locations:
     operating_hours:
       - days: as
         time: "12"
-        description: <script>alert("hi")</script>
+        description: <script>alert("hi")</script><script>alert("hi")</script>
     maps_link: ""
     title: test
 contacts:
