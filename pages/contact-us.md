@@ -82,7 +82,7 @@ locations:
     operating_hours:
       - days: mon
         time: 1-12
-        description: <script><b>alert('hi')</b></script>
+        description: <script>asdf</script>
       - days: tues
         time: 1-2
         description: "1234"
