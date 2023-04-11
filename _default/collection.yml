@@ -4,6 +4,7 @@ collections:
     order:
       - "#hastag.md"
       - Example Title!!!.md
+      - Got space 2/#Hashtag.md
       - Got space 2/henlo.md
       - Got space 2/Example Title.md
       - Got space 2/.keep
