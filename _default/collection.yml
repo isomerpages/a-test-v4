@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - "@hello.md"
       - "#hastag.md"
       - Example Title!!!.md
       - Got space 2/#Hashtag.md
