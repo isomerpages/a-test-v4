@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - "late #hashtag.md"
       - "@hello.md"
       - "#hastag.md"
       - Example Title!!!.md
