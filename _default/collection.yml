@@ -2,7 +2,6 @@ collections:
   default:
     output: true
     order:
-      - Example Title 2.md
       - Example Title.md
       - A & a/Example Title.md
       - A & a/.keep
