@@ -4,9 +4,9 @@ collections:
     order:
       - Example Title dev.md
       - Example Title.md
-      - A & a/Example Title 2.md
-      - A & a/Example Title.md
-      - A & a/.keep
+      - A and a/Example Title 2.md
+      - A and a/Example Title.md
+      - A and a/.keep
       - "late #hashtag.md"
       - "@hello.md"
       - "#hastag.md"
