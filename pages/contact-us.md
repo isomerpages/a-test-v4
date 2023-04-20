@@ -76,7 +76,7 @@ locations:
     maps_link: ""
     title: bye
   - address:
-      - ""
+      - 36 Robinson Road
       - ""
       - ""
     operating_hours:
