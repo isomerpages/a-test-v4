@@ -1,5 +1,5 @@
 collections:
-  authorised-piers-places:
+  authorised-piers-places-s:
     output: true
     order:
       - Test Folder mod/test folder.md
