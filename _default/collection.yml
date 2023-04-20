@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - A & a/Example Title.md
       - A & a/.keep
       - "late #hashtag.md"
       - "@hello.md"
