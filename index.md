@@ -62,5 +62,5 @@ sections:
       title: Infobar Title
       subtitle: Infobar Subtitle
       description: <a href="https://google.com">hello</a>
-image: /images/Coins-Squa222re.svg
+image: /images/Slide 16_9 - 6.jpg
 ---
