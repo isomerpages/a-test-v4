@@ -20,7 +20,7 @@ sections:
       title: This is  a Dashboard
       description: <iframe width="600" height="800"
         src="https://datastudio.google.com/embed/reporting/8170ddff-0526-4bfa-9d7b-9e711acb73d1/page/1M"
-        frameborder="0" style="border:0" allowfullscreen=""></iframe>
+        frameborder="0" style="border:0" allowfullscreen></iframe>
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
@@ -40,11 +40,11 @@ sections:
         more words more words more words more words more words more words more
         words more words more words more words more words more words more words
         more words more words more words more words more words more words more
-        words more words more words more words more words more…</p>— Twitter
-        (@Twitter) <a
+        words more words more words more words more words more…</p>&mdash;
+        Twitter (@Twitter) <a
         href="https://twitter.com/Twitter/status/1623411536243965954?ref_src=twsrc%5Etfw">February
-        8, 2023</a></blockquote> <script async=""
-        src="https://platform.twitter.com/widgets.js"></script>
+        8, 2023</a></blockquote> <script async
+        src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       button: Button Text
   - infopic:
       title: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
@@ -62,5 +62,5 @@ sections:
       title: Infobar Title
       subtitle: Infobar Subtitle
       description: <a href="https://google.com">hello</a>
-image: /images/Slide 16_9 - 6.jpg
+image: /images/Coins-Squa222re.svg
 ---
