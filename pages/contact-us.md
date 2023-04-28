@@ -28,7 +28,6 @@ locations:
       - aa
       - bb
       - cc
-      - dd
     operating_hours: []
     maps_link: ""
     title: four line
@@ -67,14 +66,23 @@ locations:
       - ""
       - ""
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: aa
+        time: "12"
+        description: "123"
+      - days: bb
+        time: "13"
+        description: <a> hi </a>
     maps_link: ""
     title: bye
   - address:
+      - 36 Robinson Road
       - ""
       - ""
-      - ""
-    operating_hours: []
+    operating_hours:
+      - days: as
+        time: "12"
+        description: <script>alert("hi")</script><script>alert("hi")</script>
     maps_link: ""
     title: test
 contacts:
