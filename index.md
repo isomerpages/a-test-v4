@@ -59,7 +59,7 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
   - infobar:
-      title: Infobar Title
+      title: Infobar Title does it refetch
       subtitle: Infobar Subtitle
       description: <a href="https://google.com">hello</a>
 image: /images/Coins-Squa222re.svg
