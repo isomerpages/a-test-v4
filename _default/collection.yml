@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - Move from Workspace to folder.md
       - Example Title dev.md
       - Example Title.md
       - A & a/Example Title 2.md
