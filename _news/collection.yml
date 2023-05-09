@@ -1,5 +1,5 @@
 collections:
-  new:
+  news:
     output: true
     order:
       - Move from Workspace to subfolder.md
