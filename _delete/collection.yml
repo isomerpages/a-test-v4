@@ -1,0 +1,4 @@
+collections:
+  delete:
+    output: true
+    order: []
