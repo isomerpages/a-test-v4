@@ -2,6 +2,7 @@ collections:
   default:
     output: true
     order:
+      - Delete/.keep
       - Move from Workspace to folder.md
       - Example Title dev.md
       - Example Title.md
