@@ -6,7 +6,7 @@ permalink: /
 notification: asdf
 sections:
   - hero:
-      background: /images/aa.png
+      background: /images/AA.png
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
       heroType: highlights
