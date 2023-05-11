@@ -6,7 +6,7 @@ permalink: /
 notification: asdf
 sections:
   - hero:
-      background: /images/Slide 16_9 - 6.jpg
+      background: /images/aa.png
       subtitle: Hero subtitle
       title: Hero titlZZZZ booo
       heroType: highlights
@@ -18,9 +18,9 @@ sections:
       url: aaaaaa
   - infobar:
       title: This is  a Dashboard
-      description: <iframe width="600" height="800"
+      description: <iframe allowfullscreen="" style="border:0" frameborder="0"
         src="https://datastudio.google.com/embed/reporting/8170ddff-0526-4bfa-9d7b-9e711acb73d1/page/1M"
-        frameborder="0" style="border:0" allowfullscreen=""></iframe>
+        height="800" width="600"></iframe>
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
@@ -36,15 +36,15 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">more words
+      description: <blockquote class="twitter-tweet"><p dir="ltr" lang="en">more words
         more words more words more words more words more words more words more
         words more words more words more words more words more words more words
         more words more words more words more words more words more words more
         words more words more words more words more words more…</p>— Twitter
         (@Twitter) <a
         href="https://twitter.com/Twitter/status/1623411536243965954?ref_src=twsrc%5Etfw">February
-        8, 2023</a></blockquote> <script async=""
-        src="https://platform.twitter.com/widgets.js"></script>
+        8, 2023</a></blockquote> <script
+        src="https://platform.twitter.com/widgets.js" async=""></script>
       button: Button Text
   - infopic:
       title: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
