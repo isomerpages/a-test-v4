@@ -52,9 +52,9 @@ plugins:
 staging: https://a-test-v4-staging.netlify.app
 prod: https://e2e-test-repo-prod.netlify.app
 shareicon: /images/Slide 16_9 - 6.jpg
-facebook-pixel: "12345"
+facebook-pixel: "123456"
 linkedin-insights: test
 is_government: true
 google_analytics: a
-google_analytics_ga4: G-DFFR7SL4X6
+google_analytics_ga4: G-DFFR7SL4X5
 resources_name: renamed
