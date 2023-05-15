@@ -9,7 +9,7 @@ links:
   - title: Resources
     resource_room: true
   - title: Move Folder Renamed
-    collection: move-folder-renamed
+    collection: edited-name
   - title: Menu Title
     url: /menu
     sublinks:
