@@ -101,5 +101,4 @@ contacts:
       - email: ""
       - other: ""
     title: a
-feedback: /feedback
 ---
