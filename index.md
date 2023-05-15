@@ -3,12 +3,12 @@ layout: homepage
 title: Title
 description: An Isomer site of the Singapore Government!
 permalink: /
-notification: asdf
+notification: asd
 sections:
   - hero:
       background: /images/AA.png
       subtitle: Hero subtitle
-      title: Hero titlZZZZ booo
+      title: Hero titlZ booo
       heroType: highlights
       key_highlights:
         - title: Key Highlight Title
