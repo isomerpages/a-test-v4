@@ -4,10 +4,10 @@ links:
     url: /contact-us/
   - title: Test
     url: /Test/
-  - title: Resources
-    resource_room: true
   - title: Default
     collection: default
+  - title: Resources
+    resource_room: true
   - title: Move Folder Renamed
     collection: move-folder-renamed
   - title: Menu Title
@@ -15,5 +15,8 @@ links:
     sublinks:
       - title: Submenu Title
         url: /submenu
-      - title: Submenu Title 2
-        url: /submenu-2
+  - title: sublink 2
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
