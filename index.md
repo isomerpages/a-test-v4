@@ -20,11 +20,11 @@ sections:
       title: This is  a Dashboard
       description: <iframe allowfullscreen="" style="border:0" frameborder="0"
         src="https://datastudio.google.com/embed/reporting/8170ddff-0526-4bfa-9d7b-9e711acb73d1/page/1M"
-        height="800" width="600"></iframe>
+        height="800" width="601"></iframe>
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
-      description: Infopic description
+      description: ""
       button: Button Text
       image: /images/2 balloon.png
       alt: Image alt text
