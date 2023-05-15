@@ -2,7 +2,7 @@ logo: /images/ab.png
 links:
   - title: Contact & Us
     url: /contact-us/
-  - title: Test
+  - title: Tests
     url: /Test/
   - title: Default
     collection: default
