@@ -3,7 +3,7 @@ layout: homepage
 title: Title
 description: An Isomer site of the Singapore Government!
 permalink: /
-notification: asdf
+notification: asdfg
 sections:
   - hero:
       background: /images/AA.png
@@ -24,7 +24,6 @@ sections:
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
-      description: ""
       button: Button Text
       image: /images/2 balloon.png
       alt: Image alt text
