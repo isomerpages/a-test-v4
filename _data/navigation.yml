@@ -18,5 +18,5 @@ links:
   - title: sublink 2
     url: /permalink
     sublinks:
-      - title: Submenu Title
+      - title: Submenu Titles
         url: /permalink
