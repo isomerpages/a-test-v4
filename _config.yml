@@ -52,7 +52,7 @@ plugins:
 staging: https://a-test-v4-staging.netlify.app
 prod: https://e2e-test-repo-prod.netlify.app
 shareicon: /images/Slide 16_9 - 6.jpg
-facebook-pixel: ""
+facebook-pixel: 1231231231231231200
 linkedin-insights: test
 is_government: true
 google_analytics: a
