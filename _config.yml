@@ -3,7 +3,7 @@ url: https://www.google.com
 favicon: /images/Coins-Squa222re.svg
 colors:
   primary-color: "#ffd7d7"
-  secondary-color: "#d82929"
+  secondary-color: "#293cd8"
   media-colors:
     - title: media-color-one
       color: "#2180cb"
