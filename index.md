@@ -35,15 +35,7 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: <blockquote class="twitter-tweet"><p dir="ltr" lang="en">more words
-        more words more words more words more words more words more words more
-        words more words more words more words more words more words more words
-        more words more words more words more words more words more words more
-        words more words more words more words more words more…</p>— Twitter
-        (@Twitter) <a
-        href="https://twitter.com/Twitter/status/1623411536243965954?ref_src=twsrc%5Etfw">February
-        8, 2023</a></blockquote> <script
-        src="https://platform.twitter.com/widgets.js" async=""></script>
+      description: blah
       button: Button Text
   - infopic:
       title: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
