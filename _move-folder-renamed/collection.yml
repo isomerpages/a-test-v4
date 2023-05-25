@@ -2,6 +2,7 @@ collections:
   move-folder-renamed:
     output: true
     order:
+      - Example Title.md
       - Move subfolder/Move from subfolder to folder.md
       - Move subfolder/Move from subfolder to Workspace.md
       - Move subfolder/.keep
