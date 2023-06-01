@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - card.md
+      - Delete 2 aaa/Example Title dev.md
       - Delete 2 aaa/Example Title!!!.md
       - Delete 2 aaa/.keep
       - Delete renam/.keep
