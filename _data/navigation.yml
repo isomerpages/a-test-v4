@@ -1,22 +1,19 @@
-logo: /images/ab.png
+logo: /images/Hello there !!/isomer-logo.svg
 links:
   - title: Contact & Us
     url: /contact-us/
   - title: Test
     url: /Test/
-  - title: Default
-    collection: default
   - title: Resources
     resource_room: true
+  - title: Default
+    collection: default
   - title: Move Folder Renamed
-    collection: edited-name
+    collection: move-folder-renamed
   - title: Menu Title
     url: /menu
     sublinks:
       - title: Submenu Title
         url: /submenu
-  - title: sublink 2
-    url: /permalink
-    sublinks:
-      - title: Submenu Titles
-        url: /permalink
+      - title: Submenu Title 2
+        url: /submenu-2

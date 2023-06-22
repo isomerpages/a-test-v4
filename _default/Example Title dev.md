@@ -1,7 +1,5 @@
 ---
-title: Example Title edited
+title: Example Title dev
 permalink: /default/permalink/
 description: ""
 ---
-
-hello

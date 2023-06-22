@@ -1,6 +1,6 @@
 ---
 title: Move from Workspace to folder
-permalink: /permalink-special/
+permalink: /permalink-special
 date: 2022-02-09
 layout: post
 description: ""
