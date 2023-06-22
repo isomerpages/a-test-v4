@@ -3,12 +3,12 @@ layout: homepage
 title: Titles
 description: An Isomer site of the Singapore Government!
 permalink: /
-notification: asdf
+notification: please
 sections:
   - hero:
-      background: /images/Slide 16_9 - 6.jpg
+      background: /images/AA.png
       subtitle: Hero subtitle
-      title: Hero titlZZZZ booo
+      title: Hero title booo
       heroType: highlights
       key_highlights:
         - title: Key Highlight Title
@@ -18,13 +18,12 @@ sections:
       url: aaaaaa
   - infobar:
       title: This is  a Dashboard
-      description: <iframe width="600" height="800"
+      description: <iframe allowfullscreen="" style="border:0" frameborder="0"
         src="https://datastudio.google.com/embed/reporting/8170ddff-0526-4bfa-9d7b-9e711acb73d1/page/1M"
-        frameborder="0" style="border:0" allowfullscreen></iframe>
+        height="800" width="601"></iframe>
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
-      description: Infopic description
       button: Button Text
       image: /images/2 balloon.png
       alt: Image alt text
@@ -36,15 +35,7 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">more words
-        more words more words more words more words more words more words more
-        words more words more words more words more words more words more words
-        more words more words more words more words more words more words more
-        words more words more words more words more words more…</p>&mdash;
-        Twitter (@Twitter) <a
-        href="https://twitter.com/Twitter/status/1623411536243965954?ref_src=twsrc%5Etfw">February
-        8, 2023</a></blockquote> <script async
-        src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      description: blah
       button: Button Text
   - infopic:
       title: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
@@ -62,5 +53,5 @@ sections:
       title: Infobar Title does it refetch
       subtitle: Infobar Subtitle
       description: <a href="https://google.com">hello</a>
-image: /images/Coins-Squa222re.svg
+image: /images/Slide 16_9 - 6.jpg
 ---

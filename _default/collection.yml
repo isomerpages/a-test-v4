@@ -2,21 +2,25 @@ collections:
   default:
     output: true
     order:
-      - Example Title dev.md
+      - card.md
+      - Delete 2 aaa/Example Title dev 2.md
+      - Delete 2 aaa/Example Title!!!.md
+      - Delete 2 aaa/.keep
+      - Delete renam/.keep
       - Example Title.md
+      - A & a/Example Titles.md
       - A & a/Example Title 2.md
       - A & a/Example Title.md
       - A & a/.keep
       - "late #hashtag.md"
       - "@hello.md"
       - "#hastag.md"
-      - Example Title!!!.md
       - Got space 2/#Hashtag.md
       - Got space 2/henlo.md
       - Got space 2/Example Title.md
       - Got space 2/.keep
       - Example Title edited.md
-      - 把我如到價小岸發.md
+      - 把我如到價小小岸發.md
       - Test 2 renamed/.keep
       - Test 2 renamed/Example Title.md
       - Test New Name 2/.keep

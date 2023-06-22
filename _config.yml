@@ -2,8 +2,8 @@ title: Titles
 url: https://www.google.com
 favicon: /images/Coins-Squa222re.svg
 colors:
-  primary-color: "#ce8e8e"
-  secondary-color: "#d82929"
+  primary-color: "#ffd7d7"
+  secondary-color: "#51d829"
   media-colors:
     - title: media-color-one
       color: "#2180cb"
@@ -41,7 +41,7 @@ defaults:
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 paginate: 12
-remote_theme: isomerpages/isomerpages-template@feat-gtm
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 plugins:
   - jekyll-feed
@@ -52,9 +52,9 @@ plugins:
 staging: https://a-test-v4-staging.netlify.app
 prod: https://e2e-test-repo-prod.netlify.app
 shareicon: /images/Slide 16_9 - 6.jpg
-facebook-pixel: 12345test
 linkedin-insights: test
 is_government: true
 google_analytics: a
 google_analytics_ga4: G-DFFR7SL4X6
-resources_name: renamed-again-again-again
+resources_name: renamed-dsfdsf
+facebook-pixel: "1234567890123456"

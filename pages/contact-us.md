@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Names
+agency_name: Agency Name
 locations:
   - address:
       - 109 North Bridge Road
@@ -82,7 +82,7 @@ locations:
     operating_hours:
       - days: as
         time: "12"
-        description: <script>alert("hi")</script><script>alert("hi")</script>
+        description: ""
     maps_link: ""
     title: test
 contacts:
@@ -101,4 +101,5 @@ contacts:
       - email: ""
       - other: ""
     title: a
+feedback: /feedback/
 ---
