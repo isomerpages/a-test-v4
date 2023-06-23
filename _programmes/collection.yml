@@ -2,14 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Curriculum/.keep
-      - Curriculum/English Language.md
-      - Curriculum/Mathematics.md
-      - Curriculum/Mother Tongue Languages.md
-      - Curriculum/Science.md
-      - Curriculum/Physical Education.md
-      - Curriculum/Aesthetics.md
-      - Curriculum/Information & Communications Technology.md
       - Co Curriculum/.keep
       - Co Curriculum/Program for Active Learning.md
       - Co Curriculum/Floorball.md
@@ -20,6 +12,14 @@ collections:
       - Co Curriculum/Art Club.md
       - Co Curriculum/Environment Science Club.md
       - Co Curriculum/ICT Club.md
+      - Curriculum/.keep
+      - Curriculum/English Language.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Mother Tongue Languages.md
+      - Curriculum/Science.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Information & Communications Technology.md
       - Character Development/.keep
       - Character Development/Character & Citizenship Education.md
       - Character Development/MOE Sexuality Education.md
