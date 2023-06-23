@@ -1,0 +1,29 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Curriculum/.keep
+      - Curriculum/English Language.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Mother Tongue Languages.md
+      - Curriculum/Science.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Information & Communications Technology.md
+      - Co Curriculum/.keep
+      - Co Curriculum/Program for Active Learning.md
+      - Co Curriculum/Floorball.md
+      - Co Curriculum/Football.md
+      - Co Curriculum/Netball.md
+      - Co Curriculum/Wushu.md
+      - Co Curriculum/Modern Dance.md
+      - Co Curriculum/Art Club.md
+      - Co Curriculum/Environment Science Club.md
+      - Co Curriculum/ICT Club.md
+      - Character Development/.keep
+      - Character Development/Character & Citizenship Education.md
+      - Character Development/MOE Sexuality Education.md
+      - Character Development/Social Studies.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme/.keep
+      - Learning for Life Programme/Learning for Life Programme.md
