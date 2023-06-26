@@ -1,4 +1,5 @@
 collections:
   test-release:
     output: true
-    order: []
+    order:
+      - asdf.md
