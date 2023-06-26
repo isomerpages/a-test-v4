@@ -1,5 +1,5 @@
 collections:
-  programme:
+  programmes:
     output: true
     order:
       - Co Curriculum/.keep
