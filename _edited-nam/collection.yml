@@ -1,5 +1,5 @@
 collections:
-  edited-name:
+  edited-nam:
     output: true
     order:
       - test message.md
