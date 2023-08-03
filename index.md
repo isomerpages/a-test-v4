@@ -17,6 +17,12 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Test title
+          url: ""
       button: hello
       url: aaaaaa
 image: /images/Slide 16_9 - 6.jpg
