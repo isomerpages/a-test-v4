@@ -3,7 +3,7 @@ layout: homepage
 title: Titlesasdf
 description: An Isomer site of the Singapore Government!
 permalink: /
-notification: please
+notification: Let's do it!!!
 sections:
   - hero:
       background: /images/AA.png
@@ -25,5 +25,10 @@ sections:
           url: ""
       button: hello
       url: aaaaaa
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 image: /images/Slide 16_9 - 6.jpg
 ---
