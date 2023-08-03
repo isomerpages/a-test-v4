@@ -2,4 +2,5 @@ collections:
   order:
     output: true
     order:
+      - Example Titlea.md
       - "#hashtag.md"
