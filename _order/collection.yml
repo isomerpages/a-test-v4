@@ -2,5 +2,6 @@ collections:
   order:
     output: true
     order:
+      - faq.md
       - Example Titlea.md
       - "#hashtag.md"
