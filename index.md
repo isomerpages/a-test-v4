@@ -30,5 +30,11 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 image: /images/Slide 16_9 - 6.jpg
 ---
