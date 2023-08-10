@@ -2,5 +2,6 @@ collections:
   asedf:
     output: true
     order:
+      - Aaaaa/privacy.md
       - Aaaaa/.keep
       - test fake homepage.md
