@@ -1,7 +1,0 @@
-collections:
-  order:
-    output: true
-    order:
-      - Example Titlea.md
-      - faq.md
-      - "#hashtag.md"
