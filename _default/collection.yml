@@ -3,9 +3,6 @@ collections:
     output: true
     order:
       - card.md
-      - Delete 2 aaa/Example Title dev 2.md
-      - Delete 2 aaa/Example Title!!!.md
-      - Delete 2 aaa/.keep
       - Delete renam/.keep
       - 把我如到.md
       - A & a/Example Titles.md
