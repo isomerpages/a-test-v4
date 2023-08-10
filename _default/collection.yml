@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - card.md
-      - Delete renam/.keep
       - 把我如到.md
       - A & a/Example Titles.md
       - A & a/Example Title 2.md
