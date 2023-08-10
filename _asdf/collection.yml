@@ -1,5 +1,5 @@
 collections:
-  asedf:
+  asdf:
     output: true
     order:
       - Bbbbb/privacy.md
