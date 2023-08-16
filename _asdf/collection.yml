@@ -2,6 +2,7 @@ collections:
   asdf:
     output: true
     order:
+      - bbbbb.md
       - aaaaa.md
       - Bbbbb/privacy.md
       - Bbbbb/.keep
