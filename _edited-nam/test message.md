@@ -1,9 +1,8 @@
 ---
 title: test message
-permalink: /accordion
+permalink: /accordion/
 description: ""
 ---
-
 <a href="#blah">anchor</a>
 <ul class="jekyllcodex_accordion">
   <li>
@@ -58,3 +57,4 @@ description: ""
 </ul>
 
 <div id="blah">to be anchored</div>
+hehe
