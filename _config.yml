@@ -2,15 +2,15 @@ title: Titlesasdf
 url: https://www.google.com
 favicon: /images/Coins-Squa222re.svg
 colors:
-  primary-color: "#ffd7d7"
-  secondary-color: "#51d829"
+  primary-color: "#f5a623"
+  secondary-color: "#50e3c2"
   media-colors:
     - title: media-color-one
       color: "#2180cb"
     - title: media-color-two
-      color: "#190e24"
+      color: "#9013fe"
     - title: media-color-three
-      color: "#00838f"
+      color: "#9b9b9b"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
