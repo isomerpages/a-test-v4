@@ -15,7 +15,7 @@ sections:
         options:
           - title: Hero Dropdown Element Title
             url: ""
-          - title: Hero Dropdown Element Title
+          - title: changed
             url: ""
   - resources:
       title: Resources Section Title
