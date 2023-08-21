@@ -10,13 +10,13 @@ sections:
       subtitle: Hero subtitle
       title: Hero title booo
       heroType: highlights
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: changed
-            url: ""
+      key_highlights:
+        - title: very cool highlight
+          description: sssss
+          url: ""
+        - title: asdf
+          description: fffff
+          url: ""
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
