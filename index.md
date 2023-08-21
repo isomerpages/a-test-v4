@@ -3,7 +3,7 @@ layout: homepage
 title: Titlesas
 description: An Isomer site of the Singapore Government!
 permalink: /
-notification: Let's do it!!!
+notification: Test Test
 sections:
   - hero:
       background: /images/AA.png
