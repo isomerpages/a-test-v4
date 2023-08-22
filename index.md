@@ -11,11 +11,17 @@ sections:
       title: Hero title booo
       heroType: highlights
       key_highlights:
-        - title: asdf
-          description: fffff
+        - title: Key Highlight Title
+          description: Key Highlight description
           url: ""
         - title: very cool ssss
           description: sssss
+          url: ""
+        - title: asdf
+          description: fffff
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
           url: ""
   - infobar:
       title: Infobar Title
