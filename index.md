@@ -11,16 +11,12 @@ sections:
       title: Hero title booo
       heroType: highlights
       key_highlights:
-        - title: very cool highlight
-          description: sssss
-          url: ""
         - title: asdf
           description: fffff
           url: ""
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+        - title: very cool ssss
+          description: sssss
+          url: ""
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
@@ -28,7 +24,7 @@ sections:
       button: Button Text
   - infobar:
       title: Infobar Title
-      subtitle: Infobar Subtitle
+      subtitle: Infobar Subtitlefffffff
       description: Infobar description
       button: Button Text
   - infobar:
@@ -43,5 +39,9 @@ sections:
       button: Button Text
       image: /images/a git balloon.png
       alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 image: /images/Slide 16_9 - 6.jpg
 ---
