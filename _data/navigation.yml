@@ -2,23 +2,14 @@ logo: /images/abcdef.png
 links:
   - title: Contact & Us
     url: /contact-us/
-  - title: Test
-    url: /Test/
   - title: Default
     collection: default
   - title: Resources
     resource_room: true
-  - title: Edited Nam
-    collection: edited-nam
-  - title: Menu Title
+  - title: Menu Group
     url: /menu
     sublinks:
-      - title: Submenu Title
-        url: /submenu
-  - title: sublink 2
-    url: /permalink
-    sublinks:
-      - title: Submenu Titles
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
+      - title: Submenu 1
+        url: /submenu1
+      - title: Submenu 1
+        url: /submenu2
