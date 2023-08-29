@@ -13,3 +13,5 @@ links:
         url: /submenu1
   - title: Resources
     resource_room: true
+  - title: asdf
+    collection: asdf
