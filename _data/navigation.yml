@@ -7,9 +7,9 @@ links:
   - title: Menu Group
     url: /menu
     sublinks:
-      - title: Submenu 1
-        url: /submenu1
       - title: Submenu 2
         url: /submenu2
+      - title: Submenu 1
+        url: /submenu1
   - title: Resources
     resource_room: true
