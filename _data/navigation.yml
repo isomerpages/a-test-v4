@@ -1,9 +1,5 @@
 logo: /images/abcdef.png
 links:
-  - title: Contact & Us
-    url: /contact-us/
-  - title: Default
-    collection: default
   - title: Menu Group
     url: /menu
     sublinks:
@@ -11,7 +7,5 @@ links:
         url: /submenu2
       - title: Submenu 1
         url: /submenu1
-  - title: Resources
+  - title: Resourcesssssss
     resource_room: true
-  - title: asdf
-    collection: asdf
