@@ -6,7 +6,7 @@ permalink: /
 notification: Test Test
 sections:
   - hero:
-      background: /images/a git balloon.png
+      background: /images/Hello $$$()/We need to go deeper/deep balloon.png
       subtitle: Hero subtitle
       title: Hero title booo
       heroType: highlights
