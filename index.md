@@ -25,7 +25,7 @@ sections:
           url: ""
   - infobar:
       title: Infobar Title
-      subtitle: Infobar Subtitle
+      subtitle: Infobar Subtitles
       description: Infobar description
       button: Button Text
   - infobar:
