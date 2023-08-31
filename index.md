@@ -6,7 +6,7 @@ permalink: /
 notification: Test Test
 sections:
   - hero:
-      background: /images/Hello $$$()/We need to go deeper/deep balloon.png
+      background: /images/Johnrogershousemay2020.webp
       subtitle: Hero subtitle
       title: Hero title booo
       heroType: highlights
