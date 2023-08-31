@@ -6,7 +6,7 @@ permalink: /
 notification: Test Test
 sections:
   - hero:
-      background: /images/Dash_snapshot.png
+      background: /images/Johnrogershousemay2020.webp
       subtitle: Hero subtitle
       title: Hero title booo
       heroType: highlights
@@ -33,11 +33,13 @@ sections:
       subtitle: Infobar Subtitlefffffff
       description: Infobar description
       button: Button Text
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
       button: Button Text
+      alt: Image alt text
   - infopic:
       title: Infopic Title
       subtitle: infoooooooo
@@ -45,6 +47,11 @@ sections:
       button: Button Text
       image: /images/a git balloon.png
       alt: Image alt text
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
