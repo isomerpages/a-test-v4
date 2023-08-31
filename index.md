@@ -6,7 +6,7 @@ permalink: /
 notification: Test Test
 sections:
   - hero:
-      background: /images/Johnrogershousemay2020.webp
+      background: /images/Dash_snapshot.png
       subtitle: Hero subtitle
       title: Hero title booo
       heroType: highlights
