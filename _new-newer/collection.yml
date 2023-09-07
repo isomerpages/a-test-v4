@@ -1,5 +1,0 @@
-collections:
-  new-newer:
-    output: true
-    order:
-      - test create and push.md
