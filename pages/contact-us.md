@@ -36,7 +36,7 @@ locations:
       - "123"
       - ""
     operating_hours: []
-    maps_link: hello
+    maps_link: ""
     title: hello adter change
   - address:
       - ""
