@@ -1,4 +1,5 @@
 collections:
   new-new:
     output: true
-    order: []
+    order:
+      - test create and push.md
