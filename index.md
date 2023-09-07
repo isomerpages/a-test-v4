@@ -20,6 +20,7 @@ sections:
           url: ""
       button: Hero title boooasdfasdfffHero title title boooasdfasdfff
       url: kk
+      variant: image
   - infopic:
       title: Infopic
       subtitle: Add an image and text
