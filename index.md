@@ -18,7 +18,7 @@ sections:
             url: ""
       title: Testing
       subtitle: my stuff
-      size: one-third
+      size: 33%
       alignment: right
   - infopic:
       title: Infopic
