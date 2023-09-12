@@ -8,19 +8,14 @@ sections:
   - hero:
       background: /images/Dash_snapshot.png
       heroType: highlights
-      key_highlights:
-        - title: very cool ssss
-          description: sssss
-          url: ""
-        - title: asdf
-          description: fffff
-          url: ""
-        - title: ""
-          description: asdf
-          url: ""
-      button: Hero title boooasdfasdfffHero title title boooasdfasdfff
-      url: kk
       variant: image
+      dropdown:
+        title: asdfasdfHero Dropdown Title
+        options:
+          - title: Dropdown Element Title
+            url: ""
+          - title: asdfasdf
+            url: ""
   - infopic:
       title: Infopic
       subtitle: Add an image and text
