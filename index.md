@@ -20,6 +20,7 @@ sections:
       subtitle: my stuff
       size: 33%
       alignment: right
+      backgroundColor: gray
   - infopic:
       title: Infopic
       subtitle: Add an image and text
