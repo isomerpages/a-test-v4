@@ -8,7 +8,7 @@ sections:
   - hero:
       background: /images/Dash_snapshot.png
       heroType: highlights
-      variant: image
+      variant: side
       dropdown:
         title: asdfasdfHero Dropdown Title
         options:
@@ -16,6 +16,10 @@ sections:
             url: ""
           - title: asdfasdf
             url: ""
+      title: Testing
+      subtitle: my stuff
+      size: one-third
+      alignment: right
   - infopic:
       title: Infopic
       subtitle: Add an image and text
