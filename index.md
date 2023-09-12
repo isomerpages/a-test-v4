@@ -9,13 +9,6 @@ sections:
       background: /images/Dash_snapshot.png
       heroType: highlights
       variant: side
-      dropdown:
-        title: asdfasdfHero Dropdown Title
-        options:
-          - title: Dropdown Element Title
-            url: ""
-          - title: asdfasdf
-            url: ""
       title: Testing
       subtitle: my stuff
       size: 33%
