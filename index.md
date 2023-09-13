@@ -8,12 +8,19 @@ sections:
   - hero:
       background: /images/Dash_snapshot.png
       heroType: highlights
-      variant: side
+      variant: image
       title: Testing
       subtitle: my stuff
       size: 33%
       alignment: left
       backgroundColor: gray
+      dropdown:
+        title: Hero Dropdown Title
+        options:
+          - title: Hero Dropdown Element Title
+            url: ""
+          - title: Hero Drown Elemeffffnt Title
+            url: ""
   - infopic:
       title: Infopic
       subtitle: Add an image and text
