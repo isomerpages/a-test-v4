@@ -14,6 +14,7 @@ sections:
       size: 33%
       alignment: left
       backgroundColor: gray
+      highlights: []
   - infopic:
       title: Infopic
       subtitle: Add an image and text
