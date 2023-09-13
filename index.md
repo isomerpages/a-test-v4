@@ -12,7 +12,7 @@ sections:
       title: Testing
       subtitle: my stuff
       size: 33%
-      alignment: right
+      alignment: left
       backgroundColor: gray
       dropdown:
         title: Hero Dropdown Title
