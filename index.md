@@ -14,7 +14,13 @@ sections:
       size: 33%
       alignment: left
       backgroundColor: gray
-      highlights: []
+      dropdown:
+        title: Hero Dropdown Title
+        options:
+          - title: Hero Dropdown Element Title
+            url: ""
+          - title: Hero Dropdown Element Title
+            url: ""
   - infopic:
       title: Infopic
       subtitle: Add an image and text
