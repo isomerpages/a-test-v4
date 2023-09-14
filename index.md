@@ -14,6 +14,12 @@ sections:
       size: 33%
       alignment: left
       backgroundColor: gray
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+      button: aaaaa
+      url: google.com
   - infopic:
       title: Infopic
       subtitle: Add an image and text
