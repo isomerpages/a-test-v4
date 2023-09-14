@@ -14,6 +14,9 @@ sections:
       size: 33%
       alignment: left
       backgroundColor: gray
+      dropdown:
+        title: ""
+        options: []
   - infopic:
       title: Infopic
       subtitle: Add an image and text
