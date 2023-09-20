@@ -8,11 +8,8 @@ sections:
   - hero:
       background: /images/Dash_snapshot.png
       heroType: highlights
-      variant: image
       title: Testing
       subtitle: my stuff
-      size: 33%
-      alignment: left
       backgroundColor: gray
       key_highlights:
         - title: Key Highlight Title
