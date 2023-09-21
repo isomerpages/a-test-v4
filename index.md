@@ -3,20 +3,19 @@ layout: homepage
 title: Titlesas
 description: An Isomer site of the Singapore Government!
 permalink: /
-notification: aasfasdfasdfasdfg
+notification: "Sign up to be a beta tester today: https://go.gov.sg/isomer-beta"
 sections:
   - hero:
-      background: /images/Dash_snapshot.png
+      background: /images/istockphoto-1189130621-612x612.jpg
       heroType: highlights
-      title: Testing
-      subtitle: my stuff
-      backgroundColor: gray
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-      button: aaaaa
+      title: Isomer CMS
+      subtitle: A Site to Behold
+      backgroundColor: white
+      button: Learn more
       url: google.com
+      variant: floating
+      alignment: left
+      size: 33%
   - infopic:
       title: Infopic
       subtitle: Add an image and text
@@ -31,12 +30,6 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
