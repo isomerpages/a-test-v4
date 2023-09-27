@@ -6,16 +6,23 @@ permalink: /
 notification: "Sign up to be a beta tester today: https://go.gov.sg/isomer-beta"
 sections:
   - hero:
-      background: /images/istockphoto-1189130621-612x612.jpg
+      background: /images/gbtbgb.jpg
       heroType: highlights
-      title: Isomer CMS
-      subtitle: A Site to Behold
+      title: Rediscover Gardens by the Bay
+      subtitle: Enjoy a beautiful day out at the Gardens in the heart of Singapore
       backgroundColor: white
       button: Learn more
-      url: google.com
+      url: https://www.gardensbythebay.com.sg/
       variant: side
       alignment: left
       size: 50%
+      key_highlights:
+        - title: Plan your trip
+          description: Sample itineraries and more
+          url: https://www.gardensbythebay.com.sg/
+        - title: Support the gardens
+          description: Donations and volunteering
+          url: https://www.gardensbythebay.com.sg/
   - infopic:
       title: Infopic
       subtitle: Add an image and text
