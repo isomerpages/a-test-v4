@@ -1,11 +1,18 @@
 logo: /images/abcdef.png
 links:
-  - title: Menu Group
+  - title: Overview
     url: /menu
     sublinks:
-      - title: Submenu 2
+      - title: About Isomer
         url: /submenu2
-      - title: Submenu 1
+      - title: Organiser
         url: /submenu1
-  - title: Resourcesssssss
+  - title: Programme
     resource_room: true
+  - title: 2023 Isomer NPS
+    url: /permalink
+    sublinks:
+      - title: "-14"
+        url: /permalink
+      - title: "-3"
+        url: /permalink
