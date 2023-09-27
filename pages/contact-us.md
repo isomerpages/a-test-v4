@@ -8,7 +8,10 @@ locations:
       - 109 North Bridge Road
       - Singapore 179097
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: Mon - Fri
+        time: all day
+        description: ""
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
     title: bea
   - address:
