@@ -13,15 +13,15 @@ sections:
       backgroundColor: white
       button: Learn more
       url: https://www.gardensbythebay.com.sg/
-      variant: floating
+      variant: side
       alignment: left
       size: 50%
       key_highlights:
-        - title: Plan your trip
-          description: Sample itineraries and more
-          url: https://www.gardensbythebay.com.sg/
         - title: Support the gardens
           description: Donations and volunteering
+          url: https://www.gardensbythebay.com.sg/
+        - title: Plan your trip
+          description: Sample itineraries and more
           url: https://www.gardensbythebay.com.sg/
   - infopic:
       title: Infopic
@@ -46,8 +46,13 @@ sections:
       id: announcements
       subtitle: "2023"
       announcement_items:
+        - title: New Announcement
+          date: 27 September 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
         - title: "New home page block: Announcements!"
-          date: 26 September 2023
+          date: 13 September 2023
           announcement: We've released a new 'Announcements' block. As its name suggests,
             it can be used for announcements.
           link_text: Learn more
