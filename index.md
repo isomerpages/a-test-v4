@@ -13,9 +13,9 @@ sections:
       backgroundColor: white
       button: Learn more
       url: google.com
-      variant: floating
+      variant: side
       alignment: left
-      size: 33%
+      size: 50%
   - infopic:
       title: Infopic
       subtitle: Add an image and text
