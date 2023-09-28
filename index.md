@@ -47,13 +47,15 @@ sections:
         columns instead
       alt: Info Columns
       subtitle: new block
+      image: /images/info columns.png
   - infopic:
       title: Image Cards
       subtitle: New block
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Make your info more attention-grabbing by including images along
+        with your text cards.
       alt: Image alt text
+      image: /images/image cards.png
   - infopic:
       title: Infopic
       subtitle: Add an image and text
