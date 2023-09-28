@@ -43,7 +43,7 @@ sections:
         - title: 3 New blocks
           date: 28 September 2023
           announcement: "Users can now make better home pages with the 3 most requested
-            blocks: hero banner, "
+            blocks: hero banner,"
           link_text: ""
           link_url: ""
   - infopic:
