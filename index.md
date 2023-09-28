@@ -17,6 +17,10 @@ sections:
       variant: floating
       alignment: left
       size: 50%
+      key_highlights:
+        - title: We're moving the needle
+          description: NPS went up from -14 → -7
+          url: ""
   - announcements:
       title: What we're shipped so far
       id: announcements
