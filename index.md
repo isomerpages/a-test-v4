@@ -13,7 +13,7 @@ sections:
         and more. Build beautiful sites without a single line of code.
       backgroundColor: white
       button: Learn more
-      url: https://www.gardensbythebay.com.sg/
+      url: https://www.gardensbythebay.com.sg//
       variant: floating
       alignment: left
       size: 50%
