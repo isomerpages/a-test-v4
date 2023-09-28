@@ -28,16 +28,17 @@ sections:
             blocks we intend to introduce.
           link_text: ""
           link_url: ""
+        - title: Github Git Solution (GGs)
+          date: 04 September 2023
+          announcement: GGs has proven to be a stable and reliable solution to our Github
+            token issue. It has now been rolled out to 99 email-login sites
+          link_text: ""
+          link_url: ""
         - title: Contact Us, Nav Bar Styles Revamp
           date: 14 September 2023
           announcement: Announcement contentwweqwewqewqewqewq
           link_text: ""
           link_url: wewqewqew
-        - title: New Announcement
-          date: 28 September 2023
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
   - infopic:
       title: Info Columns
       id: infopic
