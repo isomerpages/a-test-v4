@@ -18,12 +18,11 @@ sections:
       alignment: left
       size: 50%
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Info Columns
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: Break the monotony of paragraphs, and arrange your text in multiple
+        columns instead
+      alt: Info Columns
   - infopic:
       title: Infopic
       subtitle: Add an image and text
@@ -46,13 +45,6 @@ sections:
           announcement: Announcement contentwweqwewqewqewqewq
           link_text: ""
           link_url: wewqewqew
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - infopic:
       title: Infopic
       subtitle: Add an image and text
