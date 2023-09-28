@@ -50,7 +50,7 @@ sections:
         - title: New Announcement
           date: 14 September 2023
           announcement: Announcement contentwweqwewqewqewqewq
-          link_text: wewqweqewq
+          link_text: ""
           link_url: wewqewqew
   - infopic:
       title: Infopic
