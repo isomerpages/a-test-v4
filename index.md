@@ -8,8 +8,9 @@ sections:
   - hero:
       background: /images/gbtbgb.jpg
       heroType: highlights
-      title: Rediscover Gardens by the Bay
-      subtitle: Enjoy a beautiful day out at the Gardens in the heart of Singapore
+      title: This year, we're making Isomer better.
+      subtitle: New image, and table templates, faster Staging previews, bulk uploads,
+        and more. Build beautiful sites without a single line of code.
       backgroundColor: white
       button: Learn more
       url: https://www.gardensbythebay.com.sg/
