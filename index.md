@@ -69,7 +69,7 @@ sections:
       description: Say goodbye to Github IDs and email OTPs. Scan the Singpass QR code
         to log in.
       alt: Image alt text
-      image: /images/nvidia_share_xtzmk08bzc.png
+      image: /images/sgid-preview-2.png
   - textcards:
       title: Upcoming Features
       subtitle: we're only getting started
