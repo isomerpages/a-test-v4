@@ -81,8 +81,12 @@ sections:
             viewing
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Image Blocks
+          description: Image sliders, Image with text, Album block
+          linktext: Learn more
+          url: /page-url
+        - title: Building blocks
+          description: Tables, embeds, text, and code blocks
           linktext: Learn more
           url: ""
 image: /images/Slide 16_9 - 6.jpg
