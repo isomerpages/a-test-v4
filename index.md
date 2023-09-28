@@ -17,34 +17,41 @@ sections:
       variant: floating
       alignment: left
       size: 50%
+  - announcements:
+      title: What we're shipped so far
+      id: announcements
+      subtitle: "2023"
+      announcement_items:
+        - title: Homepage Styles Revamp
+          date: 21 August 2023
+          announcement: We revamped the blocks in the homepage, in preparation for the new
+            blocks we intend to introduce.
+          link_text: ""
+          link_url: ""
+        - title: Contact Us, Nav Bar Styles Revamp
+          date: 14 September 2023
+          announcement: Announcement contentwweqwewqewqewqewq
+          link_text: ""
+          link_url: wewqewqew
+        - title: New Announcement
+          date: 28 September 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Info Columns
       id: infopic
       description: Break the monotony of paragraphs, and arrange your text in multiple
         columns instead
       alt: Info Columns
+      subtitle: new block
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Image Cards
+      subtitle: New block
       id: infopic
       description: Infopic description
       button: Button Text
       alt: Image alt text
-  - announcements:
-      title: wwwwwwwww
-      id: announcements
-      subtitle: 2023www
-      announcement_items:
-        - title: New Announcement ss
-          date: 27 September 2023
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-        - title: New Announcement
-          date: 14 September 2023
-          announcement: Announcement contentwweqwewqewqewqewq
-          link_text: ""
-          link_url: wewqewqew
   - infopic:
       title: Infopic
       subtitle: Add an image and text
