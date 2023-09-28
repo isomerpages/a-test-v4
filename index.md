@@ -38,20 +38,33 @@ sections:
       button: Button Text
       alt: Image alt text
   - announcements:
-      title: Announcements
+      title: wwwwwwwww
       id: announcements
-      subtitle: "2023"
+      subtitle: 2023www
       announcement_items:
-        - title: New Announcement
+        - title: New Announcement ss
           date: 27 September 2023
           announcement: Announcement content
           link_text: ""
           link_url: ""
-        - title: "New home page block: Announcements!"
-          date: 13 September 2023
-          announcement: We've released a new 'Announcements' block. As its name suggests,
-            it can be used for announcements.
-          link_text: Learn more
-          link_url: https://google.com
+        - title: New Announcement
+          date: 14 September 2023
+          announcement: Announcement contentwweqwewqewqewqewq
+          link_text: wewqweqewq
+          link_url: wewqewqew
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 image: /images/Slide 16_9 - 6.jpg
 ---
