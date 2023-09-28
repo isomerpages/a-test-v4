@@ -40,29 +40,36 @@ sections:
             Bar changes as well
           link_text: ""
           link_url: ""
+        - title: 3 New blocks
+          date: 28 September 2023
+          announcement: "Users can now make better home pages with the 3 most requested
+            blocks: hero banner, "
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Info Columns
       id: infopic
       description: Break the monotony of paragraphs, and arrange your text in multiple
         columns instead
       alt: Info Columns
-      subtitle: new block
+      subtitle: upcoming block
       image: /images/info columns.png
   - infopic:
       title: Image Cards
-      subtitle: New block
+      subtitle: upcoming block
       id: infopic
       description: Make your info more attention-grabbing by including images along
         with your text cards.
       alt: Image alt text
       image: /images/image cards.png
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: SGID Login
+      subtitle: upcoming feature
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Say goodbye to Github IDs and email OTPs. Scan the Singpass QR code
+        to log in.
       alt: Image alt text
+      image: /images/nvidia_share_xtzmk08bzc.png
   - textcards:
       title: Text Cards
       subtitle: Add informational text
