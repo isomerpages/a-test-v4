@@ -18,8 +18,8 @@ sections:
       alignment: left
       size: 50%
       key_highlights:
-        - title: We're moving the needle
-          description: NPS went up from -14 → -7
+        - title: NPS went up from -14 → -7
+          description: We're moving the needle
           url: ""
   - announcements:
       title: What we're shipped so far
