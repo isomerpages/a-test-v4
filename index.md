@@ -35,8 +35,9 @@ sections:
           link_text: ""
           link_url: ""
         - title: Contact Us, Nav Bar Styles Revamp
-          date: 14 September 2023
-          announcement: Announcement contentwweqwewqewqewqewq
+          date: 12 September 2023
+          announcement: We've extended the latest styles to the Contact Us and Navigation
+            Bar changes as well
           link_text: ""
           link_url: wewqewqew
   - infopic:
