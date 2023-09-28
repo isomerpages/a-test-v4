@@ -39,7 +39,7 @@ sections:
           announcement: We've extended the latest styles to the Contact Us and Navigation
             Bar changes as well
           link_text: ""
-          link_url: wewqewqew
+          link_url: ""
   - infopic:
       title: Info Columns
       id: infopic
