@@ -43,7 +43,7 @@ sections:
         - title: 3 New blocks
           date: 28 September 2023
           announcement: "Users can now make better home pages with the 3 most requested
-            blocks: hero banner,"
+            blocks: Hero banner, Text cards, and Announcements."
           link_text: ""
           link_url: ""
   - infopic:
@@ -71,11 +71,16 @@ sections:
       alt: Image alt text
       image: /images/nvidia_share_xtzmk08bzc.png
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Upcoming Features
+      subtitle: we're only getting started
       id: textcards
-      description: Text card description
+      description: Build sites on Isomer like never before
       cards:
+        - title: Review your work more easily
+          description: mobile preview, notifications when the staging site is ready for
+            viewing
+          linktext: Learn more
+          url: ""
         - title: Card
           description: Card description
           linktext: Learn more
