@@ -77,7 +77,7 @@ sections:
       description: Build sites on Isomer like never before
       cards:
         - title: Review your work more easily
-          description: mobile preview, notifications when the staging site is ready for
+          description: Mobile preview, notifications when your staging site is ready for
             viewing
           linktext: Learn more
           url: ""
