@@ -17,13 +17,6 @@ sections:
       variant: floating
       alignment: left
       size: 50%
-      key_highlights:
-        - title: Support the gardens
-          description: Donations and volunteering
-          url: https://www.gardensbythebay.com.sg/
-        - title: Plan your trip
-          description: Sample itineraries and more
-          url: https://www.gardensbythebay.com.sg/
   - infopic:
       title: Infopic
       subtitle: Add an image and text
