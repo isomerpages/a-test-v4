@@ -4,10 +4,10 @@ links:
     url: /menu
     sublinks:
       - title: About Isomer
-        url: /submenu2
-      - title: Organiser
-        url: /submenu1
-  - title: Programme
+        url: /about
+      - title: Meet the team
+        url: /isomer-team
+  - title: Product Roadmap
     resource_room: true
   - title: 2023 Isomer NPS
     url: /permalink
