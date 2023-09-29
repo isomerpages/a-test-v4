@@ -3,7 +3,7 @@ layout: homepage
 title: IsomerCMS
 description: An Isomer site of the Singapore Government!
 permalink: /
-notification: "Sign up to be a beta tester today: https://go.gov.sg/isomer-beta"
+notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
