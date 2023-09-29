@@ -3,7 +3,7 @@ url: https://www.google.com
 favicon: /images/isomer.png
 colors:
   primary-color: "#4a90e2"
-  secondary-color: "#ffffff"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#2180cb"
