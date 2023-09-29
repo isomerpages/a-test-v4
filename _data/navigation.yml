@@ -1,14 +1,20 @@
 logo: /images/isomer.png
 links:
-  - title: Overview
+  - title: Product Roadmap
     url: /menu
     sublinks:
-      - title: About Isomer
+      - title: Code Block
         url: /about
-      - title: Meet the team
+      - title: Image Block
         url: /isomer-team
-  - title: Product Roadmap
-    resource_room: true
+      - title: Image with Text Block
+        url: /permalink
+      - title: Gallery Block
+        url: /permalink
+      - title: Table Block
+        url: /permalink
+      - title: New submenu
+        url: /permalink
   - title: 2023 Isomer NPS
     url: /permalink
     sublinks:
