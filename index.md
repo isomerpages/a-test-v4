@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Titlesas
+title: IsomerCMS
 description: An Isomer site of the Singapore Government!
 permalink: /
 notification: "Sign up to be a beta tester today: https://go.gov.sg/isomer-beta"
