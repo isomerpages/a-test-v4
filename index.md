@@ -14,15 +14,15 @@ sections:
       backgroundColor: white
       button: Learn more
       url: https://www.gardensbythebay.com.sg//
-      variant: center
-      alignment: right
+      variant: side
+      alignment: left
       size: 33%
       key_highlights:
         - title: NPS went up from -14 → -7
           description: We're moving the needle
           url: ""
   - announcements:
-      title: What we're shipped so far
+      title: What we've shipped so far
       id: announcements
       subtitle: "2023"
       announcement_items:
