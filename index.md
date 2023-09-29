@@ -6,7 +6,7 @@ permalink: /
 notification: "Sign up to be a beta tester today: https://go.gov.sg/isomer-beta"
 sections:
   - hero:
-      background: /images/gbtbgb.jpg
+      background: /images/hero-banner.png
       heroType: highlights
       title: This year, we're making Isomer better.
       subtitle: New image, and table templates, faster Staging previews, bulk uploads,
