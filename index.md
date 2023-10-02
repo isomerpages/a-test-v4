@@ -14,9 +14,9 @@ sections:
       backgroundColor: white
       button: Learn more
       url: https://www.gardensbythebay.com.sg//
-      variant: center
+      variant: side
       alignment: left
-      size: 33%
+      size: 50%
       key_highlights:
         - title: NPS went up from -14 → -7
           description: We're moving the needle
