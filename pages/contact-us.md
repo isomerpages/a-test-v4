@@ -6,7 +6,7 @@ agency_name: Isomer
 locations:
   - address:
       - 36 Robinson Road
-      - Singapore 179097
+      - "#19-01"
       - "068877"
     operating_hours:
       - days: Mon - Sun
