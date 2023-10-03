@@ -16,7 +16,7 @@ sections:
       url: https://www.gardensbythebay.com.sg//
       variant: side
       alignment: left
-      size: md
+      size: sm
       key_highlights:
         - title: NPS went up from -14 → -7
           description: We're moving the needle
