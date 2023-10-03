@@ -93,5 +93,9 @@ sections:
           description: Tables, embeds, text, and code blocks
           linktext: Learn more
           url: ""
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 image: /images/Slide 16_9 - 6.jpg
 ---
