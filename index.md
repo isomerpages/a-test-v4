@@ -94,8 +94,9 @@ sections:
           linktext: Learn more
           url: ""
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: Publicity
+      subtitle: Isomer in the news
       id: resources
+      button: View all
 image: /images/Slide 16_9 - 6.jpg
 ---
