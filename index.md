@@ -93,10 +93,5 @@ sections:
           description: Tables, embeds, text, and code blocks
           linktext: Learn more
           url: ""
-  - resources:
-      title: Publicity
-      subtitle: Isomer in the news
-      id: resources
-      button: View all
 image: /images/Slide 16_9 - 6.jpg
 ---
