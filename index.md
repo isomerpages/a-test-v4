@@ -11,10 +11,10 @@ sections:
       title: This year, we're making Isomer better.
       subtitle: New image, and table templates, faster Staging previews, bulk uploads,
         and more. Build beautiful sites without a single line of code.
-      backgroundColor: black
+      backgroundColor: white
       button: Learn more
       url: https://www.gardensbythebay.com.sg//
-      variant: side
+      variant: floating
       alignment: right
       size: md
       key_highlights:
