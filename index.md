@@ -14,7 +14,7 @@ sections:
       backgroundColor: white
       button: Learn more
       url: https://www.gardensbythebay.com.sg//
-      variant: floating
+      variant: center
       alignment: left
       size: md
       key_highlights:
