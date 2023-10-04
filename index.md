@@ -12,9 +12,8 @@ sections:
       subtitle: New image, and table templates, faster Staging previews, bulk uploads,
         and more. Build beautiful sites without a single line of code.
       backgroundColor: white
-      button: Learn more
       url: https://www.gardensbythebay.com.sg//
-      variant: center
+      variant: image
       alignment: left
       size: md
       key_highlights:
