@@ -15,7 +15,7 @@ sections:
       button: Learn more
       url: https://www.gardensbythebay.com.sg//
       variant: floating
-      alignment: right
+      alignment: left
       size: md
       key_highlights:
         - title: NPS went up from -14 → -7
