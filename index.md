@@ -9,7 +9,7 @@ sections:
       background: /images/hero-banner.png
       heroType: highlights
       title: This year, we're making Isomer better.
-      subtitle: New image, and table templates, faster Staging previews, bulk uploads,
+      subtitle: New image and table templates, faster Staging previews, bulk uploads,
         and more. Build beautiful sites without a single line of code.
       backgroundColor: white
       url: https://www.gardensbythebay.com.sg//
