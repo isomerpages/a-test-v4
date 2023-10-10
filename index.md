@@ -30,7 +30,7 @@ sections:
           announcement: We revamped the blocks in the homepage, in preparation for the new
             blocks we intend to introduce.
           link_text: Learn more
-          link_url: /page-url
+          link_url: /page-urls
         - title: Github Git Solution (GGs)
           date: 04 September 2023
           announcement: GGs has proven to be a stable and reliable solution to our Github
