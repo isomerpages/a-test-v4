@@ -4,7 +4,10 @@ permalink: /new-gazette/
 description: ""
 ---
 FRIDAY, OCTOBER 13, 2023 1  
-**First published in the Government Gazette, Electronic Edition, on 10 October 2023 at 5 pm. **
+**First published in the Government Gazette, Electronic Edition, on 10 October 2023 at 5 pm. 
+
+---
+
 
 **No. 3022** –– BANKRUPTCY ACT (CHAPTER 20, 2009 REVISED EDITION)  
 ORDER BE DISCHARGED  
