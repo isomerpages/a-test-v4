@@ -3,7 +3,6 @@ title: FRIDAY,  OCTOBER  13,  2023
 permalink: /friday-october-13-2023/
 description: ""
 ---
-FRIDAY, OCTOBER 13, 2023 1  
 First published in the Government Gazette, Electronic Edition, on 10 October 2023 at 5 pm. 
 
 ---
