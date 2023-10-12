@@ -74,7 +74,7 @@ sections:
       description: Break the monotony of paragraphs, and arrange your text in multiple
         columns instead
       alt: Info Columns
-      subtitle: upcoming block
+      subtitle: Upcoming block
       image: /images/info columns.png
   - infopic:
       title: Image Cards
