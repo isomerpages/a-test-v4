@@ -22,3 +22,9 @@ links:
         url: /permalink
       - title: "-3"
         url: /permalink
+      - title: New submenu
+        url: /permalink
+  - title: New folder
+    collection: asdf
+  - title: New resource room
+    resource_room: true
