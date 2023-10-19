@@ -57,25 +57,6 @@ sections:
       alt: Info Columns
       subtitle: Upcoming block
       image: /images/info columns.png
-  - textcards:
-      title: Upcoming Features
-      subtitle: we're only getting started
-      id: textcards
-      description: Build sites on Isomer like never before
-      cards:
-        - title: Review your work more easily
-          description: Mobile preview, notifications when your staging site is ready for
-            viewing
-          linktext: Learn more
-          url: ""
-        - title: Image Blocks
-          description: Image sliders, Image with text, Album block
-          linktext: Learn more
-          url: /page-url
-        - title: Building blocks
-          description: Tables, embeds, text, and code blocks
-          linktext: Learn more
-          url: ""
   - infopic:
       title: Image Cards
       subtitle: upcoming block
@@ -92,5 +73,23 @@ sections:
         to log in.
       alt: Image alt text
       image: /images/sgid-preview-2.png
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 image: /images/Slide 16_9 - 6.jpg
 ---
