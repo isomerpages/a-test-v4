@@ -49,6 +49,14 @@ sections:
             blocks: Hero banner, Text cards, and Announcements."
           link_text: ""
           link_url: ""
+  - infopic:
+      title: Info Columns
+      id: infopic
+      description: Break the monotony of paragraphs, and arrange your text in multiple
+        columns instead
+      alt: Info Columns
+      subtitle: Upcoming block
+      image: /images/info columns.png
   - textcards:
       title: Upcoming Features
       subtitle: we're only getting started
@@ -68,14 +76,6 @@ sections:
           description: Tables, embeds, text, and code blocks
           linktext: Learn more
           url: ""
-  - infopic:
-      title: Info Columns
-      id: infopic
-      description: Break the monotony of paragraphs, and arrange your text in multiple
-        columns instead
-      alt: Info Columns
-      subtitle: Upcoming block
-      image: /images/info columns.png
   - infopic:
       title: Image Cards
       subtitle: upcoming block
