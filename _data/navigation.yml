@@ -25,6 +25,6 @@ links:
       - title: New submenu
         url: /permalink
   - title: New folder
-    collection: asdf
+    collection: "2023"
   - title: asdfasdfasdf
     resource_room: true
