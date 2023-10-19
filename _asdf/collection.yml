@@ -2,10 +2,10 @@ collections:
   asdf:
     output: true
     order:
-      - gitsssss.md
       - ccccc.md
       - bbbbb.md
       - aaaaa.md
-      - Bbbbb/privacy.md
       - Bbbbb/.keep
+      - Bbbbb/privacy.md
       - test fake homepage.md
+      - gitsssss.md
