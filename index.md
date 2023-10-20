@@ -81,21 +81,22 @@ sections:
         - title: Get creative!
           description: What are some other things you'd use Info Columns for?
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Text Cards!
+      subtitle: navigate your site easily
       id: textcards
-      description: Text card description
+      description: Highlight the most important pages on your site, provide a summary,
+        and send users there (if they want to!).
       cards:
-        - title: Card
-          description: Card description
+        - title: "Important page #1"
+          description: Key in a summary of why users should care about this page.
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: "Important page #2"
+          description: Key in a summary of why users should care about this page.
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: "Important page #3"
+          description: Key in a summary of why users should care about this page.
           linktext: Learn more
           url: ""
 image: /images/Slide 16_9 - 6.jpg
