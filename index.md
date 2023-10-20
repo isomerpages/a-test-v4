@@ -21,32 +21,27 @@ sections:
           description: We're moving the needle
           url: ""
   - announcements:
-      title: What we've shipped so far
+      title: Announcements
       id: announcements
       subtitle: "2023"
       announcement_items:
-        - title: Homepage Styles Revamp
-          date: 21 August 2023
-          announcement: We revamped the blocks in the homepage, in preparation for the new
-            blocks we intend to introduce.
+        - title: Styles Revamp
+          date: 12 September 2023
+          announcement: We revamped the blocks in the Home page, Contact us, and
+            Navigation bar, in preparation for the new blocks we intend to
+            introduce.
           link_text: Learn more
           link_url: /page-urls
-        - title: Github Git Solution (GGs)
-          date: 04 September 2023
-          announcement: GGs has proven to be a stable and reliable solution to our Github
-            token issue. It has now been rolled out to 99 email-login sites
-          link_text: ""
-          link_url: ""
-        - title: Contact Us, Nav Bar Styles Revamp
-          date: 12 September 2023
-          announcement: We've extended the latest styles to the Contact Us and Navigation
-            Bar changes as well
-          link_text: ""
-          link_url: ""
-        - title: 3 New blocks
+        - title: New Home page block templates
           date: 28 September 2023
-          announcement: "Users can now make better home pages with the 3 most requested
-            blocks: Hero banner, Text cards, and Announcements."
+          announcement: Users can now make better home pages with new Hero banner layouts,
+            Text cards block, Announcements block, and Info columns.
+          link_text: ""
+          link_url: ""
+        - title: Singpass Login
+          date: 20 October 2023
+          announcement: Tired of waiting for email OTPs? Log into IsomerCMS using Singpass
+            instead.
           link_text: ""
           link_url: ""
   - infopic:
