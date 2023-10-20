@@ -50,7 +50,7 @@ sections:
       description: Break the monotony of paragraphs, and arrange your text in multiple
         columns instead
       alt: Info Columns
-      subtitle: Upcoming block
+      subtitle: New info
       image: /images/info columns.png
   - infopic:
       title: Image Cards
@@ -69,17 +69,17 @@ sections:
       alt: Image alt text
       image: /images/sgid-preview-2.png
   - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
+      title: Info Columns!
+      subtitle: Get creative!
       id: infocols
       linktext: Learn more
       infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
+        - title: Break the monotony
+          description: Organise your content in a more digestible way.
+        - title: Showcase highlights
+          description: Highlight your organisation's values this way.
+        - title: Get creative!
+          description: What are some other things you'd use Info Columns for?
   - textcards:
       title: Text Cards
       subtitle: Add informational text
