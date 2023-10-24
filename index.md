@@ -16,10 +16,6 @@ sections:
       variant: floating
       alignment: left
       size: md
-      key_highlights:
-        - title: NPS went up from -14 → -7
-          description: We're moving the needle
-          url: ""
   - announcements:
       title: Announcements
       id: announcements
