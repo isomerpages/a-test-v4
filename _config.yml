@@ -2,7 +2,7 @@ title: IsomerCMS
 url: https://www.google.com
 favicon: /images/isomer.png
 colors:
-  primary-color: "#7ef459"
+  primary-color: "#ffffff"
   secondary-color: "#0094ff"
   media-colors:
     - title: media-color-one
