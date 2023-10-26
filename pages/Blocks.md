@@ -1,6 +1,6 @@
 ---
 title: Blocks
 permalink: /permalink/
-variant: tiptap
+variant: "blocks"
 description: ""
 ---
