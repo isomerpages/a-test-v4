@@ -1,6 +1,6 @@
 ---
 title: Preview
 permalink: /permalink/
-variant: tiptap
+variant: preview
 description: ""
 ---
