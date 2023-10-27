@@ -1,0 +1,5 @@
+collections:
+  "2023":
+    output: true
+    order:
+      - FRIDAY,  OCTOBER  13,  2023.md
