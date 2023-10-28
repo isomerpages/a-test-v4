@@ -1,0 +1,4 @@
+collections:
+  mvp:
+    output: true
+    order: []
