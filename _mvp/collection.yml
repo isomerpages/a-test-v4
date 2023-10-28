@@ -2,4 +2,5 @@ collections:
   mvp:
     output: true
     order:
+      - Preview.md
       - Blocks.md
