@@ -24,7 +24,5 @@ links:
         url: /permalink
       - title: New submenu
         url: /permalink
-  - title: New folder
-    collection: asdf
   - title: asdfasdfasdf
     resource_room: true
