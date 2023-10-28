@@ -1,5 +1,0 @@
-collections:
-  hello:
-    output: true
-    order:
-      - aaaa.md
