@@ -2,5 +2,6 @@ collections:
   mvp:
     output: true
     order:
+      - Tiptap Blocks.md
       - Preview.md
       - Blocks.md
