@@ -1,6 +1,6 @@
 ---
 title: Tiptap Blocks
 permalink: /mvp/permalink/
-variant: tiptap
+variant: tiptap-blocks
 description: ""
 ---
