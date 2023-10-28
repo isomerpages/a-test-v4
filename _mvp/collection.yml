@@ -1,4 +1,5 @@
 collections:
   mvp:
     output: true
-    order: []
+    order:
+      - Blocks.md
