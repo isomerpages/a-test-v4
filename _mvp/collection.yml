@@ -2,6 +2,6 @@ collections:
   mvp:
     output: true
     order:
-      - Concept 1.md
+      - archive.md
       - Concept 2.md
       - Concept 3.md
