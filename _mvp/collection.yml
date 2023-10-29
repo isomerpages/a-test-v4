@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Tiptap Blocks.md
-      - Preview.md
+      - Concept 1.md
       - Blocks.md
