@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Concept A.md
-      - Concept 2.md
+      - Concept B.md
       - archive.md
