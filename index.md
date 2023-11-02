@@ -96,5 +96,12 @@ sections:
           description: Key in a summary of why users should care about this page.
           linktext: Learn more
           url: ""
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 image: /images/Slide 16_9 - 6.jpg
 ---
