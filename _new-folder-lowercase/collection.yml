@@ -1,4 +1,4 @@
 collections:
-  new-folder:
+  new-folder-lowercase:
     output: true
     order: []
