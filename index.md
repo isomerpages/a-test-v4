@@ -16,6 +16,7 @@ sections:
       variant: floating
       alignment: left
       size: md
+      button: test button
   - announcements:
       title: Announcements
       id: announcements
