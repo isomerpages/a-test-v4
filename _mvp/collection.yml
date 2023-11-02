@@ -2,6 +2,7 @@ collections:
   mvp:
     output: true
     order:
+      - Copy paste with ease with the new RTE.md
       - Concept A.md
       - Concept B.md
       - archive.md
