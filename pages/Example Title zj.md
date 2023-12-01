@@ -1,7 +1,7 @@
 ---
 title: Example Title zj
 permalink: /permalink/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-testingaaa
+<p>testingaaaaaa</p>
