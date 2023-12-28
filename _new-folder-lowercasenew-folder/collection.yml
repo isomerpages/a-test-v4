@@ -1,5 +1,5 @@
 collections:
-  new-folder-lowercase:
+  new-folder-lowercasenew-folder:
     output: true
     order:
       - Example TitleExample TitleExample TitleExample TitleExample TitleExample
