@@ -1,4 +1,6 @@
 collections:
   new-folder-lowercase:
     output: true
-    order: []
+    order:
+      - Example TitleExample TitleExample TitleExample TitleExample TitleExample
+        TitleExample Title.md
