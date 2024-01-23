@@ -17,30 +17,6 @@ sections:
       alignment: left
       size: md
       button: test button
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: "2023"
-      announcement_items:
-        - title: Styles Revamp
-          date: 12 September 2023
-          announcement: We revamped the blocks in the Home page, Contact us, and
-            Navigation bar, in preparation for the new blocks we intend to
-            introduce.
-          link_text: Learn more
-          link_url: /page-urls
-        - title: New Home page block templates
-          date: 28 September 2023
-          announcement: Users can now make better home pages with new Hero banner layouts,
-            Text cards block, Announcements block, and Info columns.
-          link_text: ""
-          link_url: ""
-        - title: Singpass Login
-          date: 20 October 2023
-          announcement: Tired of waiting for email OTPs? Log into IsomerCMS using Singpass
-            instead.
-          link_text: ""
-          link_url: ""
   - infopic:
       title: Info Columns
       id: infopic
@@ -77,6 +53,30 @@ sections:
           description: Highlight your organisation's values this way.
         - title: Get creative!
           description: What are some other things you'd use Info Columns for?
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: "2023"
+      announcement_items:
+        - title: Styles Revamp
+          date: 12 September 2023
+          announcement: We revamped the blocks in the Home page, Contact us, and
+            Navigation bar, in preparation for the new blocks we intend to
+            introduce.
+          link_text: Learn more
+          link_url: /page-urls
+        - title: New Home page block templates
+          date: 28 September 2023
+          announcement: Users can now make better home pages with new Hero banner layouts,
+            Text cards block, Announcements block, and Info columns.
+          link_text: ""
+          link_url: ""
+        - title: Singpass Login
+          date: 20 October 2023
+          announcement: Tired of waiting for email OTPs? Log into IsomerCMS using Singpass
+            instead.
+          link_text: ""
+          link_url: ""
   - textcards:
       title: Text Cards!
       subtitle: navigate your site easily
