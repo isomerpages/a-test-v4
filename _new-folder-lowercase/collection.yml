@@ -1,0 +1,4 @@
+collections:
+  new-folder-lowercase:
+    output: true
+    order: []

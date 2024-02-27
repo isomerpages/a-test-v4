@@ -1,0 +1,8 @@
+collections:
+  mvp:
+    output: true
+    order:
+      - Copy paste easily with the new Page editor.md
+      - Concept A.md
+      - Concept B.md
+      - archive.md

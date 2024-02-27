@@ -1,0 +1,29 @@
+collections:
+  default:
+    output: true
+    order:
+      - card.md
+      - 把我如到.md
+      - A & a/Example Titles.md
+      - A & a/Example Title 2.md
+      - A & a/Example Title.md
+      - A & a/.keep
+      - "late #hashtag.md"
+      - "@hello.md"
+      - "#hastag.md"
+      - Got space 2/#Hashtag.md
+      - Got space 2/henlo.md
+      - Got space 2/Example Title.md
+      - Got space 2/.keep
+      - Example Title edited.md
+      - 把我如到價小小岸發.md
+      - Test 2 renamed/.keep
+      - Test 2 renamed/Example Title.md
+      - Test New Name 2/.keep
+      - Test new name 3/.keep
+      - Test new name 3/Example Title.md
+      - Blca/external.md
+      - Blca/.keep
+      - Blca/Example Title.md
+      - Blca/#Example Title 3.md
+      - லோரம் இப்சம்.md

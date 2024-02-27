@@ -1,0 +1,60 @@
+title: IsomerCMS
+url: https://www.google.com
+favicon: /images/isomer.png
+colors:
+  primary-color: "#9aff5e"
+  secondary-color: "#0094ff"
+  media-colors:
+    - title: media-color-one
+      color: "#2180cb"
+    - title: media-color-two
+      color: "#1919fd"
+    - title: media-color-three
+      color: "#9b9b9b"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#000000"
+description: An Isomer site of the Singapore Government!
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://a-test-v4-staging.netlify.app
+prod: https://e2e-test-repo-prod.netlify.app
+shareicon: /images/Slide 16_9 - 6.jpg
+linkedin-insights: test
+is_government: true
+google_analytics: a
+google_analytics_ga4: G-DFFR7SL4X6
+resources_name: renamed-dsfdsf
+facebook-pixel: "1234567890123457"

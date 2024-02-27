@@ -1,0 +1,31 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Co Curriculum/.keep
+      - Co Curriculum/Program for Active Learning.md
+      - Co Curriculum/Floorball.md
+      - Co Curriculum/Football.md
+      - Co Curriculum/Netball.md
+      - Co Curriculum/Wushu.md
+      - Co Curriculum/Modern Dance.md
+      - Co Curriculum/Art Club.md
+      - Co Curriculum/Environment Science Club.md
+      - Co Curriculum/ICT Club.md
+      - Curriculum/Example Title.md
+      - Curriculum/.keep
+      - Curriculum/English Language.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Mother Tongue Languages.md
+      - Curriculum/Science.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Information & Communications Technology.md
+      - CCE, ECG & Sexuality Education/.keep
+      - CCE, ECG & Sexuality Education/This is a test of a very long page title
+        that fills up the limit.md
+      - CCE, ECG & Sexuality Education/MOE Sexuality Education.md
+      - CCE, ECG & Sexuality Education/Social Studies.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme/.keep
+      - Learning for Life Programme/Learning for Life Programme.md
