@@ -22,7 +22,8 @@ collections:
       - Curriculum/Aesthetics.md
       - Curriculum/Information & Communications Technology.md
       - CCE, ECG & Sexuality Education/.keep
-      - CCE, ECG & Sexuality Education/Character & Citizenship Education.md
+      - CCE, ECG & Sexuality Education/This is a test of a very long page title
+        that fills up the limit.md
       - CCE, ECG & Sexuality Education/MOE Sexuality Education.md
       - CCE, ECG & Sexuality Education/Social Studies.md
       - Applied Learning Programme.md

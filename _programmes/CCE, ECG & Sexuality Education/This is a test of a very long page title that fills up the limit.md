@@ -1,8 +1,9 @@
 ---
-title: Character & Citizenship Education
+title: This is a test of a very long page title that fills up the limit
 permalink: /curriculum/cce/
 description: ""
 third_nav_title: CCE, ECG & Sexuality Education
+variant: tiptap
 ---
 ### Leading and Learning with H.E.A.R.T.
 
