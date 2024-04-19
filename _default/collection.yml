@@ -2,8 +2,6 @@ collections:
   default:
     output: true
     order:
-      - Test  test/Example Title.md
-      - Test  test/.keep
       - Test#test$test/.keep
       - 把我如到把我如到/testing.md
       - 把我如到把我如到/.keep
