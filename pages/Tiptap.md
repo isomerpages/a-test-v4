@@ -62,6 +62,6 @@ variant: tiptap
 </div>
 <p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
 </p>
-<p><a href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" rel="noopener noreferrer nofollow" target="_blank">CrowdTaskSG </a>or
+<p><a href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" rel="noopener noreferrer nofollow" target="_blank">CrowdTaskSG</a> or
 something else</p>
 <p></p>
