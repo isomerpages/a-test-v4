@@ -62,7 +62,7 @@ variant: tiptap
 </div>
 <p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
 </p>
-<p><a href="/products-and-services/for-citizens/health/" rel="noopener noreferrer nofollow" target="_blank">Healthy365</a>,
+<p><a href="/products-and-services/for-citizens/health/" rel="noopener noreferrer nofollow" target="_blank">Healthy365</a> 
 <a href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" rel="noopener noreferrer nofollow" target="_blank">CrowdTaskSG</a>or <a href="https://docs.developer.tech.gov.sg/docs?product=Workpal" rel="noopener noreferrer nofollow" target="_blank">Workpal</a>
 </p>
 <p></p>
