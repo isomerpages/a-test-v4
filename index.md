@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: IsomerCMS
-description: An Isomer site of the Singapore Government!
+description: An Isomer site of the Singapore Government
 permalink: /
 notification: ""
 sections:
